@@ -1,5 +1,5 @@
 import streamlit as st
-from utils import get_result
+from utils import get_result, detectlanguageandanswer
 
 Nodes = ["No Nodes Yet"]
 
@@ -26,7 +26,8 @@ def lab():
     # Add user message to chat history
         st.session_state.messages.append({"role": "user", "content": prompt})
         with st.spinner("Fetching..."):
-            response, Nodes = get_result(prompt)
+            response1, Nodes = get_result(prompt)
+            response = detectlanguageandanswer(prompt)
             # print(response)
             # Display assistant response in chat message container
             
