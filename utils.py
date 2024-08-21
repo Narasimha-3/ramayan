@@ -1,14 +1,14 @@
 def get_result(prompt):
     import requests
     URL = "http://127.0.0.1:8000/post"
-    PARAMS = {'post':"who is rama"}
+    PARAMS = {'post':prompt}
     r = requests.post(url = URL, params = PARAMS)
     return r.json().get('response'), r.json().get('source_nodes')
 
 
 def detectlanguageandanswer(question):
 
-    from translate import Translator
+    # from translate import Translator
     import langid
     from deep_translator import GoogleTranslator
 
@@ -19,8 +19,10 @@ def detectlanguageandanswer(question):
     translator = GoogleTranslator(source = "auto", target = "en")
     translation = translator.translate(question)
 
-
-    response, _ = get_result(translation)
+    try:
+        response, _ = get_result(translation)
+    except (Exception) as e:
+        response = "Sorry, I am not able to answer this question." + str(e)
 
     anstransl = GoogleTranslator(source = "en", target = language)
     answer = anstransl.translate(str(response))
