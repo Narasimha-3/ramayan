@@ -1,11 +1,8 @@
 
+import os
 import google.generativeai as genai
 
-# genai.configure(api_key="AIzaSyDGEhvcZdGAUZXl2wFsw_IpCLpqLb9zaac")
-#AIzaSyCEPxUHNpuBrX85pcf_J0Bp5vK09fPX9xQ - sriram
-#AIzaSyBN-3dcpfRnysyExc8W7jWbsti8chYc6kQ
-#AIzaSyA9jyoCXwuWeohJNfjUHyH8-J0eH4ajjqI - Narasimha
-genai.configure(api_key="AIzaSyA9jyoCXwuWeohJNfjUHyH8-J0eH4ajjqI")
+genai.configure(api_key=os.environ.get("GOOGLE_API_KEY"))
 
 model = genai.GenerativeModel('gemini-1.5-pro')
 
