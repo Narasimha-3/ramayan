@@ -1,0 +1,5642 @@
+jai_balayya_ew
+```
+('hanuman', 'is_in', 'canto_1')
+('sita', 'is_in', 'canto_1')
+('surasa', 'is_in', 'canto_1')
+('simhika', 'is_in', 'canto_1')
+('hanuman', 'prepares_for', 'leap_across_ocean')
+('hanuman', 'starts_from', 'mount_mahendra')
+('hanuman', 'honors', 'sun_god')
+('hanuman', 'honors', 'indra')
+('hanuman', 'honors', 'wind_god')
+('hanuman', 'honors', 'brahma')
+('hanuman', 'receives_power_from', 'wind_god')
+('hanuman', 'leaps_towards', 'lanka')
+('hanuman', 'encounters', 'surasa')
+('surasa', 'is_mother_of', 'nagas')
+('hanuman', 'tricks', 'surasa')
+('hanuman', 'kills', 'simhika')
+('simhika', 'is_ogress', '')
+('hanuman', 'seeks', 'sita')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'is_in', 'canto_1')
+('surasa', 'is_in', 'canto_1')
+('simhika', 'is_in', 'canto_1')
+('sita', 'is_in', 'canto_1')
+('mainaka', 'is_in', 'canto_1')
+
+
+('hanuman', 'leaps_from', 'mount_mahendra')
+('hanuman', 'encounters', 'surasa')
+('hanuman', 'encounters', 'simhika')
+('hanuman', 'enters', 'lanka')
+('hanuman', 'searches_for', 'sita')
+('surasa', 'is_mother_of', 'nagas')
+('surasa', 'tries_to_devour', 'hanuman')
+('hanuman', 'tricks', 'surasa')
+('simhika', 'tries_to_devour', 'hanuman')
+('hanuman', 'kills', 'simhika')
+('mainaka', 'offers_rest_to', 'hanuman')
+
+('surasa', 'sent_by', 'gods')
+('mainaka', 'rose_from', 'sea')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'is_in', 'canto_1')
+('rama', 'is_in', 'canto_1')
+('sita', 'is_in', 'canto_1')
+('surasa', 'is_in', 'canto_1')
+('simhika', 'is_in', 'canto_1')
+('mainaka', 'is_in', 'canto_1')
+
+
+('hanuman', 'leaps_across_ocean', 'search_for_sita')
+('hanuman', 'encounters_surasa', 'journey_to_lanka')
+('hanuman', 'tricks_surasa', 'journey_to_lanka')
+('hanuman', 'kills_simhika', 'journey_to_lanka')
+('hanuman', 'meets_mainaka', 'journey_to_lanka')
+('rama', 'seeks_sita', 'lanka_search')
+('sita', 'is_in_lanka', 'captivity')
+('surasa', 'tests_hanuman', 'divine_intervention')
+('simhika', 'obstructs_hanuman', 'demon_encounter')
+
+
+('hanuman', 'serves', 'rama')
+('surasa', 'is_mother_of', 'nagas')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'prepares_for', 'leap_to_lanka')
+('hanuman', 'is_in', 'canto_1')
+('hanuman', 'travels_to', 'lanka')
+('hanuman', 'searches_for', 'sita')
+('sita', 'is_daughter_of', 'janaka')
+('sita', 'is_in', 'canto_1')
+('hanuman', 'threatens_to_capture', 'ravana')
+('ravana', 'is_in', 'canto_1')
+('hanuman', 'compares_himself_to', 'garuda')
+('hanuman', 'honors', 'mount_mainaka')
+('hanuman', 'encounters', 'surasa')
+('surasa', 'is_mother_of', 'nagas')
+('hanuman', 'tricks', 'surasa')
+('hanuman', 'kills', 'simhika')
+('hanuman', 'avoids', 'ogres')
+('rama', 'is_related_in_canto_1', 'hanuman')
+('janaka', 'is_related_in_canto_1', 'sita')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'journey_to_lanka', 'leap_from_mahendra')
+('hanuman', 'encounters', 'surasa')
+('hanuman', 'kills', 'simhika')
+('hanuman', 'enters_lanka', 'shrinks_body')
+('surasa', 'is_mother_of', 'nagas')
+('hanuman', 'related_in_canto_1', 'surasa')
+('hanuman', 'related_in_canto_1', 'simhika')
+('hanuman', 'is_in', 'canto_1')
+('surasa', 'is_in', 'canto_1')
+('simhika', 'is_in', 'canto_1')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```python
+[
+('hanuman', 'journeyed_to_lanka', 'search_for_sita'),
+('hanuman', 'encountered', 'surasa'),
+('hanuman', 'defeated', 'surasa'),
+('hanuman', 'encountered', 'simhika'),
+('hanuman', 'killed', 'simhika'),
+('hanuman', 'is_son_of', 'wind_god'),
+('surasa', 'is_mother_of', 'nagas'),
+('hanuman', 'is_in', 'canto_1'),
+('sita', 'is_in', 'canto_1'),
+('surasa', 'is_in', 'canto_1'),
+('simhika', 'is_in', 'canto_1')
+
+]
+```jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'crossed_the_ocean', 'search_for_sita')
+('hanuman', 'encountered_surasa', 'search_for_sita')
+('hanuman', 'defeated_simhika', 'search_for_sita')
+('hanuman', 'reached_lanka', 'search_for_sita')
+('surasa', 'mother_of', 'nagas')
+('hanuman', 'is_in', 'canto_1')
+('sita', 'is_in', 'canto_1')
+('surasa', 'is_in', 'canto_1')
+('simhika', 'is_in', 'canto_1')
+
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'is_in', 'canto_1')
+('surasa', 'is_in', 'canto_1')
+('simhika', 'is_in', 'canto_1')
+('mainaka', 'is_in', 'canto_1')
+('rama', 'is_in', 'canto_1')
+('ocean_god', 'is_in', 'canto_1')
+('sita', 'is_in', 'canto_1')
+
+
+('hanuman', 'journeys_to_lanka', 'to_find_sita')
+('hanuman', 'receives_help_from', 'celestial_beings')
+('hanuman', 'serves', 'rama')
+('hanuman', 'encounters', 'surasa')
+('surasa', 'tests', 'hanuman')
+('hanuman', 'outsmarts', 'surasa')
+('hanuman', 'kills', 'simhika')
+('simhika', 'threatens', 'hanuman')
+('ocean_god', 'helps', 'hanuman')
+('mainaka', 'offers_rest_to', 'hanuman')
+('hanuman', 'rests_on', 'mainaka')
+('mainaka', 'serves_as_barrier_against', 'demons')
+('rama', 'is_husband_of', 'sita')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'is_in', 'canto_1')
+('varuna', 'is_in', 'canto_1')
+('mainaka', 'is_in', 'canto_1')
+('surasa', 'is_in', 'canto_1')
+('simhika', 'is_in', 'canto_1')
+('rama', 'is_in', 'canto_1')
+
+
+('hanuman', 'serves', 'rama')
+('varuna', 'requests', 'mainaka')
+('mainaka', 'helps', 'hanuman')
+('hanuman', 'meets', 'surasa')
+('hanuman', 'kills', 'simhika')
+('hanuman', 'travels_to', 'lanka')
+
+
+('hanuman', 'crosses_ocean', 'to_find_sita')
+('hanuman', 'honors', 'mainaka_mountain')
+('mainaka', 'offers_rest', 'to_hanuman')
+('surasa', 'tries_to_eat', 'hanuman')
+('hanuman', 'tricks', 'surasa')
+('simhika', 'tries_to_eat', 'hanuman')
+('hanuman', 'enters_lanka', 'to_find_sita')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'encountered', 'mainaka_mountain')
+('hanuman', 'struck', 'mainaka_mountain')
+('mainaka', 'offered_rest', 'hanuman')
+('mainaka', 'recognized', 'hanuman_strength')
+('mainaka', 'honored', 'hanuman')
+('varuna', 'requested', 'mainaka_help_hanuman')
+('hanuman', 'is_on_mission_for', 'rama')
+('mainaka', 'is_grateful_to', 'rama_ancestors')
+('hanuman', 'is_on_journey_to', 'lanka')
+('hanuman', 'seeks', 'sita')
+
+('hanuman', 'is_son_of', 'kesari') # inferred from external sources as it's not in provided text
+('rama', 'is_husband_of', 'sita') # inferred from external sources as it's not in provided text
+
+
+('hanuman', 'is_in', 'canto_1')
+('mainaka', 'is_in', 'canto_1')
+('varuna', 'is_in', 'canto_1')
+('rama', 'is_in', 'canto_1')
+('sita', 'is_in', 'canto_1')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'is_son_of', 'vayu')
+('vayu', 'saved', 'mainaka')
+('indra', 'attacked', 'mainaka')
+('hanuman', 'met', 'mainaka')
+('hanuman', 'declined_hospitality_of', 'mainaka')
+('mainaka', 'offered_hospitality_to', 'hanuman')
+('hanuman', 'is_going_to', 'lanka')
+('hanuman', 'searching_for', 'sita')
+('hanuman', 'killed', 'simhika')
+('hanuman', 'outsmarted', 'surasa')
+
+
+('hanuman', 'honoring_mainaka', 'meeting_mainaka')
+('mainaka', 'offering_hospitality', 'meeting_hanuman')
+('hanuman', 'declining_hospitality', 'meeting_mainaka')
+('hanuman', 'leaping_from_mahendra', 'journey_to_lanka')
+('hanuman', 'encountering_surasa', 'journey_to_lanka')
+('hanuman', 'encountering_simhika', 'journey_to_lanka')
+
+
+('hanuman', 'is_in', 'canto_1')
+('mainaka', 'is_in', 'canto_1')
+('vayu', 'is_in', 'canto_1')
+('indra', 'is_in', 'canto_1')
+('sita', 'is_in', 'canto_1')
+('surasa', 'is_in', 'canto_1')
+('simhika', 'is_in', 'canto_1')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'declined_offer_from', 'mainaka')
+('hanuman', 'touched', 'mainaka_mountain')
+('hanuman', 'is_son_of', 'wind')
+('hanuman', 'searched_for', 'sita')
+('hanuman', 'resisted', 'temptation_of_rest')
+('hanuman', 'journeyed_for', 'rama')
+('indra', 'praised', 'mainaka')
+('indra', 'granted_freedom_to', 'mainaka')
+('mainaka', 'offered_rest_to', 'hanuman')
+('mainaka', 'rejoiced_at', 'indra_satisfaction')
+('surasa', 'tried_to_devour', 'hanuman')
+('simhika', 'tried_to_devour', 'hanuman')
+('hanuman', 'killed', 'simhika')
+
+
+('hanuman', 'declined_rest', 'finding_sita')
+('hanuman', 'showed_respect', 'ascending_into_sky')
+('hanuman', 'received_blessings', 'soaring_through_sky')
+('hanuman', 'continued_flight', 'following_wind')
+('gods_siddhas_rishis', 'praised_dedication', 'hanuman_mission')
+('indra', 'expressed_pleasure', 'mainaka_hospitality')
+('hanuman', 'undertook_arduous_journey', 'for_rama')
+('hanuman', 'is in', 'canto_1')
+('mainaka', 'is in', 'canto_1')
+('surasa', 'is in', 'canto_1')
+('simhika', 'is in', 'canto_1')
+('indra', 'is in', 'canto_1')
+('sita', 'is in', 'canto_1')
+('rama', 'is in', 'canto_1')
+
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'encountered', 'surasa_encounter')
+('surasa', 'is_mother_of', 'nagas')
+('gods', 'tested', 'hanuman_strength')
+('rishis', 'tested', 'hanuman_strength')
+('siddhas', 'tested', 'hanuman_strength')
+('surasa', 'challenged', 'hanuman')
+('hanuman', 'explained_mission_to', 'surasa')
+('hanuman', 'searched_for', 'sita')
+('ravana', 'abducted', 'sita')
+('hanuman', 'is_in', 'canto_1')
+('surasa', 'is_in', 'canto_1')
+('rama', 'rules', 'ocean')
+('hanuman', 'crossed', 'ocean')
+('hanuman', 'honoured', 'mount_mainaka')
+('simhika', 'challenged', 'hanuman')
+('hanuman', 'killed', 'simhika')
+```
+jai_balayya_ew
+jai_balayya_ew
+```python
+[
+    ('hanuman', 'meets', 'surasa'),
+    ('hanuman', 'meets', 'simhika'),
+    ('surasa', 'challenges', 'hanuman'),
+    ('hanuman', 'passes_test', 'surasa'), 
+    ('simhika', 'tries_to_eat', 'hanuman'),
+    ('hanuman', 'kills', 'simhika'),
+    ('hanuman', 'seeks', 'sita'),
+    ('hanuman', 'journeys_to', 'lanka'),
+    ('hanuman', 'honors', 'mount_mainaka'),
+
+    ('hanuman', 'is_in', 'canto_1'),
+    ('surasa', 'is_in', 'canto_1'),
+    ('simhika', 'is_in', 'canto_1'),
+    ('sita', 'is_in', 'canto_1'),
+    ('rama', 'is_in', 'canto_1'),
+
+
+
+    ('surasa', 'is_mother_of', 'nagas'),
+    ('hanuman', 'related_in_canto_1', 'rama'),
+    ('hanuman', 'related_in_canto_1', 'sita'),
+    ('hanuman', 'related_in_canto_1', 'surasa'),
+    ('hanuman', 'related_in_canto_1', 'simhika'),
+
+]
+```jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'is_in', 'canto_1')
+('surasa', 'is_in', 'canto_1')
+('rama', 'is_in', 'canto_1')
+('sita', 'is_in', 'canto_1')
+('garuda', 'is_in', 'canto_1')
+('simhika', 'is_in', 'canto_1')
+
+
+('hanuman', 'shrinks_himself', 'enters_surasas_mouth')
+('hanuman', 'tricks_surasa', 'exits_surasas_mouth')
+('hanuman', 'meets', 'surasa')
+('surasa', 'tests', 'hanuman')
+('hanuman', 'continues_journey', 'flies_to_lanka')
+('hanuman', 'seeks', 'sita')
+('surasa', 'grants_passage', 'hanuman')
+('hanuman', 'displays', 'intelligence')
+('hanuman', 'displays', 'strength')
+('hanuman', 'kills', 'simhika')
+
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'travels_through', 'celestial_realm')
+('hanuman', 'encounters', 'surasa')
+('hanuman', 'kills', 'simhika')
+('hanuman', 'searches_for', 'sita')
+('hanuman', 'leaps_from', 'mount_mahendra')
+('hanuman', 'honors', 'mount_mainaka')
+('surasa', 'is_mother_of', 'nagas')
+('surasa', 'tries_to_devour', 'hanuman')
+('simhika', 'tries_to_devour', 'hanuman')
+('hanuman', 'is in', 'canto_1')
+
+
+('hanuman', 'context_leap', 'search_for_sita')
+('hanuman', 'context_encounter', 'surasa_challenge')
+('hanuman', 'context_kill', 'simhika_obstacle')
+('surasa', 'context_role', 'test_hanuman')
+('simhika', 'context_role', 'obstacle_for_hanuman')
+
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'is_in', 'canto_1')
+('simhika', 'is_in', 'canto_1')
+('sugriva', 'is_in', 'canto_1')
+('surasa', 'is_in', 'canto_1')
+('hanuman', 'travels_to', 'lanka')
+('hanuman', 'encounters', 'simhika')
+('hanuman', 'warned_by', 'sugriva')
+('hanuman', 'kills', 'simhika')
+('simhika', 'attacks', 'hanuman')
+('sugriva', 'related_in_canto_1', 'hanuman')
+('surasa', 'is_mother_of', 'nagas')
+('hanuman', 'encounters', 'surasa')
+('hanuman', 'tricks', 'surasa')
+('hanuman', 'jumps_from', 'mount_mahendra')
+('hanuman', 'touches', 'mount_mainaka')
+('hanuman', 'seeks', 'sita')
+
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'killed', 'simhika')
+* ('hanuman', 'encountered', 'simhika')
+* ('simhika', 'attacked', 'hanuman')
+* ('hanuman', 'journey_to_lanka', 'search_for_sita')
+* ('hanuman', 'killed_simhika', 'journey_to_lanka')
+* ('hanuman', 'is_in', 'canto_1')
+* ('simhika', 'is_in', 'canto_1')
+* ('surasa', 'is_in', 'canto_1')
+* ('hanuman', 'encountered', 'surasa')
+* ('hanuman', 'honoured_mainaka', 'journey_to_lanka')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'crossed_ocean', 'finds_lanka')
+* ('hanuman', 'shrinks_form', 'avoids_ogres')
+* ('hanuman', 'lands_on_lamba', 'finds_lanka')
+* ('hanuman', 'enters_surasa', 'passes_test')
+* ('hanuman', 'kills_simhika', 'passes_test')
+* ('hanuman', 'is_in', 'canto_1')
+* ('surasa', 'is_mother_of', 'nagas')
+* ('surasa', 'tests', 'hanuman')
+* ('simhika', 'tests', 'hanuman')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'is_in', 'canto_10')
+* ('ravana', 'is_in', 'canto_10')
+* ('mandodari', 'is_in', 'canto_10')
+* ('sita', 'is_mentioned_in', 'canto_10')
+
+
+* ('hanuman', 'searched_for', 'sita')
+* ('hanuman', 'found', 'ravana')
+* ('hanuman', 'saw', 'mandodari')
+* ('hanuman', 'mistook_mandodari_as', 'sita')
+* ('ravana', 'slept_on', 'couch')
+* ('ravana', 'wore', 'jewels')
+* ('mandodari', 'slept_near', 'ravana')
+* ('mandodari', 'wore', 'jewels')
+
+jai_balayya_ew
+jai_balayya_ew
+```python
+[
+('hanuman', 'is_in', 'canto_10'),
+('ravana', 'is_in', 'canto_10'),
+('mandodari', 'is_in', 'canto_10'),
+('sita', 'is_in', 'canto_10'),
+
+
+('hanuman', 'observes_sleeping', 'ravana'),
+('ravana', 'sleeps_on', 'couch'),
+('ravana', 'has', 'gold_adorned_arms'),
+('ravana', 'fought_with', 'indra'),
+('ravana', 'fought_with', 'vishnu'),
+('ravana', 'has', 'powerful_form'),
+('hanuman', 'compares_ravana_arms_to', 'serpents'),
+('mandodari', 'is_wife_of', 'ravana'),
+('hanuman', 'mistakes_mandodari_for', 'sita'),
+
+('hanuman', 'witnesses_ravana_resting', 'canto_10'),
+('ravana', 'rests_in_palace', 'canto_10'),
+('mandodari', 'sleeps_near_ravana', 'canto_10'),
+
+]
+```jai_balayya_ew
+jai_balayya_ew
+* (ravana, is_in, canto_10)
+* (mandodari, is_wife_of, ravana)
+* (mandodari, is_in, canto_10)
+* (hanuman, is_in, canto_10)
+* (hanuman, saw_ravana, canto_10)
+* (hanuman, saw_mandodari, canto_10)
+* (hanuman, mistook_mandodari_for_sita, canto_10)
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'is_in', 'canto_10')
+('ravana', 'is_in', 'canto_10')
+('mandodari', 'is_in', 'canto_10')
+('sita', 'is_mentioned_in', 'canto_10')
+
+('hanuman', 'saw', 'ravana_sleeping')
+('hanuman', 'saw', 'mandodari_sleeping')
+('hanuman', 'mistook', 'mandodari_for_sita')
+('ravana', 'is_husband_of', 'mandodari')
+('hanuman', 'exhibited_joy', 'simian_gestures')
+
+('ravana', 'was_resting_on', 'couch')
+('mandodari', 'was_lying_on', 'couch')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'is_in', 'canto_10')
+* ('ravana', 'is_in', 'canto_10')
+* ('mandodari', 'is_in', 'canto_10')
+* ('sita', 'is_in', 'canto_10')
+* ('hanuman', 'mistook', 'mandodari_for_sita')
+* ('hanuman', 'searched_for', 'sita')
+* ('mandodari', 'is_wife_of', 'ravana')
+* ('ravana', 'is_husband_of', 'mandodari')
+* ('hanuman', 'observed', 'ravana_sleeping')
+* ('hanuman', 'observed', 'mandodari_sleeping')
+* ('mandodari', 'related_in_canto_10', 'ravana')
+* ('mandodari', 'related_in_canto_10', 'hanuman')
+* ('sita', 'related_in_canto_10', 'hanuman')
+* ('ravana', 'related_in_canto_10', 'hanuman')
+
+jai_balayya_ew
+jai_balayya_ew
+```python
+[
+('hanuman', 'is_in', 'canto_11'),
+('ravana', 'is_in', 'canto_11'),
+('sita', 'is_related_in_canto_11', 'hanuman'),
+('sita', 'is_related_in_canto_11', 'ravana'),
+('hanuman', 'searched_for', 'sita'),
+('ravana', 'is_among', 'women'),
+
+]
+```jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'is_in', 'canto_11')
+* ('ravana', 'is_in', 'canto_11')
+* ('sita', 'is_in', 'canto_11')
+* ('hanuman', 'searched_for', 'sita_in_palace')
+* ('hanuman', 'found', 'banquet_hall')
+* ('ravana', 'owns', 'palace')
+* ('hanuman', 'observed', 'various_foods')
+* ('hanuman', 'saw', 'luxurious_items')
+* ('hanuman', 'witnessed', 'discarded_jewelry')
+
+
+jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'is_in', 'canto_11')
+('sita', 'is_in', 'canto_11')
+('ravana', 'is_related_in_canto_11', 'sita')
+('hanuman', 'searched', 'ravana_palace')
+('hanuman', 'observed', 'banquet_hall')
+('hanuman', 'observed', 'sleeping_quarters')
+('women', 'were_in', 'sleeping_quarters')
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'is_in', 'canto_11')
+* ('ravana', 'is_in', 'canto_11')
+* ('sita', 'is_in', 'canto_11')
+* ('hanuman', 'searched', 'ravana_palace')
+* ('hanuman', 'encountered', 'fragrant_breezes')
+* ('hanuman', 'observed', 'sleeping_women')
+* ('hanuman', 'could_not_find', 'sita')
+* ('hanuman', 'avoided', 'lustful_gaze')
+* ('hanuman', 'searched_for', 'sita')
+* ('ravana', 'has_wives', 'women_in_palace')
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'is_in', 'canto_11')
+* ('sita', 'is_in', 'canto_11')
+* ('ravana', 'is_in', 'canto_11')
+* ('hanuman', 'searched_for', 'sita')
+* ('sita', 'is_wife_of', 'ravana')
+* ('hanuman', 'searched_in', 'ravana_palace')
+* ('hanuman', 'searched_in', 'gynaeceum')
+* ('hanuman', 'did_not_find', 'sita')
+* ('hanuman', 'saw', 'celestial_nymphs')
+* ('hanuman', 'saw', 'daughters_of_gods')
+* ('hanuman', 'saw', 'gandharvas')
+* ('hanuman', 'saw', 'nagas')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'is_searching_for', 'sita')
+('hanuman', 'searched_ravana_palace', 'canto_12')
+('sita', 'is_wife_of', 'rama')
+('ravana', 'is_in', 'canto_12')
+('hanuman', 'is_in', 'canto_12')
+('sita', 'is_in', 'canto_12')
+('hanuman', 'feels_despair', 'canto_12')
+('hanuman', 'is_worried_about', 'sugriva')
+('hanuman', 'is_worried_about', 'jambavan')
+('hanuman', 'is_worried_about', 'angada')
+('sugriva', 'is_in', 'canto_12')
+('jambavan', 'is_in', 'canto_12')
+('angada', 'is_in', 'canto_12')
+('hanuman', 'continues_search', 'canto_12')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'is_son_of', 'wind_god')
+('hanuman', 'searched_ravana_palace', 'canto_12')
+('hanuman', 'encountered_ogresses', 'canto_12')
+('hanuman', 'encountered_vidyadhara_women', 'canto_12')
+('hanuman', 'encountered_naga_princesses', 'canto_12')
+('hanuman', 'felt_despair', 'canto_12')
+('hanuman', 'is_in', 'canto_12')
+('ravana', 'captured_women', 'canto_12')
+('ravana', 'is_in', 'canto_12')
+('sita', 'is_missing', 'canto_12')
+('sita', 'is_in', 'canto_12')
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'is_in', 'canto_13')
+* ('sita', 'is_in', 'canto_13')
+* ('ravana', 'is_in', 'canto_13')
+* ('sampati', 'related_in_canto_13', 'hanuman')
+* ('hanuman', 'searched_for', 'sita')
+* ('hanuman', 'travelled_in', 'puspaka')
+* ('sita', 'possibly_abducted_by', 'ravana')
+* ('sita', 'possibly_killed_by', 'ravana')
+* ('ravana', 'has_palace_in', 'lanka')
+* ('hanuman', 'searched_lanka_for', 'sita')
+* ('sampati', 'told_about_sita_to', 'hanuman')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'is_in', 'canto_13')
+('sita', 'is_in', 'canto_13')
+('rama', 'is_in', 'canto_13')
+('lakshmana', 'is_related_in_canto_13_of', 'rama')
+('ravana', 'is_in', 'canto_13')
+('sugriva', 'is_in', 'canto_13')
+
+
+('hanuman', 'searched_for', 'sita')
+('hanuman', 'imagined_fate_of', 'sita')
+('sita', 'is_wife_of', 'rama')
+('sita', 'possibly_perished_thinking_of', 'rama')
+('sita', 'cried_out_for', 'rama')
+('sita', 'cried_out_for', 'lakshmana')
+('sita', 'cried_out_for', 'ayodhya')
+('sita', 'possibly_imprisoned_by', 'ravana')
+('hanuman', 'considered_fate_of', 'sita')
+('hanuman', 'considered_impact_on', 'rama')
+('hanuman', 'worried_about', 'sugriva')
+('hanuman', 'worried_about', 'rama')
+('hanuman', 'worried_about_monkeys')
+('hanuman', 'crossed_ocean', 'reach_lanka')
+('hanuman', 'faced_demons', 'find_sita')
+
+('hanuman', 'grieved_over', 'sita_disappearance')
+('rama', 'might_die_from_grief_due_to', 'sita_disappearance')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'is_in', 'canto_13')
+('sita', 'is_in', 'canto_13')
+('rama', 'is_in', 'canto_13')
+('lakshmana', 'is_in', 'canto_13')
+('bharata', 'is_in', 'canto_13')
+('shatrughna', 'is_in', 'canto_13')
+('kausalya', 'is_in', 'canto_13')
+('sumitra', 'is_in', 'canto_13')
+('kaikeyi', 'is_in', 'canto_13')
+
+
+('hanuman', 'finds', 'sita_missing')
+('hanuman', 'considers', 'sita_dead')
+('sita', 'presumed', 'dead')
+('rama', 'affected_by', 'sita_death')
+('lakshmana', 'affected_by', 'rama_grief')
+('bharata', 'affected_by', 'rama_death')
+('shatrughna', 'affected_by', 'rama_death')
+('kausalya', 'affected_by', 'sons_death')
+('sumitra', 'affected_by', 'sons_death')
+('kaikeyi', 'affected_by', 'sons_death')
+('sugriva', 'affected_by', 'rama_death')
+('ruma', 'affected_by', 'sugriva_death')
+('tara', 'affected_by', 'vali_death') 
+('angada', 'affected_by', 'sugriva_death')
+('monkeys', 'devoted_to', 'rama')
+('monkeys', 'affected_by', 'rama_death')
+
+
+('rama', 'brother_of', 'lakshmana')
+('rama', 'brother_of', 'bharata')
+('rama', 'brother_of', 'shatrughna')
+('lakshmana', 'brother_of', 'bharata')
+('lakshmana', 'brother_of', 'shatrughna')
+('bharata', 'brother_of', 'shatrughna')
+('rama', 'son_of', 'kausalya')
+('lakshmana', 'son_of', 'sumitra')
+('bharata', 'son_of', 'kaikeyi')
+('shatrughna', 'son_of', 'sumitra')
+('sugriva', 'husband_of', 'ruma')
+
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'is_in', 'canto_13')
+* ('sita', 'is_in', 'canto_13')
+* ('rama', 'is_in', 'canto_13')
+* ('sugriva', 'is_in', 'canto_13')
+* ('ravana', 'is_in', 'canto_13')
+
+
+* ('hanuman', 'feels_despair_over', 'sita_disappearance')
+* ('hanuman', 'believes_responsible_for', 'ikshvaku_dynasty_devastation')
+* ('hanuman', 'believes_responsible_for', 'monkey_kingdom_devastation')
+* ('hanuman', 'avoids_facing', 'sugriva')
+* ('hanuman', 'stays_in', 'lanka')
+* ('hanuman', 'considers', 'becoming_hermit')
+* ('hanuman', 'considers', 'self_immolation')
+* ('hanuman', 'considers', 'fasting_to_death')
+* ('hanuman', 'considers', 'drowning')
+* ('hanuman', 'laments', 'failed_mission')
+* ('hanuman', 'finds', 'hope')
+* ('hanuman', 'chooses', 'continue_search')
+* ('hanuman', 'searches_for', 'sita')
+* ('sita', 'is_missing_from', 'puspaka')
+* ('sita', 'is_presumed', 'dead_by_hanuman')
+
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'is_in', 'canto_13')
+* ('rama', 'is_in', 'canto_13')
+* ('sita', 'is_in', 'canto_13')
+* ('ravana', 'is_in', 'canto_13')
+* ('lakshmana', 'is_in', 'canto_13')
+
+
+* ('hanuman', 'contemplates_rescuing', 'sita')
+* ('hanuman', 'considers_defeating', 'ravana')
+* ('ravana', 'abducted', 'sita')
+* ('hanuman', 'searches_for', 'sita')
+* ('hanuman', 'is_in', 'lanka')
+* ('hanuman', 'fears', 'rama_reaction')
+* ('hanuman', 'prays_to', 'rama')
+* ('hanuman', 'prays_to', 'sita')
+* ('hanuman', 'prays_to', 'lakshmana')
+* ('hanuman', 'prays_to', 'wind_god')
+* ('wind_god', 'is_father_of', 'hanuman')
+* ('sita', 'is_wife_of', 'rama')
+
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'is_son_of', 'wind_god')
+('hanuman', 'searched_asoka_grove', 'canto_13')
+('hanuman', 'reduced_size', 'canto_13')
+('hanuman', 'invoked_deities', 'canto_13')
+('hanuman', 'sought_sita', 'canto_13')
+('ravana', 'guarded_asoka_grove', 'canto_13')
+('ravana', 'captured_sita', 'canto_13')
+('sita', 'held_captive', 'canto_13')
+('sita', 'is_wife_of', 'rama') # inferred from context
+('hanuman', 'is in', 'Canto_13')
+('ravana', 'is in', 'Canto_13')
+('sita', 'is in', 'Canto_13')
+('rama', 'related_in_canto_13', 'sita')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'is_in', 'canto_14')
+('sita', 'is_in', 'canto_14')
+('hanuman', 'enters', 'asoka_grove')
+('hanuman', 'searches_for', 'sita')
+('hanuman', 'jumps_from', 'palace_wall')
+('sita', 'expected_at', 'stream_bank')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```python
+[
+    ('hanuman', 'is_in', 'canto_14'),
+    ('sita', 'is_in', 'canto_14'),
+    ('hanuman', 'searched_for', 'sita'),
+    ('hanuman', 'is_in', 'asoka_grove'),
+    ('sita', 'is_in', 'asoka_grove'),
+    ('hanuman', 'caused_disarray_in', 'asoka_grove'),
+    ('hanuman', 'searched_near', 'stream'),
+    ('sita', 'expected_near', 'stream'),
+
+
+]
+```jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'is_in', 'canto_14')
+* ('sita', 'is_in', 'canto_14')
+* ('hanuman', 'searched_for', 'sita')
+* ('sita', 'context_prayers', 'asoka_grove')
+* ('hanuman', 'context_hiding', 'asoka_tree')
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'is_in', 'canto_14')
+* ('sita', 'is_in', 'canto_14')
+* ('ravana', 'is_in', 'canto_14')
+* ('rama', 'is_related_in_canto_14_of', 'sita')
+* ('ravana', 'is_related_in_canto_14_of', 'sita')
+* ('hanuman', 'explores', 'artificial_pond')
+* ('hanuman', 'explores', 'asoka_grove')
+* ('hanuman', 'explores', 'lotus_pond')
+* ('hanuman', 'searches_for', 'sita')
+* ('sita', 'longs_for', 'rama')
+* ('sita', 'is_in', 'asoka_grove')
+* ('ravana', 'owns', 'asoka_grove')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```python
+[
+('hanuman', 'is_in', 'canto_14'),
+('sita', 'is_in', 'canto_14'),
+('rama', 'is_in', 'canto_14'),
+('hanuman', 'searches_for', 'sita'),
+('sita', 'is_wife_of', 'rama'),
+('sita', 'grieves_for', 'rama'),
+
+
+('sita', 'prays_at', 'stream'),
+('sita', 'visits', 'asoka_grove'),
+('hanuman', 'observes', 'asoka_grove'),
+('hanuman', 'hides_in', 'tree'),
+('sita', 'wanders_in', 'forest')
+
+]
+```jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'is_in', 'canto_15')
+('sita', 'is_in', 'canto_15')
+('hanuman', 'searches_for', 'sita')
+('sita', 'is_princess_of', 'mithila')
+('hanuman', 'finds', 'sita')
+('sita', 'is_in', 'ashoka_grove')
+('hanuman', 'is_on', 'simsapa_tree')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```python
+[
+    ('hanuman', 'is_in', 'canto_15'),
+    ('sita', 'is_in', 'canto_15'),
+    ('hanuman', 'finds_sita_in_ashoka_grove', 'canto_15'),
+    ('sita', 'held_captive_in_ashoka_grove', 'canto_15'),
+
+
+    ('hanuman', 'related_in_canto_15', 'sita'),
+    
+]
+```jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'observes', 'sita')
+('sita', 'is_in', 'canto_15')
+('hanuman', 'is_in', 'canto_15')
+('sita', 'captured_by', 'ravana') # Inferred from "ogres surrounding her" and prior knowledge
+('sita', 'longs_for', 'rama')
+('sita', 'is_wife_of', 'rama') # Prior knowledge
+('sita', 'suffering_in_captivity', 'canto_15')
+('hanuman', 'discovers_sita', 'canto_15')
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'is_in', 'canto_15')
+* ('sita', 'is_in', 'canto_15')
+* ('rama', 'is_husband_of', 'sita')
+* ('sita', 'is_wife_of', 'rama')
+* ('hanuman', 'recognized', 'sita_jewelry')
+* ('sita', 'wore', 'jewelry')
+* ('rama', 'described', 'sita_jewelry')
+* ('hanuman', 'confirmed', 'sita_identity')
+* ('sita', 'experienced', 'grief_and_suffering')
+* ('rama', 'suffers_from', 'sita_loss')
+* ('rama', 'loves', 'sita')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('sita', 'is_wife_of', 'rama')
+* ('rama', 'is_husband_of', 'sita')
+* ('hanuman', 'observed', 'sita')
+* ('sita', 'is_in', 'canto_15')
+* ('rama', 'is_in', 'canto_15')
+* ('hanuman', 'is_in', 'canto_15')
+* ('sita', 'context_canto_15', 'captured')
+* ('rama', 'context_canto_15', 'missing_sita')
+* ('hanuman', 'context_canto_15', 'searching_sita')
+
+jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'is_in', 'canto_16')
+('sita', 'is_in', 'canto_16')
+('rama', 'is_in', 'canto_16')
+('sugriva', 'is_in', 'canto_16')
+('vali', 'is_in', 'canto_16')
+('kabandha', 'is_in', 'canto_16')
+('viradha', 'is_in', 'canto_16')
+('khara', 'is_in', 'canto_16')
+('trisira', 'is_in', 'canto_16')
+('dusana', 'is_in', 'canto_16')
+
+
+('sita', 'is_wife_of', 'rama')
+('hanuman', 'related_in_canto_16', 'sita')
+('hanuman', 'related_in_canto_16', 'rama')
+('sugriva', 'related_in_canto_16', 'sita')
+
+
+('sita', 'captured_by', 'ravana') #implied, not explicitly stated
+('hanuman', 'reflects_on_virtues_of', 'sita')
+('hanuman', 'reflects_on_qualities_of', 'rama')
+('hanuman', 'laments_suffering_of', 'sita')
+('hanuman', 'compares_composure_of', 'sita')
+('sita', 'compared_to', 'ganges')
+('hanuman', 'acknowledges_equal_standing_of', 'sita')
+('hanuman', 'acknowledges_equal_standing_of', 'rama')
+('vali', 'vanquished_for', 'sita')
+('kabandha', 'vanquished_for', 'sita')
+('viradha', 'vanquished_for', 'sita')
+('khara', 'vanquished_for', 'sita')
+('trisira', 'vanquished_for', 'sita')
+('dusana', 'vanquished_for', 'sita')
+('ogres', 'vanquished_for', 'sita')
+('sugriva', 'ascension_to_kingship_for', 'sita')
+('hanuman', 'crossed_ocean_for', 'sita')
+('hanuman', 'explored_lanka_for', 'sita') 
+jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'is_in', 'canto_16')
+('sita', 'is_in', 'canto_16')
+('rama', 'is_in', 'canto_16')
+('janaka', 'is_in', 'canto_16')
+('dasaratha', 'is_in', 'canto_16')
+('khara', 'is_in', 'canto_16')
+('viradha', 'is_in', 'canto_16')
+
+
+('sita', 'is_daughter_of', 'janaka')
+('sita', 'is_daughter_in_law_of', 'dasaratha')
+('sita', 'is_wife_of', 'rama')
+
+('hanuman', 'witnesses_suffering_of', 'sita')
+('rama', 'longs_for', 'sita')
+('sita', 'is_held_captive_by', 'ogresses')
+('sita', 'followed', 'rama')
+('sita', 'yearns_for', 'rama')
+('khara', 'killed_for', 'sita')
+('viradha', 'killed_for', 'sita')
+
+
+('sita', 'suffers_in', 'captivity')
+('rama', 'grieves_for', 'sita')
+('hanuman', 'grieves_for', 'sita')
+jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'observes', 'sita_grieving')
+('sita', 'longing_for', 'rama')
+('sita', 'is_wife_of', 'rama')
+('rama', 'is_husband_of', 'sita')
+('sita', 'is_daughter_of', 'janaka')
+('sita', 'guarded_by', 'ogresses')
+('rama', 'protected', 'sita')
+('lakshmana', 'protected', 'sita')
+('hanuman', 'witnesses', 'sita_suffering')
+('sita', 'suffering_from', 'separation_from_rama')
+('rama', 'enduring', 'separation_from_sita')
+('hanuman', 'is_in', 'canto_16')
+('sita', 'is_in', 'canto_16')
+('rama', 'is_in', 'canto_16')
+('lakshmana', 'is_in', 'canto_16')
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'observed', 'sita')
+* ('sita', 'guarded_by', 'ogresses')
+* ('ogresses', 'described_as', 'grotesque')
+* ('hanuman', 'searched_for', 'sita')
+* ('sita', 'context', 'sorrowful')
+* ('hanuman', 'context', 'joyful')
+* ('hanuman', 'is_in', 'canto_17')
+* ('sita', 'is_in', 'canto_17')
+* ('ogresses', 'is_in', 'canto_17')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'witnessed_ogresses', 'canto_17')
+('sita', 'surrounded_by_ogresses', 'canto_17')
+('ogresses', 'tormenting', 'sita')
+('hanuman', 'is_in', 'canto_17')
+('sita', 'is_in', 'canto_17')
+('hanuman', 'hidden_in_simsaap_tree', 'canto_17')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'observed', 'sita')
+('sita', 'is_wife_of', 'rama')
+('sita', 'is_in', 'canto_17')
+('hanuman', 'is_in', 'canto_17')
+('rama', 'is_husband_of', 'sita')
+('sita', 'grief_for', 'separation_from_rama')
+('sita', 'confined_by', 'ogresses')
+('sita', 'devotion_to', 'rama')
+('hanuman', 'admires', 'sita')
+('sita', 'suffering_in', 'captivity')
+('hanuman', 'witnesses', 'sita_in_captivity')
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'finds', 'sita')
+* ('hanuman', 'prays_to', 'rama')
+* ('hanuman', 'mentally_bows_to', 'rama')
+* ('hanuman', 'mentally_bows_to', 'lakshmana')
+* ('hanuman', 'hides_in', 'simsapa_tree')
+* ('sita', 'surrounded_by', 'ogresses')
+* ('hanuman', 'witnesses_sita_surrounded_by_ogresses', 'canto_17')
+* ('hanuman', 'finds_sita', 'canto_17')
+
+
+* ('hanuman', 'is_in', 'canto_17')
+* ('sita', 'is_in', 'canto_17')
+* ('rama', 'is_in', 'canto_17')
+* ('lakshmana', 'is_in', 'canto_17')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* **(character, relation, character)**
+* ('hanuman', 'related_in_canto_18', 'sita')
+* ('hanuman', 'related_in_canto_18', 'ravana')
+* ('ravana', 'related_in_canto_18', 'sita')
+* ('ravana', 'husband_of', 'wives')
+
+
+* **(character, context, event)**
+* ('hanuman', 'asoka_grove', 'observing_sita')
+* ('hanuman', 'sirisha_tree', 'hiding')
+* ('ravana', 'asoka_grove', 'approaching_sita')
+* ('sita', 'asoka_grove', 'captive')
+* ('ravana', 'palace', 'awakening')
+
+
+* **(character, is_in, canto)**
+* ('hanuman', 'is_in', 'canto_18')
+* ('sita', 'is_in', 'canto_18')
+* ('ravana', 'is_in', 'canto_18')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('ravana', 'is_husband_of', 'ravana_wives')
+('ravana', 'lusts_for', 'sita')
+('ravana', 'enters', 'asoka_grove')
+('hanuman', 'observes', 'ravana')
+('hanuman', 'hides_in', 'sirisa_tree')
+('ravana', 'approaches', 'sita')
+('ravana', 'is_in', 'canto_18')
+('sita', 'is_in', 'canto_18')
+('hanuman', 'is_in', 'canto_18')
+
+```jai_balayya_ew
+jai_balayya_ew
+* ('ravana', 'is_son_of', 'visrava')
+* ('hanuman', 'is_son_of', 'wind_god')
+* ('ravana', 'kidnapped', 'sita')
+* ('hanuman', 'observes', 'ravana')
+* ('hanuman', 'saw', 'ravana')
+* ('ravana', 'approached', 'sita')
+* ('hanuman', 'hid_in', 'sirisa_tree')
+* ('ravana', 'is_in', 'canto_18')
+* ('sita', 'is_in', 'canto_18')
+* ('hanuman', 'is_in', 'canto_18')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('sita', 'feels', 'fear')
+* ('sita', 'expresses', 'grief')
+* ('sita', 'is_guarded_by', 'ogresses')
+* ('sita', 'longs_for', 'rama')
+* ('ravana', 'observes', 'sita')
+* ('sita', 'is_in', 'canto_19')
+* ('ravana', 'is_in', 'canto_19')
+* ('sita', 'is_wife_of', 'rama')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('sita', 'is_wife_of', 'rama')
+('sita', 'feels', 'grief')
+('sita', 'feels', 'fear')
+('sita', 'prays_for', 'rama_victory')
+('sita', 'devoted_to', 'rama')
+('rama', 'fights', 'ravana')
+('sita', 'captured_by', 'ravana')
+('sita', 'is_in', 'canto_19')
+('rama', 'is_in', 'canto_19')
+('ravana', 'is_in', 'canto_19')
+
+
+```
+jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'crossed', 'ocean')
+('hanuman', 'reached', 'lanka')
+('hanuman', 'is_in', 'canto_2')
+('lanka', 'guarded_by', 'ogres')
+('hanuman', 'entered', 'lanka')
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'is_in', 'canto_2')
+('ravana', 'is_in', 'canto_2')
+('sita', 'is_in', 'canto_2')
+('hanuman', 'observes', 'lush_landscape')
+('hanuman', 'observes', 'lanka_city')
+('ravana', 'protects', 'lanka')
+('ravana', 'abducted', 'sita')
+('hanuman', 'enters', 'lanka')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'is_in', 'canto_2')
+* ('ravana', 'is_in', 'canto_2')
+* ('kubera', 'is_in', 'canto_2')
+* ('hanuman', 'observes', 'lanka')
+* ('hanuman', 'compares', 'lanka_to_woman')
+* ('lanka', 'ruled_by', 'ravana')
+* ('lanka', 'formerly_ruled_by', 'kubera')
+* ('lanka', 'guarded_by', 'ogres')
+* ('hanuman', 'considers', 'lanka_defenses')
+* ('hanuman', 'considers', 'ocean')
+* ('hanuman', 'considers', 'ravana')
+* ('hanuman', 'enters', 'lanka')
+* ('ogres', 'guard', 'lanka')
+
+
+jai_balayya_ew
+jai_balayya_ew
+1. (hanuman, is_in, canto_2)
+2. (hanuman, enters_lanka, canto_2)
+3. (hanuman, searches_for_sita, canto_2)
+4. (hanuman, avoids_ogres, canto_2)
+5. (hanuman, concerned_about_rama_plan, canto_2)
+6. (hanuman, careful_planning, canto_2)
+7. (hanuman, avoids_recklessness, canto_2)
+8. (sita, is_in, lanka) # Implied
+9. (ravana, is_in, lanka) # Implied
+10. (rama, related_in_canto_2, hanuman) # Due to Rama's plan being mentioned
+11. (rama, related_in_canto_2, sita) # Due to Sita being the one to rescue
+12. (ravana, related_in_canto_2, sita) #Ravana's implied presence in Lanka
+13. (ogres, related_in_canto_2, ravana)
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'enters', 'lanka')
+('hanuman', 'searches_for', 'sita')
+('hanuman', 'helps', 'rama')
+('rama', 'plans_to_rescue', 'sita')
+('ravana', 'rules', 'lanka')
+('hanuman', 'observes', 'lanka_architecture')
+('hanuman', 'is_in', 'canto_2')
+('rama', 'is_in', 'canto_2')
+('sita', 'is_in', 'canto_2')
+('ravana', 'is_in', 'canto_2')
+
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'observes_moon', 'moon_ascent')
+('hanuman', 'enters', 'lanka')
+('hanuman', 'is_in', 'canto_2')
+('lanka', 'is_guarded_by', 'ogres')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```
+('ravana', 'attempts_to_seduce', 'sita')
+('sita', 'grieving_for_rama', 'canto_20')
+('ravana', 'is_in', 'canto_20')
+('sita', 'is_in', 'canto_20')
+('ravana', 'claims_to_desire', 'sita')
+('ravana', 'threatens', 'sita')
+('ravana', 'offers_luxury', 'sita')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+('ravana', 'is_in', 'canto_20')
+('sita', 'is_in', 'canto_20')
+('rama', 'is_in', 'canto_20')
+('ravana', 'praises', 'sita_beauty')
+('ravana', 'desires', 'sita')
+('sita', 'devoted_to', 'rama')
+('ravana', 'offers_kingdom_to', 'sita')
+('ravana', 'boasts_power', 'defeated_gods_demons')
+('ravana', 'implores', 'sita_abandon_rama')
+
+
+jai_balayya_ew
+jai_balayya_ew
+('ravana', 'tries_to_sway', 'sita')
+('ravana', 'compares_infatuation_to', 'garuda_capturing_serpent')
+('ravana', 'offers_wealth_of', 'kubera')
+('ravana', 'mentions', 'hiranyakasipu')
+('sita', 'held_captive_by', 'ravana')
+('sita', 'compared_to', 'serpent')
+('ravana', 'is_in', 'canto_20')
+('sita', 'is_in', 'canto_20')
+('rama', 'context_forest_dwelling', 'ascetic_practices')
+('rama', 'context_compared_to', 'hiranyakasipu')
+('sita', 'context_offered', 'wealth_and_power')
+('ravana', 'context_boasts', 'wealth_and_prosperity')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('sita', 'is_wife_of', 'rama')
+* ('ravana', 'kidnapped', 'sita')
+* ('sita', 'rejected', 'ravana')
+* ('sita', 'advised', 'ravana')
+* ('ravana', 'threatened', 'sita')
+* ('sita', 'context_canto_21', 'placing_blade_of_grass')
+* ('ravana', 'context_canto_21', 'unwanted_advances')
+* ('sita', 'context_canto_21', 'praises_rama')
+* ('ravana', 'context_canto_21', 'warned_of_consequences')
+* ('sita', 'is_in', 'canto_21')
+* ('ravana', 'is_in', 'canto_21')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```python
+[
+    ('sita', 'is_wife_of', 'rama'),
+    ('ravana', 'kidnapped', 'sita'),
+    ('sita', 'is_in', 'canto_21'),
+    ('rama', 'will_defeat', 'ravana'),
+    ('ravana', 'threatens', 'sita'),
+    ('sita', 'resists', 'ravana'),
+    ('sita', 'advises', 'ravana'),
+    ('sita', 'context_canto_21', 'resists_ravana'),
+    ('ravana', 'context_canto_21', 'threatens_sita'),
+    ('rama', 'context_canto_21', 'implied_retribution'),
+
+]
+```jai_balayya_ew
+jai_balayya_ew
+* ('sita', 'warns', 'ravana_impending_doom')
+* ('rama', 'attacks', 'lanka')
+* ('lakshmana', 'attacks', 'lanka')
+* ('rama', 'compared_to', 'garuda')
+* ('rama', 'will_rescue', 'sita')
+* ('ravana', 'abducted', 'sita')
+* ('rama', 'defeated_ravana_at', 'janasthana')
+* ('rama', 'compared_to', 'tiger')
+* ('lakshmana', 'compared_to', 'tiger')
+* ('ravana', 'compared_to', 'dog')
+* ('rama_and_lakshmana', 'will_kill', 'ravana')
+* ('sita', 'is_wife_of', 'rama')
+* ('lakshmana', 'is_brother_of', 'rama')
+* ('sita', 'is in', 'canto_21')
+* ('rama', 'is in', 'canto_21')
+* ('lakshmana', 'is in', 'canto_21')
+* ('ravana', 'is in', 'canto_21')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('ravana', 'threatened', 'sita')
+* ('sita', 'refused', 'ravana')
+* ('ravana', 'infatuated_with', 'sita')
+* ('sita', 'insulted', 'ravana')
+* ('ravana', 'gave_ultimatum', 'sita')
+* ('sita', 'rejected', 'ravana')
+* ('other_captive_women', 'comforted', 'sita')
+* ('sita', 'is_in', 'canto_22')
+* ('ravana', 'is_in', 'canto_22')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('sita', 'rebukes', 'ravana_immoral_actions')
+('ravana', 'abducts', 'sita')
+('sita', 'is_wife_of', 'rama')
+('sita', 'is_daughter_in_law_of', 'dasaratha')
+('rama', 'is_husband_of', 'sita')
+('dasaratha', 'is_father_in_law_of', 'sita')
+('sita', 'warns', 'ravana_dire_consequences')
+('ravana', 'threatens', 'sita_death')
+('sita', 'is in', 'canto_22')
+('ravana', 'is in', 'canto_22')
+('rama', 'is_related_in_canto_22', 'sita')
+('dasaratha', 'is_related_in_canto_22', 'sita')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('ravana', 'is_in', 'canto_22')
+* ('sita', 'is_in', 'canto_22')
+* ('ravana', 'threatens', 'sita')
+* ('sita', 'insults', 'ravana')
+* ('ravana', 'sets_ultimatum', 'sita')
+* ('sita', 'rejects', 'ravana')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```python
+[
+    ('ravana', 'is_husband_of', 'mandodari'),
+    ('ravana', 'is_husband_of', 'dhanyamalini'),
+    ('mandodari', 'is_wife_of', 'ravana'),
+    ('dhanyamalini', 'is_wife_of', 'ravana'),
+    ('sita', 'is_captive_of', 'ravana'),
+    ('ravana', 'holds_captive', 'sita'),
+
+
+    ('ravana', 'consults_wives', 'refusal_by_sita'),
+    ('sita', 'refuses_ravana', 'ravana_lust'),
+    ('ravana', 'threatens_sita', 'sita_captivity'),
+    ('ravana', 'orders_ogresses', 'coerce_sita'),
+
+
+    ('ravana', 'is_in', 'canto_22'),
+    ('sita', 'is_in', 'canto_22'),
+    ('mandodari', 'is_in', 'canto_22'),
+    ('dhanyamalini', 'is_in', 'canto_22'),
+
+]
+```jai_balayya_ew
+jai_balayya_ew
+* ('ravana', 'threatened', 'sita')
+* ('ravana', 'instructed', 'ogresses')
+* ('ravana', 'left', 'asoka_grove')
+* ('ogresses', 'questioned', 'sita')
+* ('ogresses', 'emphasized', 'ravana_lineage')
+* ('ravana', 'descends_from', 'brahma')
+* ('ravana', 'descends_from', 'pulastya')
+* ('ravana', 'descends_from', 'visrava')
+* ('ogresses', 'urged', 'sita_acceptance')
+* ('sita', 'refused', 'ravana')
+* ('ekajata', 'is_ogress', 'true')
+* ('harijata', 'is_ogress', 'true')
+* ('ekajata', 'pointed_out', 'ravana_high_status')
+* ('harijata', 'reiterated', 'ravana_power')
+* ('harijata', 'questioned', 'sita_reluctance')
+* ('ravana', 'favored_wife', 'mandodari')
+* ('ravana', 'offered_position_to', 'sita')
+* ('sita', 'present_in', 'asoka_grove')
+
+* ('ravana', 'involved_in', 'threatening_sita')
+* ('sita', 'involved_in', 'refusal_of_ravana')
+* ('ogresses', 'involved_in', 'coaxing_sita')
+* ('ekajata', 'involved_in', 'extolling_ravana')
+
+* ('ravana', 'is_in', 'canto_23')
+* ('sita', 'is_in', 'canto_23')
+* ('ogresses', 'is_in', 'canto_23')
+* ('ekajata', 'is_in', 'canto_23')
+* ('harijata', 'is_in', 'canto_23')
+* ('mandodari', 'is_in', 'canto_23')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('ravana', 'desired', 'sita')
+* ('sita', 'rejected', 'ravana')
+* ('ogresses', 'threatened', 'sita')
+* ('vikata', 'praised', 'ravana')
+* ('durmukhi', 'praised', 'ravana')
+* ('ravana', 'defeated', 'nagas')
+* ('ravana', 'defeated', 'gandharvas')
+* ('ravana', 'defeated', 'demons')
+* ('sita', 'is_in', 'canto_23')
+* ('ravana', 'is_in', 'canto_23')
+* ('vikata', 'is_in', 'canto_23')
+* ('durmukhi', 'is_in', 'canto_23')
+* ('ogresses', 'is_in', 'canto_23')
+* ('sita', 'rejected_ravana', 'in_ashoka_grove')
+* ('ogresses', 'threatened_sita', 'in_ashoka_grove')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```python
+[
+('sita', 'is_captive_of', 'ravana'),
+('sita', 'is_wife_of', 'rama'),
+('ravana', 'is_king_of', 'lanka'), # Inferred from "Ravana's palace"
+('sita', 'rejected_proposal_of', 'ravana'), 
+('sita', 'showed_loyalty_to', 'rama'),
+('rama', 'is_husband_of', 'sita'),
+
+
+('sita', 'captivity_and_threats', 'canto_24'),
+('sita', 'unwavering_loyalty', 'canto_24'),
+('hanuman', 'witnesses_sitas_plight', 'canto_24'),
+('ogresses', 'threaten_sita', 'canto_24'),
+
+
+('sita', 'is_in', 'canto_24'),
+('rama', 'is_in', 'canto_24'), # Rama is mentioned and relevant to the events of this canto
+('ravana', 'is_in', 'canto_24'),
+('hanuman', 'is_in', 'canto_24'),
+('ogresses', 'is_in', 'canto_24'),
+
+
+
+]
+```jai_balayya_ew
+jai_balayya_ew
+('sita', 'is_wife_of', 'rama')
+('sita', 'compared_to', 'sachi')
+('sita', 'compared_to', 'arundhati')
+('sita', 'compared_to', 'rohini')
+('sita', 'compared_to', 'lopamudra')
+('sita', 'compared_to', 'sukanya')
+('sita', 'compared_to', 'savitri')
+('sita', 'compared_to', 'srimati')
+('sita', 'compared_to', 'madayanti')
+('sita', 'compared_to', 'kesini')
+('sita', 'compared_to', 'damayanti')
+('sita', 'refused', 'ravana')
+('ravana', 'threatened', 'sita')
+('hanuman', 'observed', 'sita')
+('ogresses', 'threatened', 'sita')
+('sita', 'sought_refuge', 'asoka_tree')
+('vinata', 'advised', 'sita')
+
+('sita', 'refusal_of_ravana', 'canto_24')
+('sita', 'threatened_by_ogresses', 'canto_24')
+('hanuman', 'witnesses_sitas_plight', 'canto_24')
+
+
+('sita', 'is_in', 'canto_24')
+('ravana', 'is_in', 'canto_24')
+('hanuman', 'is_in', 'canto_24')
+('vinata', 'is_in', 'canto_24')
+jai_balayya_ew
+jai_balayya_ew
+```python
+[
+    ('sita', 'is_wife_of', 'rama'),
+    ('ravana', 'wants_to_marry', 'sita'),
+    ('sita', 'refuses', 'ravana'),
+    ('ogresses', 'threaten', 'sita'),
+    ('vikata', 'is_an', 'ogress'),
+    ('hanuman', 'witnesses_threat', 'sita'),
+    ('sita', 'in_captivity', 'ravana_palace'),
+    ('sita', 'context', 'threatened_by_ogresses'),
+    ('ravana', 'context', 'wants_sita'),
+    ('hanuman', 'context', 'observes_sita'),
+
+    ('sita', 'is_in', 'canto_24'),
+    ('rama', 'is_in', 'canto_24'),
+    ('ravana', 'is_in', 'canto_24'),
+    ('hanuman', 'is_in', 'canto_24'),
+    ('vikata', 'is_in', 'canto_24'),
+    ('ogresses', 'is_in', 'canto_24'),
+]
+
+```jai_balayya_ew
+jai_balayya_ew
+```python
+text = """Content: The ogresses continued their threats and intimidation of Sita. They mocked her adherence to her marriage vows, urging her to accept Ravana and enjoy the fleeting pleasures of youth and power.  They offered a vision of Sita as Ravana's queen, adorned and commanding, while warning that continued loyalty to Rama meant certain death.  The ogresses grew more violent in their threats, describing their desire to devour Sita's heart and other body parts. Candodari, brandishing a weapon, expressed a savage longing to consume Sita's organs.  Praghasa echoed this gruesome sentiment, proposing they kill Sita and tell Ravana she died. Another ogress, Ajamukhi, suggested they dismember Sita and divide her remains equally amongst themselves to avoid arguments.
+, Extra Chapter context for reference: canto=>24::canto_summary=>Canto XXIV
+Citing the examples of Saci, Arundhati and other devoted wives, even
+though threatened by the ogresses, Sita with a stout heart boldly
+proclaims her resolve not to submit to anyone else other than
+her own husband even on pain of death. Hanuman silently
+watches her being menaced by the ogresses by
+means of harsh words and show of weapons, and weeping::r_id=>24_3"""
+
+triplets = [
+    ('sita', 'is_wife_of', 'rama'),
+    ('sita', 'threatened_by', 'ogresses'),
+    ('sita', 'threatened_by', 'ravana'),
+    ('sita', 'protected_by', 'hanuman'),  # Implicit from Hanuman watching
+    ('sita', 'refuses', 'ravana'),
+    ('ravana', 'desires', 'sita'),
+    ('candodari', 'threatens', 'sita'),
+    ('praghasa', 'threatens', 'sita'),
+    ('ajamukhi', 'threatens', 'sita'),
+    ('hanuman', 'witnesses', 'sita_threatened'),
+    ('sita', 'loyal_to', 'rama'),
+
+
+    ('sita', 'refusal_of_ravana', 'canto_24'), # Event
+    ('ogresses', 'threatening_sita', 'canto_24'),  # Event
+    ('hanuman', 'witnessing_threat', 'canto_24'), #Event
+
+
+    ('sita', 'is_in', 'canto_24'),
+    ('ravana', 'is_in', 'canto_24'),
+    ('hanuman', 'is_in', 'canto_24'),
+    ('candodari', 'is_in', 'canto_24'),
+    ('praghasa', 'is_in', 'canto_24'),
+    ('ajamukhi', 'is_in', 'canto_24'),
+
+
+]
+
+print(triplets)
+
+```jai_balayya_ew
+jai_balayya_ew
+* ('surpanakha', 'called_for', 'drinks_and_garlands')
+* ('ajamukhi', 'suggested', 'wine')
+* ('ogresses', 'spoke_of', 'feasting_on_human_flesh')
+* ('ogresses', 'spoke_of', 'dancing_before_goddess')
+* ('sita', 'faced', 'gruesome_threats')
+* ('sita', 'wept_due_to', 'ogresses_threats')
+* ('sita', 'is_wife_of', 'rama')
+* ('hanuman', 'witnessed', 'sita_threatened')
+* ('sita', 'is in', 'canto_24')
+* ('surpanakha', 'is in', 'canto_24')
+* ('ajamukhi', 'is in', 'canto_24')
+* ('hanuman', 'is in', 'canto_24')
+
+
+jai_balayya_ew
+jai_balayya_ew
+('sita', 'is_wife_of', 'rama')
+('sita', 'threatened_by', 'ravana')
+('sita', 'protected_by', 'lakshmana')
+('sita', 'is_daughter_in_law_of', 'kausalya')
+('sita', 'is_daughter_in_law_of', 'sumitra')
+('rama', 'is_husband_of', 'sita')
+('rama', 'is_brother_of', 'lakshmana')
+('lakshmana', 'is_brother_of', 'rama')
+('lakshmana', 'protected', 'sita')
+('ravana', 'threatened', 'sita')
+('kausalya', 'is_mother_in_law_of', 'sita')
+('sumitra', 'is_mother_in_law_of', 'sita')
+
+('sita', 'captured_by_ogres', 'canto_25')
+('sita', 'threatened_by_ravana', 'canto_25')
+('sita', 'longing_for_rama', 'canto_25')
+
+
+('sita', 'is_in', 'canto_25')
+('rama', 'is_in', 'canto_25')
+('lakshmana', 'is_in', 'canto_25')
+('ravana', 'is_in', 'canto_25')
+('kausalya', 'is_in', 'canto_25')
+('sumitra', 'is_in', 'canto_25')
+
+
+jai_balayya_ew
+jai_balayya_ew
+('sita', 'is_wife_of', 'rama')
+('sita', 'separated_from', 'rama')
+('sita', 'guarded_by', 'ogresses')
+('sita', 'laments_fate', 'canto_25')
+('sita', 'is_in', 'canto_25')
+('rama', 'has_lotus_like_eyes', 'canto_25')
+('rama', 'has_lions_gait', 'canto_25')
+('rama', 'is_grateful', 'canto_25')
+('rama', 'speaks_kind_words', 'canto_25')
+('rama', 'is_noble', 'canto_25')
+('rama', 'is_in', 'canto_25')
+
+jai_balayya_ew
+jai_balayya_ew
+* ('sita', 'is_wife_of', 'rama')
+* ('sita', 'is_abducted_by', 'ravana')
+* ('ravana', 'is_captor_of', 'sita')
+* ('rama', 'is_husband_of', 'sita')
+* ('sita', 'laments_captivity', 'canto_26')
+* ('ravana', 'threatens', 'sita')
+* ('sita', 'refuses_advances_of', 'ravana')
+* ('sita', 'is_guarded_by', 'ogresses')
+* ('rama', 'defeated', 'ogres')
+* ('sita', 'is_in', 'canto_26')
+* ('rama', 'is_in', 'canto_26')
+* ('ravana', 'is_in', 'canto_26')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```python
+text = """Content: Sita continues to lament her captivity, expressing disbelief that Ravana, a being of lesser strength, could hold her captive when her husband Rama possesses the power to defeat him in battle.  She questions why Rama, who effortlessly killed the powerful ogre Viradha, has not yet come to her rescue.  Sita acknowledges the difficulty of reaching Lanka, situated in the middle of the ocean, but affirms that even this obstacle cannot stop Rama's arrows. She reiterates her confusion over Rama's delay, emphasizing his unwavering courage and devotion to her. Sita fears that Rama and Lakshmana are unaware of her location in Lanka, believing that if they knew, they would swiftly retaliate against Ravana and his forces. She recalls Jatayu, the valiant king of vultures who attempted to save her but was killed by Ravana, praising his courageous effort.  Sita firmly believes that if Rama knew her whereabouts, his wrath would consume Lanka, destroying the city and vanquishing Ravana's reputation. She envisions the lamentations of the ogresses who would lose their husbands in the ensuing battle.  Sita foresees Rama and Lakshmana's arrival, confident that they will obliterate the ogres and transform Lanka into a desolate crematorium., Extra Chapter context for reference: canto=>26::canto_summary=>::r_id=>26_1"""
+
+triplets = [
+    ('sita', 'is_wife_of', 'rama'),
+    ('rama', 'is_husband_of', 'sita'),
+    ('ravana', 'kidnapped', 'sita'),
+    ('rama', 'killed', 'viradha'),
+    ('jatayu', 'tried_to_save', 'sita'),
+    ('ravana', 'killed', 'jatayu'),
+    ('rama', 'related_in_canto_26', 'sita'),
+    ('rama', 'related_in_canto_26', 'ravana'),
+    ('rama', 'related_in_canto_26', 'lakshmana'),
+    ('sita', 'related_in_canto_26', 'ravana'),
+    ('sita', 'related_in_canto_26', 'jatayu'),
+    ('sita', 'related_in_canto_26', 'lakshmana'),
+
+    ('sita', 'captivity_in_lanka', 'lamenting_captivity'),
+    ('rama', 'sita_rescue', 'delayed_arrival'),
+    ('jatayu', 'sita_rescue', 'attempted_rescue'),
+    ('ravana', 'sita_kidnapping', 'holding_captive'),
+
+    ('sita', 'is_in', 'canto_26'),
+    ('rama', 'is_in', 'canto_26'),
+    ('lakshmana', 'is_in', 'canto_26'),
+    ('ravana', 'is_in', 'canto_26'),
+    ('jatayu', 'is_in', 'canto_26'),
+    ('viradha', 'is_in', 'canto_26') # Although just mentioned, it's relevant to Rama's power.
+]
+
+print(triplets)
+```jai_balayya_ew
+jai_balayya_ew
+* ('sita', 'predicts', 'ravana_downfall')
+* ('sita', 'observes', 'ill_omens_lanka')
+* ('sita', 'foresees', 'lanka_destruction')
+* ('sita', 'anticipates', 'ogresses_lamentations')
+* ('sita', 'envisions', 'rama_arrival')
+* ('sita', 'reveals', 'death_deadline')
+* ('sita', 'fears', 'death_by_ravana')
+* ('sita', 'laments', 'rama_absence')
+* ('ravana', 'threatens', 'sita_death')
+* ('rama', 'will_cause', 'lanka_destruction')
+* ('sita', 'is_in', 'canto_26')
+* ('ravana', 'is_in', 'canto_26')
+* ('rama', 'is_in', 'canto_26')
+* ('sita', 'is_wife_of', 'rama')
+* ('ravana', 'is_enemy_of', 'rama')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('sita', 'despairs_over_separation_from', 'rama')
+('sita', 'believes', 'rama_and_lakshmana_unaware_of_survival')
+('sita', 'fears', 'rama_died_of_grief')
+('sita', 'envies', 'celestial_beings')
+('sita', 'questions', 'rama_needs_her')
+('sita', 'asserts', 'rama_is_not_uncaring')
+('sita', 'wonders_about', 'cause_of_separation')
+('sita', 'prefers_death_to', 'life_without_rama')
+('sita', 'speculates', 'rama_and_lakshmana_renounced_violence_or_killed')
+('sita', 'unable_to', 'die')
+('sita', 'admires', 'self_realized_hermits')
+('rama', 'related_in_canto_26', 'sita')
+('rama', 'related_in_canto_26', 'lakshmana')
+('sita', 'related_in_canto_26', 'lakshmana')
+('sita', 'is_in', 'canto_26')
+('rama', 'is_in', 'canto_26')
+('lakshmana', 'is_in', 'canto_26')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('sita', 'is_wife_of', 'rama')
+* ('sita', 'abandoned_by', 'rama')
+* ('sita', 'controlled_by', 'ravana')
+* ('ravana', 'kidnapped', 'sita')
+* ('rama', 'abandoned', 'sita')
+* ('sita', 'is_in', 'canto_26')
+* ('rama', 'is_in', 'canto_26')
+* ('ravana', 'is_in', 'canto_26')
+* ('sita', 'attempts_suicide', 'canto_26')
+* ('rama', 'possesses_self_knowledge', 'canto_26')
+* ('ravana', 'described_as_wicked', 'canto_26')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```python
+[
+('ravana', 'is_related_in_canto_27', 'sita'),
+('sita', 'is_related_in_canto_27', 'trijata'),
+('ravana', 'is_related_in_canto_27', 'trijata'),
+('janaka', 'is_father_of', 'sita'),
+('dasaratha', 'is_father_in_law_of', 'sita'),
+('rama', 'is_related_in_canto_27', 'lakshmana'),
+('sita', 'is_wife_of', 'rama'),
+
+
+('sita', 'defiance_towards_ravana', 'intimidation_by_ogresses'),
+('sita', 'threatened_by_ogresses', 'rescued_by_trijata'),
+('trijata', 'had_dream', 'foretells_rama_victory'),
+('trijata', 'had_dream', 'foretells_ravana_defeat'),
+('rama', 'arriving_in_palanquin', 'victory_over_ravana'),
+('sita', 'seated_on_mountain', 'symbol_of_safety'),
+
+('ravana', 'is_in', 'canto_27'),
+('sita', 'is_in', 'canto_27'),
+('trijata', 'is_in', 'canto_27'),
+('rama', 'is_in', 'canto_27'),
+('lakshmana', 'is_in', 'canto_27'),
+('janaka', 'is_in', 'canto_27'),  # inferred due to sita's presence
+('dasaratha', 'is_in', 'canto_27'), # inferred due to sita's presence
+
+
+]
+```jai_balayya_ew
+jai_balayya_ew
+```
+('trijata', 'is_in', 'canto_27')
+('rama', 'is_in', 'canto_27')
+('lakshmana', 'is_in', 'canto_27')
+('sita', 'is_in', 'canto_27')
+('ravana', 'is_in', 'canto_27')
+
+('trijata', 'dreams_of', 'rama_victory')
+('trijata', 'dreams_of', 'ravana_defeat')
+('rama', 'rides_elephant', 'victory_dream')
+('lakshmana', 'rides_elephant', 'victory_dream')
+('sita', 'rides_elephant', 'victory_dream')
+('sita', 'touches_sun_and_moon', 'victory_dream')
+('rama', 'arrives_in_lanka', 'chariot_dream')
+('lakshmana', 'arrives_in_lanka', 'chariot_dream')
+('sita', 'arrives_in_lanka', 'chariot_dream')
+('rama', 'departs_in_puspaka', 'departure_dream')
+('lakshmana', 'departs_in_puspaka', 'departure_dream')
+('sita', 'departs_in_puspaka', 'departure_dream')
+('ravana', 'falls_from_puspaka', 'defeat_dream')
+('rama', 'related_in_canto_27', 'lakshmana')
+('rama', 'related_in_canto_27', 'sita')
+
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```
+('trijata', 'dreams_of', 'ravana_defeat')
+('ravana', 'is_defeated_in', 'trijata_dream')
+('ravana', 'rides', 'donkey')
+('ravana', 'falls_from', 'donkey')
+('ravana', 'enters', 'abyss')
+('kumbhakarna', 'is_brother_of', 'ravana')
+('ravana', 'rides', 'boar')
+('indrajit', 'rides', 'dolphin')
+('kumbhakarna', 'rides', 'camel')
+('vibhishana', 'rides', 'elephant')
+('trijata', 'is_in', 'canto_27')
+('ravana', 'is_in', 'canto_27')
+('kumbhakarna', 'is_in', 'canto_27')
+('indrajit', 'is_in', 'canto_27')
+('vibhishana', 'is_in', 'canto_27')
+
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('trijata', 'is_in', 'canto_27')
+* ('sita', 'is_in', 'canto_27')
+* ('rama', 'is_in', 'canto_27')
+* ('ravana', 'is_in', 'canto_27')
+* ('kumbhakarna', 'is_in', 'canto_27')
+
+* ('trijata', 'witnesses', 'ominous_dream')
+* ('trijata', 'warns', 'ogresses')
+* ('trijata', 'predicts', 'rama_victory')
+* ('trijata', 'predicts', 'ravana_defeat')
+* ('trijata', 'advises', 'apologize_to_sita')
+* ('rama', 'leads', 'monkey_envoy')
+* ('rama', 'retrieves', 'sita')
+* ('rama', 'defeats', 'ravana')
+* ('sita', 'reunited_with', 'rama')
+* ('ravana', 'protects', 'lanka')
+* ('ravana', 'is_defeated_by', 'rama')
+* ('kumbhakarna', 'vanishes', 'in_cow_dung')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('trijata', 'interpreted_dream_of', 'sita')
+* ('sita', 'dream_interpreted_by', 'trijata')
+* ('trijata', 'predicted_victory_of', 'rama')
+* ('rama', 'victory_predicted_by', 'trijata')
+* ('trijata', 'predicted_destruction_of', 'ravana')
+* ('ravana', 'destruction_predicted_by', 'trijata')
+* ('sita', 'received_positive_omens_from', 'trijata')
+* ('sita', 'promised_protection_to', 'ogresses')
+* ('ogresses', 'promised_protection_by', 'sita')
+* ('sita', 'context_dream_interpretation', 'positive_omens')
+* ('trijata', 'context_dream_interpretation', 'predicting_future')
+* ('rama', 'context_dream_interpretation', 'imminent_victory')
+* ('ravana', 'context_dream_interpretation', 'impending_doom')
+* ('sita', 'is_in', 'canto_27')
+* ('trijata', 'is_in', 'canto_27')
+* ('rama', 'is_in', 'canto_27')
+* ('ravana', 'is_in', 'canto_27')
+* ('ogresses', 'is_in', 'canto_27')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('sita', 'is_wife_of', 'rama')
+* ('rama', 'is_husband_of', 'sita')
+* ('sita', 'is_related_in_canto_28', 'ravana')
+* ('rama', 'is_related_in_canto_28', 'lakshmana')
+* ('sita', 'is_related_in_canto_28', 'sumitra')
+* ('sita', 'is_related_in_canto_28', 'kausalya')
+* ('sita', 'threatened_by_ravana', 'canto_28')
+* ('sita', 'separated_from_rama', 'canto_28')
+* ('sita', 'laments_fate', 'canto_28')
+* ('sita', 'fears_ravana', 'canto_28')
+* ('sita', 'blames_self_for_golden_deer', 'canto_28')
+* ('sita', 'pleads_to_rama', 'canto_28')
+* ('sita', 'is_in', 'canto_28')
+* ('rama', 'is_in', 'canto_28')
+* ('lakshmana', 'is_in', 'canto_28')
+* ('ravana', 'is_in', 'canto_28')
+* ('sumitra', 'is_in', 'canto_28')
+* ('kausalya', 'is_in', 'canto_28')
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('sita', 'is_wife_of', 'rama')
+('sita', 'separated_from', 'rama')
+('sita', 'held_captive_by', 'ravana')
+('ravana', 'threatened', 'sita')
+('sita', 'laments_separation', 'separation_from_rama')
+('sita', 'contemplates_suicide', 'grief_over_separation')
+('sita', 'is_in', 'canto_28')
+('rama', 'is_in', 'canto_28')
+('ravana', 'is_in', 'canto_28')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+('sita', 'is_wife_of', 'rama')
+('sita', 'experiences_joy', 'auspicious_omens')
+('sita', 'is_in', 'canto_29')
+('rama', 'is_husband_of', 'sita')
+('rama', 'is_related_in_canto_29', 'sita')
+('rama', 'is_in', 'canto_29')
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'is_son_of', 'wind_god')
+* ('hanuman', 'entered', 'lanka')
+* ('ravana', 'rules', 'lanka')
+* ('hanuman', 'is_in', 'canto_3')
+* ('ravana', 'is_in', 'canto_3')
+* ('hanuman', 'scaled_walls_of', 'lanka')
+* ('lanka', 'compared_to', 'alakapuri')
+* ('lanka', 'compared_to', 'amaravati')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'is_in', 'canto_3')
+('ravana', 'is_in', 'canto_3')
+('lanka', 'is_in', 'canto_3')
+('rama', 'is_in', 'canto_3')
+('lakshmana', 'is_in', 'canto_3')
+
+('hanuman', 'impressed_by', 'lanka_beauty')
+('hanuman', 'analyzes', 'lanka_defenses')
+('ravana', 'protects', 'lanka')
+('hanuman', 'confident_in', 'rama_lakshmana_strength')
+('hanuman', 'compares_lanka_to', 'decorated_woman')
+('lanka_deity', 'challenges', 'hanuman')
+('lanka_deity', 'questions', 'hanuman_identity')
+('lanka_deity', 'warns', 'hanuman_about_defenses')
+
+('rama', 'related_in_canto_3', 'lakshmana')
+('rama', 'related_in_canto_3', 'hanuman')
+('lakshmana', 'related_in_canto_3', 'hanuman')
+
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'challenges', 'lanka')
+* ('lanka', 'guards', 'ravana')
+* ('lanka', 'threatens', 'hanuman')
+* ('hanuman', 'questions', 'lanka')
+* ('hanuman', 'explains_intentions_to', 'lanka')
+* ('hanuman', 'observes_city_of', 'ravana')
+* ('hanuman', 'is_in', 'canto_3')
+* ('lanka', 'is_in', 'canto_3')
+* ('ravana', 'is_in', 'canto_3')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'fights', 'lanka')
+('hanuman', 'shows_compassion_to', 'lanka')
+('lanka', 'defeated_by', 'hanuman')
+('lanka', 'reveals_prophecy_to', 'hanuman')
+('brahma', 'made_prophecy_about', 'rakshasas')
+('hanuman', 'is_in', 'canto_3')
+('lanka', 'is_in', 'canto_3')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'attacks', 'lanka')
+* ('ravana', 'rules', 'lanka')
+* ('sita', 'abducted_by', 'ravana')
+* ('lanka', 'guardian_deity_defeated_by', 'hanuman')
+* ('rakshasas', 'destruction_prophesied_by', 'brahma')
+* ('rakshasas', 'defeated_by', 'hanuman') 
+* ('sita', 'daughter_of', 'janaka')
+* ('hanuman', 'searches_for', 'sita')
+* ('hanuman', 'is_in', 'canto_3')
+* ('ravana', 'is_in', 'canto_3')
+* ('sita', 'is_in', 'canto_3')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'is_in', 'canto_30')
+('sita', 'is_in', 'canto_30')
+('ravana', 'is_in', 'canto_30')
+('rama', 'is_in', 'canto_30')
+('trijata', 'is_in', 'canto_30')
+
+
+('hanuman', 'heard_lamentations_of', 'sita')
+('hanuman', 'heard_dream_of', 'trijata')
+('hanuman', 'heard_threats_of', 'ogresses')
+('hanuman', 'recognized', 'sita')
+('hanuman', 'assessing', 'enemy_strength')
+('hanuman', 'gathered_information_about', 'lanka')
+('hanuman', 'gathered_information_about', 'ravana')
+('sita', 'longing_for', 'rama')
+('hanuman', 'reasoned_to_comfort', 'sita')
+('sita', 'wife_of', 'rama')
+('hanuman', 'worried_about', 'sita')
+
+
+('hanuman', 'contemplated_next_move', 'assessing_situation')
+('sita', 'suffering_in_captivity', 'lamenting')
+('hanuman', 'reasoned_duty', 'comforting_sita')
+('hanuman', 'faced_dilemma', 'revealing_himself')
+('sita', 'in_distress', 'losing_hope')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'is_in', 'canto_30')
+('sita', 'is_in', 'canto_30')
+('rama', 'is_in', 'canto_30')
+('ravana', 'is_in', 'canto_30')
+
+('hanuman', 'reveals_himself_to', 'sita')
+('hanuman', 'returns_to', 'rama')
+('hanuman', 'comforts', 'sita')
+('sita', 'is_held_captive_by', 'ravana')
+('hanuman', 'speaks_sanskrit_to', 'sita')
+('sita', 'is_terrified_of', 'ogresses')
+('ogresses', 'guard', 'sita')
+('hanuman', 'is_worried_about', 'sita')
+
+
+('hanuman', 'weighs_pros_and_cons', 'comforting_sita')
+('hanuman', 'learns_about', 'sita_s_condition')
+
+jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'is_in', 'canto_30')
+('sita', 'is_in', 'canto_30')
+('ravana', 'is_in', 'canto_30')
+('rama', 'is_in', 'canto_30')
+
+('hanuman', 'considers_revealing_himself_to', 'sita')
+('hanuman', 'fears_scaring', 'ogresses')
+('ogresses', 'might_alert', 'ravana_guards')
+('ravana_guards', 'might_attack', 'hanuman')
+('hanuman', 'is_confidant_in_defeating', 'ravana_guards')
+('hanuman', 'fears_energy_depletion_for_ocean_crossing', 'rama')
+('hanuman', 'fears_capture_by', 'ravana_guards')
+('ravana_guards', 'might_harm', 'sita')
+('hanuman', 'believes_no_other_monkey_can_cross_ocean', 'rama')
+('hanuman', 'fears_exhaustion_preventing_return_to', 'rama')
+('hanuman', 'weighs_risks_of', 'battle')
+('hanuman', 'prefers_less_precarious_path_to', 'sita')
+('hanuman', 'is_torn_between_revealing_himself_and', 'sita_losing_hope')
+
+('hanuman', 'contemplates_comforting', 'sita')
+('hanuman', 'learns_about', 'sita')
+('hanuman', 'chooses_to_comfort', 'sita')
+
+
+jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'is_in', 'canto_30')
+('sita', 'is_in', 'canto_30')
+('rama', 'is_in', 'canto_30')
+('hanuman', 'considers_well_being_of', 'sita')
+('hanuman', 'plans_to_comfort', 'sita')
+('hanuman', 'delivers_message_from', 'rama')
+('hanuman', 'praises', 'rama')
+('rama', 'is_husband_of', 'sita')
+('hanuman', 'is_related_in_canto_30', 'sita')
+('hanuman', 'is_related_in_canto_30', 'rama')
+('sita', 'is_related_in_canto_30', 'rama')
+('hanuman', 'contemplates_approach', 'meeting_sita')
+('hanuman', 'worries_about', 'sita_reaction')
+('hanuman', 'chooses_words_carefully', 'conveying_message')
+
+
+jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'spoke_to', 'sita')
+('hanuman', 'is_in', 'canto_31')
+('sita', 'is_in', 'canto_31')
+('dasaratha', 'ruled_kingdom', 'kosala')
+('dasaratha', 'is_father_of', 'rama')
+('dasaratha', 'is_ancestor_of', 'kings')
+('dasaratha', 'went_on', 'exile')
+('rama', 'is_son_of', 'dasaratha')
+('rama', 'is_in', 'canto_31')
+('rama', 'went_on', 'exile')
+('rama', 'defeated', 'ogres')
+('lakshmana', 'is_brother_of', 'rama')
+('lakshmana', 'went_on', 'exile')
+('lakshmana', 'is_in', 'canto_31')
+('sita', 'is_wife_of', 'rama')
+('sita', 'went_on', 'exile')
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('ravana', 'abducted', 'sita')
+('rama', 'searched_for', 'sita')
+('rama', 'allied_with', 'sugriva')
+('rama', 'defeated', 'vali')
+('rama', 'installed', 'sugriva')
+('sugriva', 'dispatched', 'monkey_forces')
+('hanuman', 'received_information_from', 'sampati')
+('hanuman', 'found', 'sita')
+('hanuman', 'relayed_information_to', 'sita')
+('sita', 'is_wife_of', 'rama')
+
+('ravana', 'abduction_of_sita', 'janasthana_devastation')
+('rama', 'search_for_sita', 'alliance_with_sugriva')
+('sugriva', 'dispatch_of_monkey_forces', 'installation_as_king')
+('hanuman', 'leap_across_ocean', 'information_from_sampati')
+('hanuman', 'finding_sita', 'meeting_sita')
+
+('rama', 'is_in', 'canto_31')
+('sita', 'is_in', 'canto_31')
+('hanuman', 'is_in', 'canto_31')
+('ravana', 'is_in', 'canto_31')
+('sugriva', 'is_in', 'canto_31')
+('vali', 'is_in', 'canto_31')
+('sampati', 'is_in', 'canto_31')
+
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```python
+text = """Content: Sita, hidden amongst the trees, saw Hanuman, whose fur was the color of lightning against his white garment.  She observed him to be gentle in demeanor and speech, his appearance radiant like Asoka blossoms and his eyes gleaming like gold.  Astonished by the sight of this noble monkey, Sita initially feared him, finding his presence unsettling and alarming, causing her to faint. Upon regaining consciousness, she cried out in distress, repeatedly calling for Rama and Lakshmana.  Still shaken, she initially dismissed the encounter as a dream. However, observing Hanuman more closely, she recognized his wisdom and strength, remembering tales of his might.  Doubting the reality of her experience, Sita reasoned that dreams were unlikely given her constant grief and sorrow. Preoccupied with thoughts of Rama, she concluded that her perception of Hanuman must be a manifestation of her longing for her husband.
+
+Extra Chapter context for reference: canto=>32::canto_summary=>Canto XXXII
+Imagining Hanuman to have been seen in a dream, though actually perceived
+by her, and believing the sight of a monkey in a dream to be ominous,
+Sita becomes anxious about the welfare of Sri Rama and others.
+Then concluding him on other grounds to have been seen in
+her waking hours, she prays to Brahma and other gods
+that the statement of Hanuman may come out to be true::r_id=>32_0
+"""
+
+
+triplets = [
+    ('sita', 'saw', 'hanuman'),
+    ('sita', 'initially_feared', 'hanuman'),
+    ('sita', 'called_for', 'rama'),
+    ('sita', 'called_for', 'lakshmana'),
+    ('sita', 'recognized_wisdom_and_strength_of', 'hanuman'),
+    ('sita', 'longed_for', 'rama'),  # Implied relationship
+    ('sita', 'dreamt_of', 'hanuman'),  # From extra context
+    ('sita', 'is_in', 'canto_32'),
+    ('hanuman', 'is_in', 'canto_32'),
+    ('rama', 'is_in', 'canto_32'),
+    ('lakshmana', 'is_in', 'canto_32'),
+
+    # Adding a few "related_in_canto" triplets to cover connections
+    ('sita', 'related_in_canto_32', 'hanuman'),
+    ('sita', 'related_in_canto_32', 'rama'),
+    ('sita', 'related_in_canto_32', 'lakshmana'),
+
+
+    ('sita', 'anxious_about_welfare', 'rama'), #From extra context
+]
+
+for triplet in triplets:
+    print(triplet)
+
+
+
+
+```jai_balayya_ew
+jai_balayya_ew
+* ('sita', 'interacts_with', 'hanuman')
+* ('sita', 'questions_reality_of', 'hanuman')
+* ('hanuman', 'claims_to_be_messenger_of', 'rama')
+* ('sita', 'prays_to', 'brhaspati')
+* ('sita', 'prays_to', 'indra')
+* ('sita', 'prays_to', 'brahma')
+* ('sita', 'prays_to', 'agni')
+* ('sita', 'seeks_truth_of', 'hanuman_claim')
+* ('sita', 'is_in', 'canto_32')
+* ('hanuman', 'is_in', 'canto_32')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'meets', 'sita')
+* ('hanuman', 'inquires_identity', 'sita')
+* ('sita', 'appears_sorrowful', 'canto_33')
+* ('hanuman', 'observes_sorrow', 'sita')
+* ('hanuman', 'suspects_goddess', 'sita')
+* ('sita', 'is_in', 'canto_33')
+* ('hanuman', 'is_in', 'canto_33')
+* ('hanuman', 'questions_sita', 'canto_33')
+* ('hanuman', 'deduces_royalty', 'sita')
+* ('hanuman', 'asks_about_ravana', 'sita')
+* ('sita', 'abducted_by', 'ravana')
+* ('ravana', 'abducts_from', 'janasthana')
+* ('hanuman', 'learns_abduction', 'sita')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'meets', 'sita')
+('hanuman', 'is_in', 'canto_33')
+('sita', 'is_wife_of', 'rama')
+('sita', 'is_daughter_in_law_of', 'dasaratha')
+('sita', 'is_daughter_of', 'janaka')
+('sita', 'talks_about_married_life', 'rama')
+('sita', 'is_in', 'canto_33')
+('rama', 'is_son_of', 'dasaratha')
+('rama', 'planned_inauguration', 'prince_regent')
+('rama', 'goes_on_exile', 'ayodhya')
+('rama', 'is_in', 'canto_33')
+('dasaratha', 'is_father_of', 'rama')
+('dasaratha', 'promises_coronation', 'rama')
+('dasaratha', 'grants_wish', 'kaikeyi')
+('dasaratha', 'is_in', 'canto_33')
+('kaikeyi', 'is_stepmother_of', 'rama')
+('kaikeyi', 'demands_exile', 'rama')
+('kaikeyi', 'demands_coronation', 'bharata')
+('kaikeyi', 'is_in', 'canto_33')
+('bharata', 'is_son_of', 'dasaratha')
+('bharata', 'coronation_demanded', 'kaikeyi')
+('bharata', 'is_in', 'canto_33')
+('janaka', 'is_father_of', 'sita')
+
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('rama', 'is_husband_of', 'sita')
+* ('sita', 'is_wife_of', 'rama')
+* ('rama', 'is_brother_of', 'lakshmana')
+* ('lakshmana', 'is_brother_of', 'rama')
+* ('rama', 'is_son_of', 'dasaratha')
+* ('rama', 'gave_up_throne', 'exile')
+* ('rama', 'went_to_forest', 'exile')
+* ('sita', 'joined_rama', 'exile')
+* ('lakshmana', 'joined_rama', 'exile')
+* ('sita', 'abducted_by', 'ravana')
+* ('ravana', 'abducted', 'sita')
+* ('ravana', 'threatened', 'sita')
+* ('rama', 'is_in', 'canto_33')
+* ('sita', 'is_in', 'canto_33')
+* ('lakshmana', 'is_in', 'canto_33')
+* ('ravana', 'is_in', 'canto_33')
+* ('dasaratha', 'is_related_in_canto_33', 'rama')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'met', 'sita')
+* ('hanuman', 'is_messenger_of', 'rama')
+* ('rama', 'sent_greetings_to', 'sita')
+* ('lakshmana', 'sent_greetings_to', 'sita')
+* ('sita', 'relieved_by_news', 'rama_well')
+* ('sita', 'mistook', 'hanuman_for_ravana')
+* ('sita', 'recoiled_in_fear', 'hanuman_approached')
+* ('sita', 'berated_herself', 'speaking_to_hanuman')
+* ('sita', 'grief_stricken', 'encounter_with_hanuman')
+* ('sita', 'fearful', 'encounter_with_hanuman')
+* ('hanuman', 'showed_respect_to', 'sita')
+* ('sita', 'avoided', 'hanuman')
+* ('hanuman', 'is_minister_of', 'sugriva')
+* ('rama', 'is_brother_of', 'lakshmana')
+* ('hanuman', 'is in', 'canto_34')
+* ('sita', 'is in', 'canto_34')
+* ('rama', 'is in', 'canto_34')
+* ('lakshmana', 'is in', 'canto_34')
+* ('sugriva', 'is in', 'canto_34')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('sita', 'suspects', 'ravana_in_disguise')
+('sita', 'spoke_to', 'hanuman')
+('hanuman', 'bowed_to', 'sita')
+('sita', 'recalled_incident_at', 'janasthana')
+('ravana', 'disguised_as', 'recluse')
+('sita', 'questioned', 'hanuman')
+('sita', 'weakened_by', 'fasting')
+('sita', 'felt_hope', 'hanuman_arrival')
+('sita', 'inquired_about', 'rama')
+('hanuman', 'potential_messenger_of', 'rama')
+('sita', 'longed_to_hear_about', 'rama')
+('sita', 'abducted_by', 'ravana')
+('rama', 'sent', 'hanuman')
+('sita', 'saw', 'rama_and_lakshmana_in_dream')
+('sita', 'encountered', 'hanuman')
+('sita', 'is_in', 'canto_34')
+('hanuman', 'is_in', 'canto_34')
+('rama', 'is_in', 'canto_34')
+('ravana', 'is_in', 'canto_34')
+('lakshmana', 'is_in', 'canto_34')
+
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```python
+[
+('sita', 'is_wife_of', 'rama'),
+('rama', 'is_husband_of', 'sita'),
+('hanuman', 'is_messenger_of', 'rama'),
+('rama', 'is_brother_of', 'lakshmana'),
+('lakshmana', 'is_brother_of', 'rama'),
+('rama', 'is_allied_with', 'sugriva'),
+('sugriva', 'is_allied_with', 'rama'),
+('ravana', 'kidnapped', 'sita'),
+('sita', 'was_kidnapped_by', 'ravana'),
+('rama', 'seeks_to_defeat', 'ravana'),
+
+('sita', 'interacts_with_hanuman', 'canto_34'),
+('hanuman', 'reveals_his_identity', 'canto_34'),
+('sita', 'is_apprehensive', 'canto_34'),
+('hanuman', 'reassures_sita', 'canto_34'),
+
+
+('sita', 'is_in', 'canto_34'),
+('hanuman', 'is_in', 'canto_34'),
+('rama', 'is_in', 'canto_34'),
+('lakshmana', 'is_in', 'canto_34'),
+('sugriva', 'is_in', 'canto_34'),
+('ravana','is_in','canto_34'),
+]
+```jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'reassures', 'sita')
+('rama', 'will_rescue', 'sita')
+('lakshmana', 'will_rescue', 'sita')
+('sugriva', 'will_rescue', 'sita')
+('monkey_army', 'will_rescue', 'sita')
+('hanuman', 'is_minister_of', 'sugriva')
+('hanuman', 'crossed_ocean', 'lanka')
+('hanuman', 'infiltrated', 'ravana_city')
+('sita', 'is_held_captive_by', 'ravana')
+('hanuman', 'is_envoy_of', 'rama')
+
+
+('hanuman', 'conversed_with', 'sita')
+('sita', 'mistook', 'hanuman_for_ravana')
+('hanuman', 'revealed_identity', 'sita')
+
+
+('hanuman', 'is_in', 'canto_34')
+('sita', 'is_in', 'canto_34')
+('rama', 'is_in', 'canto_34')
+('lakshmana', 'is_in', 'canto_34')
+('sugriva', 'is_in', 'canto_34')
+('ravana', 'is_in', 'canto_34')
+
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('sita', 'questions', 'hanuman'),
+('hanuman', 'met', 'rama'),
+('hanuman', 'met', 'lakshmana'),
+('rama', 'has', 'lotus_petal_eyes'),
+('rama', 'has', 'moon_like_face'),
+('rama', 'is', 'generous'),
+('rama', 'is', 'charming'),
+('rama', 'compared_to', 'sun_brilliance'),
+('rama', 'compared_to', 'earth_patience'),
+('rama', 'compared_to', 'brihaspati_wisdom'),
+('rama', 'compared_to', 'indra_fame'),
+('rama', 'protects', 'all_beings'),
+('rama', 'protects', 'his_people'),
+('rama', 'protects', 'righteousness'),
+('rama', 'upholds', 'social_order'),
+('rama', 'inspires', 'proper_conduct'),
+('rama', 'is', 'radiant'),
+('rama', 'is', 'revered'),
+('rama', 'is', 'chaste'),
+('rama', 'appreciates', 'holy_men'),
+('rama', 'promotes', 'virtuous_deeds'),
+('sita', 'is_in', 'canto_35'),
+('hanuman', 'is_in', 'canto_35'),
+('rama', 'is_in', 'canto_35'),
+('lakshmana', 'is_in', 'canto_35')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'describes', 'rama_physical_attributes')
+* ('hanuman', 'describes', 'rama_noble_qualities')
+* ('rama', 'has', 'noble_qualities')
+* ('rama', 'has', 'impressive_physique')
+* ('rama', 'skilled_in', 'politics')
+* ('rama', 'skilled_in', 'religion')
+* ('rama', 'is', 'wise')
+* ('rama', 'is', 'amiable')
+* ('rama', 'is', 'formidable_warrior')
+* ('rama', 'has', 'broad_shoulders')
+* ('rama', 'has', 'strong_arms')
+* ('rama', 'has', 'graceful_neck')
+* ('rama', 'has', 'striking_features')
+* ('rama', 'has', 'resonant_voice')
+* ('rama', 'has', 'radiant_skin')
+* ('rama', 'has', 'well_proportioned_build')
+* ('rama', 'is', 'righteous')
+* ('rama', 'is', 'generous')
+* ('rama', 'is', 'prudent')
+* ('rama', 'has', 'eloquence')
+* ('lakshmana', 'has', 'similar_qualities_to_rama')
+* ('rama', 'is_brother_of', 'lakshmana')
+* ('hanuman', 'is_in', 'canto_35')
+* ('rama', 'is_in', 'canto_35')
+* ('lakshmana', 'is_in', 'canto_35')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'meets', 'rama')
+* ('hanuman', 'meets', 'lakshmana')
+* ('rama', 'searches_for', 'sita')
+* ('lakshmana', 'searches_for', 'sita')
+* ('rama', 'joins', 'search_party')
+* ('lakshmana', 'joins', 'search_party')
+* ('sugriva', 'fears', 'vali')
+* ('sugriva', 'is_brother_of', 'vali')
+* ('sugriva', 'hides_on', 'mount_rsyamuka')
+* ('hanuman', 'attends_to', 'sugriva')
+* ('rama', 'meets', 'sugriva')
+* ('lakshmana', 'meets', 'sugriva')
+* ('hanuman', 'carries', 'rama')
+* ('hanuman', 'carries', 'lakshmana')
+* ('rama', 'related_in_canto_35', 'lakshmana')
+* ('rama', 'related_in_canto_35', 'hanuman')
+* ('rama', 'related_in_canto_35', 'sugriva')
+* ('lakshmana', 'related_in_canto_35', 'hanuman')
+* ('lakshmana', 'related_in_canto_35', 'sugriva')
+* ('hanuman', 'related_in_canto_35', 'sugriva')
+
+
+* ('rama', 'searching_for_sita', 'meets_sugriva')
+* ('lakshmana', 'searching_for_sita', 'meets_sugriva')
+* ('sugriva', 'exiled', 'hides_on_mount_rsyamuka')
+* ('hanuman', 'serving_sugriva', 'meets_rama_and_lakshmana')
+
+
+* ('rama', 'is_in', 'canto_35')
+* ('lakshmana', 'is_in', 'canto_35')
+* ('hanuman', 'is_in', 'canto_35')
+* ('sugriva', 'is_in', 'canto_35')
+* ('sita', 'is_in', 'canto_35')
+* ('vali', 'is_in', 'canto_35')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('rama', 'grief_over', 'sita_absence')
+* ('rama', 'determined_to', 'rescue_sita')
+* ('rama', 'will_defeat', 'ravana')
+* ('rama', 'allied_with', 'sugriva')
+* ('rama', 'defeated', 'vali')
+* ('hanuman', 'told_sita_about', 'rama_grief')
+* ('hanuman', 'messenger_of', 'rama')
+* ('hanuman', 'is_in', 'canto_35')
+* ('rama', 'is_in', 'canto_35')
+* ('sita', 'is_in', 'canto_35')
+* ('sugriva', 'is_in', 'canto_35')
+* ('ravana', 'is_in', 'canto_35')
+* ('vali', 'is_in', 'canto_35')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* (hanuman, recounts_journey_of, angada)
+* (angada, is_son_of, vali)
+* (angada, leads_search_party, sita)
+* (sugriva, fears_wrath_of, search_party)
+* (search_party, searches_for, sita)
+* (jatayu, protects, sita)
+* (sampati, is_brother_of, jatayu)
+* (sampati, demands_information_about, jatayu)
+* (angada, recounts_sacrifice_of, jatayu)
+
+
+* (angada, leads_search, sita_disappearance)
+* (angada, grieves, vali_death)
+* (angada, laments, jatayu_demise)
+* (sampati, learns_of, jatayu_death)
+
+
+* (hanuman, is_in, canto_35)
+* (angada, is_in, canto_35)
+* (vali, is_in, canto_35)
+* (sita, is_in, canto_35)
+* (sugriva, is_in, canto_35)
+* (jatayu, is_in, canto_35)
+* (sampati, is_in, canto_35)
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'tells_location_of_sita', 'sita')
+('sampati', 'revealed_sita_location', 'ravana')
+('sita', 'is_captive_of', 'ravana')
+('hanuman', 'is_messenger_of', 'rama')
+('rama', 'seeks_to_rescue', 'sita')
+('lakshmana', 'seeks_to_rescue', 'sita')
+('hanuman', 'crossed_ocean', 'lanka')
+('hanuman', 'is in', 'canto_35')
+('sita', 'is in', 'canto_35')
+('rama', 'is in', 'canto_35')
+('lakshmana', 'is in', 'canto_35')
+('ravana', 'is in', 'canto_35')
+('sampati', 'is in', 'canto_35')
+
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'assures', 'sita_of_ramas_arrival')
+('rama', 'defeated', 'ravana')
+('rama', 'defeated', 'ravanas_army')
+('kesari', 'killed', 'sambasadana')
+('kesari', 'fought_at', 'gokarna_mountain')
+('hanuman', 'is_son_of', 'kesari')
+('hanuman', 'is_son_of', 'wind_god')
+('hanuman', 'is_messenger_of', 'rama')
+('hanuman', 'asks', 'sita')
+('sita', 'related_in_canto_35', 'rama')
+('hanuman', 'related_in_canto_35', 'sita')
+('rama', 'related_in_canto_35', 'ravana')
+('sita', 'is in', 'canto_35')
+('hanuman', 'is in', 'canto_35')
+('rama', 'is in', 'canto_35')
+('ravana', 'is in', 'canto_35')
+('kesari', 'is in', 'canto_35')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'is_son_of', 'wind_god')
+('hanuman', 'reassured', 'sita')
+('hanuman', 'gave_ring_to', 'sita')
+('sita', 'is_wife_of', 'rama')
+('hanuman', 'is_messenger_of', 'rama')
+('hanuman', 'crossed_ocean', 'reach_sita')
+('hanuman', 'infiltrated', 'ravana_stronghold')
+('sita', 'praised', 'hanuman')
+('sita', 'asked_about', 'rama')
+('sita', 'asked_about', 'lakshmana')
+
+
+('hanuman', 'delivers_ring', 'meeting_sita')
+('sita', 'receives_ring', 'meeting_hanuman')
+('sita', 'inquires_well_being', 'rama_lakshmana')
+('hanuman', 'consoles', 'sita_distress')
+('hanuman', 'explains_delay', 'rama_arrival')
+
+
+('hanuman', 'is_in', 'canto_36')
+('sita', 'is_in', 'canto_36')
+('rama', 'is_in', 'canto_36')
+('lakshmana', 'is_in', 'canto_36')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```python
+[
+('sita', 'is_wife_of', 'rama'),
+('sita', 'worries_about', 'rama_well_being'),
+('sita', 'worries_about', 'rama_rescue_efforts'),
+('sita', 'is_in', 'canto_36'),
+('rama', 'is_husband_of', 'sita'),
+('rama', 'is_in', 'canto_36'),
+('rama', 'possesses', 'ring'),
+('hanuman', 'delivers_ring_to', 'sita'),
+('hanuman', 'reassures', 'sita'),
+('hanuman', 'is_in', 'canto_36'),
+('kausalya', 'is_mother_of', 'rama'),
+('sita', 'inquires_about', 'kausalya_well_being'),
+('sumitra', 'is_mother_of', 'rama'),
+('sita', 'inquires_about', 'sumitra_well_being'),
+('bharata', 'is_brother_of', 'rama'),
+('sita', 'inquires_about', 'bharata_well_being'),
+('sita', 'wonders_about', 'bharata_sending_army'),
+
+]
+```jai_balayya_ew
+jai_balayya_ew
+```
+('sita', 'is_worried_about', 'rama')
+('sita', 'is_wife_of', 'rama')
+('rama', 'is_husband_of', 'sita')
+('sugriva', 'is_king_of', 'monkeys')
+('lakshmana', 'is_skilled_in', 'warfare')
+('rama', 'will_fight', 'ravana')
+('hanuman', 'is_messenger_of', 'rama')
+('rama', 'is_unaware_of', 'sita_location')
+('rama', 'will_rescue', 'sita')
+
+('sita', 'questions_sugriva_help', 'canto_36')
+('sita', 'expresses_hope_ravana_defeat', 'canto_36')
+('sita', 'recalls_rama_righteousness', 'canto_36')
+('sita', 'affirms_love_for_rama', 'canto_36')
+('hanuman', 'reveals_rama_ignorance', 'canto_36')
+('hanuman', 'assures_sita_of_rescue', 'canto_36')
+
+('sita', 'is_in', 'canto_36')
+('rama', 'is_in', 'canto_36')
+('lakshmana', 'is_in', 'canto_36')
+('hanuman', 'is_in', 'canto_36')
+('sugriva', 'is_in', 'canto_36')
+('ravana', 'is_in', 'canto_36')
+
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'consoles', 'sita_with_ramas_grief')
+('rama', 'grieves_for', 'sita')
+('hanuman', 'delivers_ring_to', 'sita')
+('sita', 'receives_ring_from', 'hanuman')
+('rama', 'is_husband_of', 'sita')
+('sita', 'doubts', 'ramas_love')
+('hanuman', 'reassures', 'sita')
+('rama', 'is_devoted_to', 'sita')
+('sita', 'is_in', 'canto_36')
+('hanuman', 'is_in', 'canto_36')
+('rama', 'is_in', 'canto_36')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```python
+text = """Sita, deeply saddened by Hanuman's news of Rama's grief, responded with a mixture of hope and despair.  She acknowledged Hanuman's words about Rama's devotion as bittersweet.  Sita reflected on the inevitability of death, regardless of one's fortune, citing herself, Rama, and Lakshmana as examples of those suffering despite their different circumstances.  She questioned how Rama could overcome his immense sorrow, comparing it to a vast, inescapable ocean.  Sita wondered when Rama would finally see her again, after defeating the demons, killing Ravana, and destroying Lanka.  Urging swift action, she revealed the time limit imposed by Ravana – twelve months – and that only two months remained. Sita explained how Ravana, despite Vibhishana's pleas, refused to return her.  She then shared information from Vibhishana's daughter, Kala, about a respected demon elder named Avindhya who had warned Ravana of impending doom if Sita wasn't returned, advice which Ravana ignored."""
+
+triplets = [
+    ('sita', 'is_wife_of', 'rama'),
+    ('hanuman', 'informed', 'sita'),
+    ('rama', 'grieves_for', 'sita'),
+    ('sita', 'is_held_captive_by', 'ravana'),
+    ('ravana', 'refuses_to_release', 'sita'),
+    ('vibhishana', 'pleads_with', 'ravana'),
+    ('kala', 'is_daughter_of', 'vibhishana'),
+    ('avindhya', 'warns', 'ravana'),
+
+    ('sita', 'expresses_despair', 'imprisonment'),
+    ('rama', 'experiences_grief', 'sita_capture'),
+    ('hanuman', 'delivers_message', 'rama_grief'),
+    ('ravana', 'ignores_warning', 'impending_doom'),
+    ('vibhishana', 'attempts_negotiation', 'sita_release'),
+
+    ('sita', 'is_in', 'canto_37'),
+    ('rama', 'is_in', 'canto_37'),
+    ('hanuman', 'is_in', 'canto_37'),
+    ('ravana', 'is_in', 'canto_37'),
+    ('vibhishana', 'is_in', 'canto_37'),
+    ('kala', 'is_in', 'canto_37'),
+    ('avindhya', 'is_in', 'canto_37'),
+    ('lakshmana', 'is_in','canto_37')
+
+]
+
+print(triplets)
+```
+
+
+Explanation of Changes and Reasoning:
+
+1. **Focus on Key Relationships and Events:** The triplets now emphasize the core relationships (Sita-Rama, Ravana-Sita, Vibhishana-Ravana) and the major events of the passage (Sita's despair, Ravana's refusal, Hanuman's message, Vibhishana's plea, Avindhya's warning).
+
+2. **Specific Relations:**  Instead of generic relations, more descriptive relations are used (e.g., `grieves_for`, `is_held_captive_by`, `refuses_to_release`, `warns`, `pleads_with`).  This adds more semantic meaning.
+
+3. **Contextual Events:** The (character, context, event) triplets are now more meaningful, describing specific situations like `sita_capture`, `rama_grief`, `impending_doom`.
+
+4. **"Is In" Canto Triplets:** Limited these to the main characters present in the text, adhering to the limit of 10.
+
+5. **Limited Number of Triplets:** The code now produces a reasonable number of triplets, within the specified constraints, while still capturing the essence of the passage.
+
+6. **Snake Casing:** All relations and entities are now in snake_case.
+
+
+This revised set of triplets is more informative and better suited for a knowledge graph or RAG system, focusing on the most important information within the text.jai_balayya_ew
+jai_balayya_ew
+```
+('sita', 'has_hope_in', 'rama_virtues')
+('rama', 'has_virtues', 'perseverance')
+('rama', 'has_virtues', 'courage')
+('rama', 'has_virtues', 'kindness')
+('rama', 'has_virtues', 'gratitude')
+('rama', 'has_virtues', 'prowess')
+('rama', 'has_virtues', 'energy')
+('rama', 'defeated', 'demons_janasthana')
+('sita', 'believes_in', 'rama_power')
+('rama', 'compared_to', 'indra')
+('hanuman', 'reassured', 'sita')
+('hanuman', 'will_relay_message_to', 'rama')
+('rama', 'will_march_to', 'lanka')
+('rama', 'leads', 'monkey_and_bear_army')
+('hanuman', 'offered_to_carry', 'sita')
+('hanuman', 'compared_to', 'sacred_fire')
+('rama', 'awaits', 'sita_return')
+('rama', 'compared_to', 'indra_on_mount_meru')
+('sita', 'is_in', 'canto_37')
+('rama', 'is_in', 'canto_37')
+('hanuman', 'is_in', 'canto_37')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'offers_safe_passage', 'sita')
+* ('hanuman', 'promises_reunion_with', 'rama')
+* ('sita', 'questions_ability_of', 'hanuman')
+* ('sita', 'expresses_doubt_about', 'hanuman')
+* ('hanuman', 'reveals_true_form_to', 'sita')
+* ('hanuman', 'meets_sita_in_lanka', 'canto_37')
+* ('sita', 'meets_hanuman_in_lanka', 'canto_37')
+* ('hanuman', 'is_in', 'canto_37')
+* ('sita', 'is_in', 'canto_37')
+* ('rama', 'is_husband_of', 'sita')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'addressed', 'sita')
+('hanuman', 'offered_to_carry', 'sita')
+('hanuman', 'offered_to_carry', 'lanka')
+('sita', 'questioned', 'hanuman')
+('sita', 'expressed_concerns_to', 'hanuman')
+('sita', 'is_wife_of', 'rama')
+('rama', 'is_husband_of', 'sita')
+('rama', 'is_brother_of', 'lakshmana')
+('lakshmana', 'is_brother_of', 'rama')
+('hanuman', 'is_in', 'canto_37')
+('sita', 'is_in', 'canto_37')
+('rama', 'context_canto_37', 'reunite_with_sita')
+('sita', 'context_canto_37', 'rescue_from_lanka')
+('hanuman', 'context_canto_37', 'messenger_to_sita')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('sita', 'expresses_doubts_to', 'hanuman')
+* ('sita', 'doubts_plan_of', 'hanuman')
+* ('hanuman', 'proposes_plan_to', 'sita')
+* ('sita', 'fears', 'rakshasas')
+* ('rakshasas', 'guarding', 'lanka')
+* ('sita', 'fears_falling_from', 'hanuman')
+* ('sita', 'fears_capture_by', 'rakshasas')
+* ('sita', 'concerned_about', 'rama')
+* ('sita', 'concerned_about', 'lakshmana')
+* ('sita', 'concerned_about', 'sugriva')
+* ('sita', 'important_to', 'rama')
+* ('sita', 'important_to', 'lakshmana')
+* ('sita', 'important_to', 'sugriva')
+* ('sita', 'fears_death_or_capture', 'event')
+* ('hanuman', 'proposes_rescue', 'event')
+* ('sita', 'in_lanka', 'event')
+* ('sita', 'is_in', 'canto_37')
+* ('hanuman', 'is_in', 'canto_37')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* (sita, desires_rescue_from, ravana)
+* (sita, affirms_devotion_to, rama)
+* (sita, was_abducted_by, ravana)
+* (ravana, abducted, sita)
+* (rama, is_husband_of, sita)
+* (sita, is_wife_of, rama)
+* (hanuman, is_messenger_of, rama)
+* (sita, requests_help_from, hanuman)
+* (rama, leads, monkey_army)
+* (rama, is_brother_of, lakshmana)
+* (lakshmana, is_brother_of, rama)
+* (sita, is_in, canto_37)
+* (rama, is_in, canto_37)
+* (hanuman, is_in, canto_37)
+* (lakshmana, is_in, canto_37)
+* (ravana, is_in, canto_37)
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'conveys_message_to', 'rama')
+('hanuman', 'meets', 'sita')
+('sita', 'gives_token_to', 'hanuman')
+('rama', 'husband_of', 'sita')
+('sita', 'wife_of', 'rama')
+('hanuman', 'devotes_to', 'rama')
+('hanuman', 'devotes_to', 'sita')
+('hanuman', 'enters', 'lanka')
+('hanuman', 'crosses', 'ocean')
+('sita', 'refuses_touch_by', 'other_males')
+('sita', 'narrates_story_to', 'hanuman')
+('hanuman', 'is_in', 'canto_38')
+('sita', 'is_in', 'canto_38')
+
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```
+('sita', 'is_wife_of', 'rama')
+('rama', 'is_husband_of', 'sita')
+('sita', 'recounts_incident_to', 'hanuman')
+('hanuman', 'receives_message_from', 'sita')
+('sita', 'lived_near', 'mandakini_river')
+('sita', 'lived_on', 'citrakita_mountain')
+('crow', 'attacked', 'sita')
+('rama', 'witnessed_sita', 'exposed')
+('sita', 'sought_comfort_from', 'rama')
+('sita', 'fell_asleep_in_arms_of', 'rama')
+('rama', 'fell_asleep_in_arms_of', 'sita')
+('crow', 'drew_blood_from', 'sita')
+('rama', 'awakened_by', 'crow_attack')
+('sita', 'related_in_canto_38', 'crow_incident')
+('rama', 'related_in_canto_38', 'crow_incident')
+('hanuman', 'related_in_canto_38', 'crow_incident')
+
+
+('sita', 'is_in', 'canto_38')
+('rama', 'is_in', 'canto_38')
+('hanuman', 'is_in', 'canto_38')
+('laksmana', 'is_in', 'canto_38')
+
+
+('sita', 'asked_for_token_by', 'hanuman')
+('sita', 'narrates', 'crow_incident')
+('hanuman', 'delivers_message_to', 'rama')
+('sita', 'sends_greetings_to', 'rama')
+('sita', 'sends_greetings_to', 'laksmana')
+('sita', 'gives_jewel_to', 'hanuman')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('rama', 'witnessed', 'sita_distressed')
+* ('rama', 'witnessed', 'sita_bleeding')
+* ('rama', 'questioned', 'crow_attack')
+* ('indra', 'is_father_of', 'crow')
+* ('crow', 'attacked', 'sita')
+* ('rama', 'used', 'kusa_grass_weapon')
+* ('rama', 'spared', 'crow')
+* ('crow', 'sacrificed', 'right_eye')
+* ('rama', 'accepted', 'crow_sacrifice')
+* ('sita', 'narrated', 'crow_story')
+* ('sita', 'gave', 'head_jewel_to_hanuman')
+* ('hanuman', 'received', 'head_jewel')
+* ('sita', 'asked_hanuman_to_relay_message', 'rama')
+* ('sita', 'sent_greetings', 'lakshmana')
+* ('sita', 'set_one_month_deadline', 'survival')
+* ('rama', 'is_in', 'canto_38')
+* ('sita', 'is_in', 'canto_38')
+* ('crow', 'is_in', 'canto_38')
+* ('indra', 'is_in', 'canto_38')
+* ('hanuman', 'is_in', 'canto_38')
+* ('lakshmana', 'is_in', 'canto_38')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('sita', 'questions', 'rama_using_brahmastra_on_crow')
+('sita', 'questions', 'rama_tolerating_ravana_abduction')
+('rama', 'used', 'brahmastra')
+('rama', 'used_brahmastra_on', 'crow')
+('ravana', 'abducted', 'sita')
+('sita', 'is_wife_of', 'rama')
+('rama', 'is_husband_of', 'sita')
+('rama', 'has_compassion', 'sita')
+('rama', 'is_compared_to', 'ocean')
+('rama', 'is_compared_to', 'indra')
+('rama', 'is_strong', 'None')
+('lakshmana', 'is_strong', 'None')
+('rama', 'did_not_use_weaponry_against', 'rakshasas')
+('lakshmana', 'did_not_rescue', 'sita')
+('rama', 'did_not_rescue', 'sita')
+('sita', 'blames', 'past_misdeeds')
+('sita', 'is_related_in_canto_38', 'rama')
+('sita', 'is_related_in_canto_38', 'lakshmana')
+('sita', 'is_related_in_canto_38', 'hanuman')
+('rama', 'is_brother_of', 'lakshmana')
+('lakshmana', 'is_brother_of', 'rama')
+
+('sita', 'is_in', 'canto_38')
+('rama', 'is_in', 'canto_38')
+('lakshmana', 'is_in', 'canto_38')
+('hanuman', 'is_in', 'canto_38')
+('ravana', 'is_in', 'canto_38')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'consoles', 'sita')
+* ('sita', 'is_grieving_due_to', 'separation_from_rama')
+* ('rama', 'is_grieving_due_to', 'separation_from_sita')
+* ('lakshmana', 'shares_sorrow_with', 'rama')
+* ('hanuman', 'informs_of_imminent_rescue', 'sita')
+* ('rama', 'desires_to_see', 'sita')
+* ('lakshmana', 'desires_to_see', 'sita')
+* ('rama', 'will_destroy', 'rakshasas')
+* ('lakshmana', 'will_destroy', 'rakshasas')
+* ('rama', 'will_kill', 'ravana')
+* ('rama', 'will_rescue', 'sita')
+* ('sita', 'is_in', 'canto_38')
+* ('hanuman', 'is_in', 'canto_38')
+* ('rama', 'is_in', 'canto_38')
+* ('lakshmana', 'is_in', 'canto_38')
+* ('ravana', 'is_in', 'canto_38')
+* ('sita', 'gives_token_to', 'hanuman')
+* ('hanuman', 'receives_token_from', 'sita')
+* ('sita', 'sends_greetings_to', 'rama')
+* ('sita', 'sends_greetings_to', 'lakshmana')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('sita', 'requests', 'message_delivery')
+* ('hanuman', 'delivers', 'message')
+* ('sita', 'is_wife_of', 'rama')
+* ('rama', 'is_husband_of', 'sita')
+* ('rama', 'is_son_of', 'kausalya')
+* ('lakshmana', 'is_brother_of', 'rama')
+* ('rama', 'is_brother_of', 'lakshmana')
+* ('sita', 'praises', 'lakshmana')
+* ('lakshmana', 'supports', 'rama')
+* ('lakshmana', 'follows', 'rama_into_exile')
+* ('sita', 'sets', 'one_month_deadline')
+* ('ravana', 'holds_captive', 'sita')
+* ('sita', 'gives', 'head_jewel_to_hanuman')
+* ('sita', 'narrates', 'crow_story')
+* ('hanuman', 'repeats', 'crow_story_to_rama')
+* ('sita', 'is_in', 'canto_38')
+* ('rama', 'is_in', 'canto_38')
+* ('lakshmana', 'is_in', 'canto_38')
+* ('hanuman', 'is_in', 'canto_38')
+* ('kausalya', 'is_in', 'canto_38')
+* ('ravana','is_in','canto_38')
+
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('sita', 'is_wife_of', 'rama')
+* ('hanuman', 'meets', 'sita')
+* ('sita', 'is_held_captive_by', 'ravana')
+* ('hanuman', 'is_sent_by', 'rama')
+* ('sita', 'gives_token_to', 'hanuman')
+* ('rama', 'is_husband_of', 'sita')
+* ('sita', 'is in', 'canto_38')
+* ('hanuman', 'is in', 'canto_38')
+* ('rama', 'is in', 'canto_38')
+* ('lakshmana', 'is in', 'canto_38')
+* ('ravana', 'is in', 'canto_38')
+* ('sita', 'longing_for_rescue', 'meeting_hanuman')
+* ('hanuman', 'recieves_token', 'meeting_sita')
+* ('hanuman', 'thinking_of', 'rama')
+* ('hanuman', 'thinking_of', 'lakshmana')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('sita', 'gives_jewel_to', 'hanuman')
+('sita', 'requests_rescue_by', 'hanuman')
+('hanuman', 'agrees_to_rescue', 'sita')
+('sita', 'asks_to_assure_well_being_of', 'rama')
+('sita', 'asks_to_assure_well_being_of', 'lakshmana')
+('sita', 'asks_to_assure_well_being_of', 'sugriva')
+('sita', 'is_wife_of', 'rama')
+('lakshmana', 'is_brother_of', 'rama')
+('sita', 'is_in', 'canto_39')
+('hanuman', 'is_in', 'canto_39')
+('rama', 'is_in', 'canto_39')
+('lakshmana', 'is_in', 'canto_39')
+('sugriva', 'is_in', 'canto_39')
+('sita', 'requests_help_from', 'hanuman')
+('hanuman', 'promises_to_help', 'sita')
+('sita', 'is_held_captive', 'event')
+('hanuman', 'carries_message', 'event')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'reassured', 'sita_about_ramas_arrival')
+('rama', 'will_arrive_with', 'army')
+('army', 'is_composed_of', 'monkeys_and_bears')
+('rama', 'will_vanquish', 'sitas_enemies')
+('rama', 'has_unmatched', 'battle_prowess')
+('rama', 'can_defeat', 'mortals')
+('rama', 'can_defeat', 'demons')
+('rama', 'can_defeat', 'gods')
+('rama', 'can_defeat', 'indra')
+('rama', 'can_defeat', 'yama')
+('rama', 'fights_for', 'sita')
+('rama', 'can_conquer', 'earth')
+('rama', 'will_be_victorious_in', 'sitas_cause')
+('sita', 'is_grateful_to', 'hanuman')
+('sita', 'requests_hanuman_to', 'stay')
+('sita', 'fears_for', 'survival')
+('sita', 'is_in', 'canto_39')
+('rama', 'is_in', 'canto_39')
+('hanuman', 'is_in', 'canto_39')
+('hanuman', 'related_in_canto_39', 'sita')
+('hanuman', 'related_in_canto_39', 'rama')
+('rama', 'related_in_canto_39', 'sita')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('sita', 'expressed_doubt_to', 'hanuman')
+* ('sita', 'doubts_crossing_ocean', 'rama')
+* ('sita', 'doubts_crossing_ocean', 'lakshmana')
+* ('sita', 'believes_capable_of_crossing', 'garuda')
+* ('sita', 'believes_capable_of_crossing', 'wind_god')
+* ('sita', 'believes_capable_of_crossing', 'hanuman')
+* ('sita', 'considers', 'hanuman_wise')
+* ('sita', 'considers', 'hanuman_resourceful')
+* ('sita', 'desires_rescue_by', 'rama')
+* ('sita', 'wants', 'ravana_defeated')
+* ('hanuman', 'reassures', 'sita')
+* ('hanuman', 'conveys_message_from', 'sugriva')
+* ('sugriva', 'leads', 'monkey_and_bear_army')
+* ('sugriva', 'committed_to', 'sita_rescue')
+* ('rama', 'is_brother_of', 'lakshmana')
+* ('rama', 'leads', 'monkey_and_bear_army')
+* ('sita', 'is_wife_of', 'rama')
+* ('hanuman', 'related_in_canto_39', 'sita')
+* ('rama', 'related_in_canto_39', 'sita')
+* ('lakshmana', 'related_in_canto_39', 'sita')
+
+
+* ('sita', 'asks_for_rescue', 'canto_39')
+* ('hanuman', 'reassures_sita', 'canto_39')
+* ('sugriva', 'plans_rescue', 'canto_39')
+
+
+* ('sita', 'is_in', 'canto_39')
+* ('hanuman', 'is_in', 'canto_39')
+* ('rama', 'is_in', 'canto_39')
+* ('lakshmana', 'is_in', 'canto_39')
+* ('sugriva', 'is_in', 'canto_39')
+* ('garuda', 'is_in', 'canto_39')
+* ('wind_god', 'is_in', 'canto_39')
+* ('ravana', 'is_in', 'canto_39')
+
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'reassured', 'sita_about_army_strength')
+('hanuman', 'described_army', 'valiant_and_courageous')
+('sugriva', 'commands', 'monkey_army')
+('monkey_army', 'circled', 'earth')
+('hanuman', 'is_as_strong_as', 'other_monkeys')
+('some_monkeys', 'are_stronger_than', 'hanuman')
+('hanuman', 'reached', 'lanka')
+('monkey_army', 'can_reach', 'lanka')
+('hanuman', 'will_carry', 'rama_and_lakshmana')
+('rama', 'will_defeat', 'ravana')
+('rama', 'will_rescue', 'sita')
+('sita', 'will_return_to', 'ayodhya')
+('ravana', 'will_be_defeated_by', 'rama')
+
+('hanuman', 'is_in', 'canto_39')
+('sita', 'is_in', 'canto_39')
+('rama', 'is_in', 'canto_39')
+('lakshmana', 'is_in', 'canto_39')
+('sugriva', 'is_in', 'canto_39')
+('ravana','is_in','canto_39')
+
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'consoles', 'sita')
+* ('sita', 'meeting_hanuman', 'canto_39')
+* ('hanuman', 'describing_monkey_army', 'canto_39')
+* ('rama', 'suffering_separation', 'canto_39')
+* ('sita', 'held_captive', 'canto_39')
+* ('hanuman', 'promises_rescue', 'canto_39')
+* ('rama', 'is_husband_of', 'sita')
+* ('lakshmana', 'related_in_canto_39', 'rama')
+* ('lakshmana', 'related_in_canto_39', 'sita')
+* ('hanuman', 'is_in', 'canto_39')
+* ('sita', 'is_in', 'canto_39')
+* ('rama', 'is_in', 'canto_39')
+* ('lakshmana', 'is_in', 'canto_39')
+
+
+jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'enters', 'lanka')
+('hanuman', 'bypasses', 'city_defenses')
+('hanuman', 'observes', 'opulent_architecture')
+('hanuman', 'hears', 'sounds_of_city')
+('hanuman', 'is_in', 'canto_4')
+('rakshasas', 'live_in', 'lanka')
+('rakshasas', 'engage_in', 'contests_of_strength')
+('rakshasas', 'is_in', 'canto_4')
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'observes_rakshasas', 'lanka')
+('rakshasas', 'live_in', 'lanka')
+('some_rakshasas', 'practice', 'religious_practices')
+('some_rakshasas', 'chant', 'mantras')
+('some_rakshasas', 'study', 'scriptures')
+('some_rakshasas', 'proclaim_loyalty_to', 'ravana')
+('some_rakshasas', 'disguised_as', 'ascetics')
+('some_rakshasas', 'disguised_as', 'holy_men')
+('rakshasas_spies', 'possess', 'weapons')
+('rakshasas', 'wear', 'clothing_jewelry')
+('hanuman', 'is_in', 'canto_4')
+('ravana', 'is_in', 'canto_4')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* (hanuman, observes_palace, ravana_palace)
+* (ravana, owns, palace)
+* (palace, located_in, mount_trikuta)
+* (palace, guarded_by, yatudhanas)
+* (hanuman, enters, inner_chambers)
+* (hanuman, is_in, canto_4)
+* (ravana, is_in, canto_4)
+
+
+jai_balayya_ew
+jai_balayya_ew
+```python
+[
+    ('sita', 'asks_for_help', 'meeting_hanuman'),
+    ('hanuman', 'gives_assurance', 'meeting_sita'),
+    ('sita', 'shares_plight', 'meeting_hanuman'),
+    ('sita', 'gives_jewel', 'meeting_hanuman'),
+    ('sita', 'sets_one_month_deadline', 'meeting_hanuman'), 
+    ('sita', 'is_wife_of', 'rama'),
+    ('hanuman', 'is_messenger_of', 'rama'),
+    ('rama', 'is_husband_of', 'sita'),
+    ('sita', 'is_captive_of', 'rakshasas'),
+    ('sita', 'is_in', 'canto_40'),
+    ('hanuman', 'is_in', 'canto_40'),
+    ('rama', 'related_in_canto_40', 'sita'),
+    ('rama', 'related_in_canto_40', 'hanuman')
+
+]
+```jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'reassured', 'sita')
+* ('rama', 'grieved_by', 'sita_absence')
+* ('lakshmana', 'grieved_by', 'sita_absence')
+* ('hanuman', 'promised', 'sita_rescue')
+* ('rama', 'determined_to', 'reunite_with_sita')
+* ('lakshmana', 'determined_to', 'reunite_with_sita')
+* ('rama', 'will_destroy', 'lanka')
+* ('lakshmana', 'will_destroy', 'lanka')
+* ('hanuman', 'asked_token_from', 'sita')
+* ('sita', 'gave_token_to', 'hanuman')
+* ('sita', 'asked_hanuman_to_convey_well_being_to', 'rama')
+* ('sita', 'asked_hanuman_to_convey_well_being_to', 'lakshmana')
+* ('sita', 'asked_hanuman_to_convey_well_being_to', 'sugriva')
+* ('sita', 'implored', 'rama_to_rescue_her')
+* ('sita', 'described_sorrow_to', 'hanuman')
+* ('sita', 'described_threats_from', 'rakshasas')
+* ('sita', 'wished_safe_journey_to', 'hanuman')
+* ('sita', 'reminded_rama_of', 'cheek_mark')
+* ('sita', 'reminded_rama_of', 'crow_incident')
+* ('rama', 'related_in_canto_40', 'sita')
+* ('lakshmana', 'related_in_canto_40', 'sita')
+* ('hanuman', 'related_in_canto_40', 'sita')
+* ('sugriva', 'related_in_canto_40', 'sita')
+* ('sita', 'is_in', 'canto_40')
+* ('hanuman', 'is_in', 'canto_40')
+* ('rama', 'is_in', 'canto_40')
+* ('lakshmana', 'is_in', 'canto_40')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'met', 'sita')
+* ('hanuman', 'conveyed_message_to', 'rama')
+* ('sita', 'requested', 'hanuman')
+* ('sita', 'wife_of', 'rama')
+* ('hanuman', 'is_in', 'canto_40')
+* ('sita', 'is_in', 'canto_40')
+* ('rama', 'is_in', 'canto_40')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'is_in', 'canto_41')
+('ravana', 'is_in', 'canto_41')
+('sita', 'is_in', 'canto_41')
+('sugriva', 'is_in', 'canto_41')
+
+
+('hanuman', 'recieved_message_from', 'sita')
+('hanuman', 'destroyed', 'ravana_pleasure_garden')
+('hanuman', 'gauged_strength_of', 'ravana')
+('hanuman', 'planned_to_confront', 'ravana')
+('hanuman', 'observed', 'ravana_garden')
+
+('hanuman', 'considered_mission_incomplete', 'recieving_sitas_message')
+('hanuman', 'destroyed_garden_to', 'gauge_enemy_strength')
+('hanuman', 'believed_display_of_strength', 'effective_against_rakshasas')
+('hanuman', 'aimed_to_defeat', 'rakshasa_warriors')
+('hanuman', 'planned_confrontation_to', 'assess_ravana_power')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'destroyed_the', 'pleasure_garden')
+* ('hanuman', 'confronted', 'ravana_s_army')
+* ('hanuman', 'is_in', 'canto_41')
+* ('ravana', 'owns_the', 'pleasure_garden')
+* ('ravana', 'is_in', 'canto_41')
+* ('sugriva', 'is_allied_with', 'hanuman')
+* ('sugriva', 'is_in', 'canto_41')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'caused_devastation', 'royal_pleasance')
+* ('hanuman', 'is_in', 'canto_42')
+* ('sita', 'is_in', 'canto_42')
+* ('ravana', 'is_in', 'canto_42')
+* ('prahasta', 'is_in', 'canto_42')
+* ('ogresses', 'questioned', 'sita')
+* ('sita', 'claimed_ignorance_about', 'hanuman')
+* ('ogresses', 'informed_ravana_about', 'hanuman')
+* ('ravana', 'sent_prahastas_son_to_punish', 'hanuman')
+* ('hanuman', 'defeated', 'kinkaras')
+* ('kinkaras', 'related_in_canto_42', 'ravana')
+* ('sita', 'is_wife_of', 'ravana') #based on sita being held captive
+* ('prahasta', 'is_father_of', 'prahastas_son')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'is_in', 'canto_42')
+('ravana', 'is_in', 'canto_42')
+('sita', 'is_in', 'canto_42')
+('ogresses', 'is_in', 'canto_42')
+('kinkaras', 'is_in', 'canto_42')
+('prahasta_son', 'is_in','canto_42')
+
+
+('hanuman', 'destroyed', 'asoka_grove')
+('hanuman', 'spoke_with', 'sita')
+('sita', 'feigned_ignorance_of', 'hanuman_identity')
+('ogresses', 'reported_to', 'ravana')
+('ravana', 'ordered_to_subdue', 'hanuman')
+('kinkaras', 'sent_to_capture', 'hanuman')
+('hanuman', 'defeated', 'kinkaras')
+('ravana', 'sent_prahasta_son_to_capture','hanuman')
+('ravana', 'considers', 'sita_his_wife')
+
+
+('sita', 'is_captive_of', 'ravana')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+1. (hanuman, is_in, canto_42)
+2. (ravana, is_in, canto_42)
+3. (sita, is_in, canto_42)
+4. (rama, is_related_in_canto_42_of, hanuman)
+5. (lakshmana, is_related_in_canto_42_of, hanuman)
+6. (sugriva, is_related_in_canto_42_of, hanuman)
+7. (hanuman, confronts_kinkaras, canto_42)
+8. (hanuman, declares_allegiance_to_rama, canto_42)
+9. (hanuman, threatens_ravana, canto_42)
+10. (ravana, sends_son_to_punish_hanuman, canto_42)
+11. (sita, questioned_by_ogresses, canto_42)
+12. (hanuman, destroys_royal_pleasance, canto_42)
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'fought_against', 'kinkara_warriors')
+* ('hanuman', 'serves', 'rama')
+* ('hanuman', 'defeated', 'kinkaras')
+* ('hanuman', 'fought_against', 'jambumali')
+* ('jambumali', 'is_son_of', 'prahasta')
+* ('ravana', 'sent', 'jambumali')
+* ('ogres', 'reported_to', 'ravana')
+* ('hanuman', 'destroyed_royal_pleasance', 'ravana')
+* ('hanuman', 'is_in', 'canto_42')
+* ('rama', 'is_in', 'canto_42')
+* ('ravana', 'is_in', 'canto_42')
+* ('sita', 'is_in', 'canto_42')
+* ('jambumali', 'is_in', 'canto_42')
+* ('prahasta', 'is_in', 'canto_42')
+* ('kinkaras', 'is_in', 'canto_42')
+* ('ogres', 'is_in', 'canto_42')
+* ('hanuman', 'defeated_kinkaras', 'canto_42')
+* ('ravana', 'dispatched_jambumali', 'canto_42')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'demolished', 'ravana_sanctuary')
+* ('hanuman', 'challenged', 'ravana')
+* ('hanuman', 'conveyed_respects_to', 'sita')
+* ('hanuman', 'is_in', 'canto_43')
+* ('ravana', 'is_in', 'canto_43')
+* ('sita', 'is_in', 'canto_43')
+* ('hanuman', 'is_allied_with', 'rama')
+* ('ravana', 'related_in_canto_43', 'hanuman')
+* ('sita', 'related_in_canto_43', 'hanuman')
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'fought_against', 'ravana_guards')
+* ('hanuman', 'destroyed', 'sanctuary')
+* ('hanuman', 'is_ally_of', 'sugriva')
+* ('hanuman', 'searched_for', 'sita')
+* ('sugriva', 'leads', 'monkey_army')
+* ('ravana', 'employs', 'ravana_guards')
+* ('hanuman', 'defeated', 'ravana_guards')
+* ('hanuman', 'is in', 'canto_43')
+* ('ravana', 'is in', 'canto_43')
+* ('sita', 'is in', 'canto_43')
+* ('sugriva', 'is in', 'canto_43')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'threatens', 'ogres')
+('hanuman', 'warns_about', 'sugriva')
+('hanuman', 'warns_about', 'rama')
+('sugriva', 'leads', 'army_of_monkeys')
+('sugriva', 'will_attack', 'lanka')
+('ravana', 'provoked', 'rama')
+('rama', 'will_attack', 'ravana')
+('hanuman', 'destroyed', 'sanctuary')
+('hanuman', 'killed', 'guards')
+('hanuman', 'is_in', 'canto_43')
+('sugriva', 'is_in', 'canto_43')
+('ravana', 'is_in', 'canto_43')
+('rama', 'is_in', 'canto_43')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('jambumali', 'is_son_of', 'prahasta')
+* ('jambumali', 'fought_against', 'hanuman')
+* ('hanuman', 'fought_against', 'jambumali')
+* ('jambumali', 'is in', 'canto_44')
+* ('hanuman', 'is in', 'canto_44')
+* ('prahasta', 'is_related_in_canto_44', 'jambumali')
+* ('ravana', 'gave_orders_to', 'jambumali')
+* ('jambumali', 'attacked', 'hanuman')
+* ('hanuman', 'attacked', 'jambumali')
+* ('jambumali', 'rode_donkey_drawn_chariot', 'battle')
+* ('hanuman', 'witnessed_arrival', 'jambumali')
+* ('hanuman', 'wounded_by', 'jambumali')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'fought_with', 'jambumali')
+* ('jambumali', 'attacked', 'hanuman')
+* ('hanuman', 'killed', 'jambumali')
+* ('ravana', 'is_angry_about', 'jambumali_death')
+* ('ravana', 'ordered_attack_on', 'hanuman')
+* ('hanuman', 'is_in', 'canto_44')
+* ('jambumali', 'is_in', 'canto_44')
+* ('ravana', 'is_in', 'canto_44')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'fought_against', 'ravana_s_army')
+* ('hanuman', 'defeated', 'kings_ministers')
+* ('ravana', 'sent', 'seven_sons_of_chief_minister')
+* ('seven_sons_of_chief_minister', 'fought_against', 'hanuman')
+* ('hanuman', 'is_in', 'canto_45')
+* ('ravana', 'is_in', 'canto_45')
+* ('kings_ministers', 'related_in_canto_45', 'hanuman')
+* ('seven_sons_of_chief_minister', 'related_in_canto_45', 'ravana')
+* ('seven_sons_of_chief_minister', 'related_in_canto_45', 'hanuman')
+
+jai_balayya_ew
+jai_balayya_ew
+* (hanuman, overwhelmed, sons_of_ravana_chief_minister)
+* (hanuman, caused_fear_in, ravana_army)
+* (hanuman, destroyed, chariots)
+* (hanuman, is_in, canto_45)
+* (sons_of_ravana_chief_minister, fought_against, hanuman)
+* (ravana_army, fled_from, hanuman)
+* (hanuman, displayed, immense_strength)
+* (hanuman, displayed, courage)
+* (hanuman, returned_to, archway)
+
+
+jai_balayya_ew
+jai_balayya_ew
+('ravana', 'ordered_capture_of', 'hanuman')
+('hanuman', 'killed', 'virupaksa')
+('hanuman', 'killed', 'yupaksa')
+('hanuman', 'killed', 'durdhara')
+('hanuman', 'killed', 'praghasa')
+('hanuman', 'killed', 'bhasakarna')
+('virupaksa', 'serves', 'ravana')
+('yupaksa', 'serves', 'ravana')
+('durdhara', 'serves', 'ravana')
+('praghasa', 'serves', 'ravana')
+('bhasakarna', 'serves', 'ravana')
+('ravana', 'suspects', 'hanuman')
+('hanuman', 'is_suspected_as', 'indra_agent')
+
+
+('ravana', 'plans_capture', 'capture_of_hanuman')
+('hanuman', 'returns_to', 'asoka_grove')
+('hanuman', 'killed_generals', 'killing_of_ravana_generals')
+
+
+('ravana', 'is_in', 'canto_46')
+('hanuman', 'is_in', 'canto_46')
+('virupaksa', 'is_in', 'canto_46')
+('yupaksa', 'is_in', 'canto_46')
+('durdhara', 'is_in', 'canto_46')
+('praghasa', 'is_in', 'canto_46')
+('bhasakarna', 'is_in', 'canto_46')
+
+jai_balayya_ew
+jai_balayya_ew
+* ('ravana', 'dispatched', 'generals')
+* ('ravana', 'doubts', 'hanuman')
+* ('hanuman', 'attacked_by', 'generals')
+* ('virupaksha', 'is_in', 'canto_46')
+* ('yupaksha', 'is_in', 'canto_46')
+* ('durdhara', 'is_in', 'canto_46')
+* ('praghasa', 'is_in', 'canto_46')
+* ('bhasakarna', 'is_in', 'canto_46')
+* ('hanuman', 'is_in', 'canto_46')
+* ('ravana', 'is_in', 'canto_46')
+* ('durdhara', 'attacked', 'hanuman')
+* ('hanuman', 'killed', 'generals')
+* ('hanuman', 'present_at', 'asoka_grove')
+jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'killed', 'durdhara')
+('hanuman', 'fought_against', 'ravana_generals')
+('durdhara', 'attacked', 'hanuman')
+('hanuman', 'killed', 'virupaksa')
+('hanuman', 'killed', 'yupaksa')
+('virupaksa', 'attacked', 'hanuman')
+('yupaksa', 'attacked', 'hanuman')
+('hanuman', 'killed', 'praghasa')
+('hanuman', 'killed', 'bhasakarna')
+('praghasa', 'attacked', 'hanuman')
+('bhasakarna', 'attacked', 'hanuman')
+('hanuman', 'returned_to', 'asoka_grove')
+('hanuman', 'is_in', 'canto_46')
+('durdhara', 'is_in', 'canto_46')
+('virupaksa', 'is_in', 'canto_46')
+('yupaksa', 'is_in', 'canto_46')
+('praghasa', 'is_in', 'canto_46')
+('bhasakarna', 'is_in', 'canto_46')
+('ravana', 'is_in', 'canto_46')
+
+
+jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'fought_against', 'ravana_forces')
+('hanuman', 'killed', 'virupaksa')
+('hanuman', 'killed', 'yupaksa')
+('hanuman', 'defeated', 'ravana_army')
+('hanuman', 'is_in', 'canto_46')
+('virupaksa', 'is_general_of', 'ravana')
+('yupaksa', 'is_general_of', 'ravana')
+('ravana', 'is_in', 'canto_46')
+('virupaksa', 'is_in', 'canto_46')
+('yupaksa', 'is_in', 'canto_46')
+
+('hanuman', 'killed_five_generals', 'canto_46')
+('hanuman', 'returned_to_asoka_grove', 'canto_46')
+
+
+jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'fights', 'aksa_killing')
+('ravana', 'is_father_of', 'aksa')
+('aksa', 'is_son_of', 'ravana')
+('aksa', 'challenges', 'hanuman')
+('hanuman', 'is_in', 'canto_47')
+('aksa', 'is_in', 'canto_47')
+('ravana', 'is_in', 'canto_47')
+('hanuman', 'destroys_army_of', 'ravana')
+('aksa', 'attacks', 'hanuman')
+('hanuman', 'kills', 'aksa')
+jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'fought_with', 'aksa')
+('aksa', 'is_son_of', 'ravana')
+('aksa', 'attacked', 'hanuman')
+('hanuman', 'is_in', 'canto_47')
+('aksa', 'is_in', 'canto_47')
+('aksa', 'died_in', 'canto_47')
+('hanuman', 'dodged', 'aksa_arrows')
+('aksa', 'shot_arrows_at', 'hanuman')
+('hanuman', 'is_general_of', 'monkey_army') 
+('aksa', 'is_prince', 'lanka')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'fought_against', 'aksa')
+('aksa', 'is_son_of', 'ravana')
+('hanuman', 'killed', 'aksa')
+('aksa', 'attacked', 'hanuman')
+('hanuman', 'is_in', 'canto_47')
+('aksa', 'is_in', 'canto_47')
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'killed', 'aksa')
+* ('aksa', 'is_son_of', 'ravana')
+* ('hanuman', 'fought_with', 'aksa')
+* ('indra', 'witnessed_fight', 'hanuman')
+* ('hanuman', 'is_in', 'canto_47')
+* ('aksa', 'is_in', 'canto_47')
+* ('ravana', 'is_in', 'canto_47')
+* ('indra', 'is_in', 'canto_47')
+* ('hanuman', 'defeated_aksa', 'canto_47')
+* ('aksa', 'killed_by_hanuman', 'canto_47')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('ravana', 'is_father_of', 'indrajit')
+('indrajit', 'is_son_of', 'ravana')
+('ravana', 'grieves_loss_of', 'army')
+('ravana', 'commands', 'indrajit')
+('indrajit', 'advised_to_capture', 'hanuman')
+('ravana', 'is_in', 'canto_48')
+('indrajit', 'is_in', 'canto_48')
+('hanuman', 'is_in', 'canto_48')
+('ravana', 'lost_kinsmen_and_generals', 'in_war')
+('indrajit', 'marches_against', 'hanuman')
+('hanuman', 'captured_by', 'indrajit')
+('indrajit', 'uses_brahmastra_on', 'hanuman')
+('hanuman', 'taken_to', 'ravana')
+
+```jai_balayya_ew
+jai_balayya_ew
+* ('indrajit', 'is_son_of', 'ravana')
+* ('ravana', 'is_father_of', 'indrajit')
+* ('indrajit', 'goes_to_battle_against', 'hanuman')
+* ('hanuman', 'fights', 'indrajit')
+* ('indrajit', 'captures', 'hanuman')
+* ('hanuman', 'is_captured_by', 'indrajit')
+* ('indrajit', 'uses_brahmastra_on', 'hanuman')
+* ('hanuman', 'affected_by_brahmastra_of', 'indrajit')
+* ('indrajit', 'takes_hanuman_to', 'ravana')
+* ('hanuman', 'is_taken_to', 'ravana')
+
+* ('indrajit', 'departure_for_battle', 'canto_48')
+* ('ravana', 'sends_son_to_war', 'canto_48')
+* ('hanuman', 'fights_indrajit', 'canto_48')
+
+* ('indrajit', 'is_in', 'canto_48')
+* ('ravana', 'is_in', 'canto_48')
+* ('hanuman', 'is_in', 'canto_48')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('indrajit', 'rides_celestial_chariot', 'battle_against_hanuman')
+('indrajit', 'son_of', 'ravana')
+('indrajit', 'fights', 'hanuman')
+('hanuman', 'son_of', 'vayu_wind_god')
+('hanuman', 'evades', 'indrajit_arrows')
+('indrajit', 'uses', 'brahmastra')
+('hanuman', 'captured_by', 'brahmastra')
+('hanuman', 'meets', 'ravana')
+('hanuman', 'is_in', 'canto_48')
+('indrajit', 'is_in', 'canto_48')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+('indrajit', 'is_son_of', 'ravana')
+('hanuman', 'is_son_of', 'wind_god')
+('indrajit', 'used_brahmastra_on', 'hanuman')
+('hanuman', 'is_captured_by', 'indrajit')
+('hanuman', 'met', 'ravana')
+('hanuman', 'is_bound_by', 'rakshasas')
+('indrajit', 'fought_against', 'hanuman')
+
+('indrajit', 'capture_of_hanuman', 'canto_48')
+('hanuman', 'bound_by_brahmastra', 'canto_48')
+('hanuman', 'meeting_with_ravana', 'canto_48')
+
+('indrajit', 'is_in', 'canto_48')
+('hanuman', 'is_in', 'canto_48')
+('ravana', 'is_in', 'canto_48')
+('brahma', 'is_in', 'canto_48')
+('wind_god', 'is_in', 'canto_48')
+('rakshasas', 'is_in', 'canto_48')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```python
+triplets = [
+    ('indrajit', 'is_son_of', 'ravana'),
+    ('hanuman', 'is_related_in_canto_48', 'indrajit'),
+    ('hanuman', 'is_related_in_canto_48', 'ravana'),
+    ('indrajit', 'is_in', 'canto_48'),
+    ('hanuman', 'is_in', 'canto_48'),
+    ('ravana', 'is_in', 'canto_48'),
+
+
+    ('hanuman', 'captured_by', 'brahmastra'),
+    ('indrajit', 'used', 'brahmastra'),
+    ('brahmastra', 'neutralized_by', 'hanuman'),  # Implicit but important
+    ('hanuman', 'presented_to', 'ravana'),
+    ('hanuman', 'questioned_by', 'ravana'), # advisors act for Ravana
+    ('hanuman', 'observed', 'ravana_court'),
+    ('ravana', 'observed', 'hanuman'),
+    ('indrajit', 'marched_against', 'hanuman'), # From extra context
+]
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'is_messenger_of', 'sugriva')
+* ('sugriva', 'is_king_of', 'monkeys')
+* ('indrajit', 'is_son_of', 'ravana')
+* ('ravana', 'dispatched', 'indrajit')
+* ('indrajit', 'captured', 'hanuman')
+* ('hanuman', 'met', 'ravana')
+* ('indrajit', 'brought', 'hanuman')
+* ('hanuman', 'related_in_canto_48', 'sugriva')
+* ('hanuman', 'related_in_canto_48', 'indrajit')
+* ('hanuman', 'related_in_canto_48', 'ravana')
+* ('indrajit', 'related_in_canto_48', 'ravana')
+
+
+* ('hanuman', 'mission_declaration', 'messenger')
+* ('hanuman', 'capture', 'brahmastra')
+* ('indrajit', 'attack', 'hanuman')
+
+* ('hanuman', 'is_in', 'canto_48')
+* ('sugriva', 'is_in', 'canto_48')
+* ('ravana', 'is_in', 'canto_48')
+* ('indrajit', 'is_in', 'canto_48')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'is_in', 'canto_49')
+* ('ravana', 'is_in', 'canto_49')
+* ('durdara', 'is_in', 'canto_49')
+* ('prahasta', 'is_in', 'canto_49')
+* ('mahaparsva', 'is_in', 'canto_49')
+* ('nikumbha', 'is_in', 'canto_49')
+* ('hanuman', 'observes', 'ravana_opulence')
+* ('ravana', 'has', 'opulent_attire')
+* ('ravana', 'has', 'powerful_presence')
+* ('ravana', 'has', 'twenty_eyes')
+* ('ravana', 'has', 'ten_heads')
+* ('ravana', 'has', 'twenty_arms')
+* ('ravana', 'sits_on', 'crystal_throne')
+* ('ravana', 'advised_by', 'durdara')
+* ('ravana', 'advised_by', 'prahasta')
+* ('ravana', 'advised_by', 'mahaparsva')
+* ('ravana', 'advised_by', 'nikumbha')
+* ('hanuman', 'notes', 'ravana_unrighteousness')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'observes', 'ravana')
+('ravana', 'is_king_of', 'ogres')
+('hanuman', 'is_awed_by', 'ravana')
+('ravana', 'possesses', 'charm')
+('ravana', 'possesses', 'composure')
+('ravana', 'possesses', 'courage')
+('ravana', 'possesses', 'splendor')
+('ravana', 'performs', 'cruel_deeds')
+('ravana', 'instills', 'fear')
+('hanuman', 'recognizes_capacity_for', 'destruction')
+('hanuman', 'is_in', 'canto_49')
+('ravana', 'is_in', 'canto_49')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```python
+[
+('hanuman', 'is_in', 'canto_5'),
+('hanuman', 'observes_moon', 'canto_5'),
+('hanuman', 'observes_ogres', 'canto_5'),
+('hanuman', 'searches_for_sita', 'canto_5'),
+('ogres', 'increased_activity', 'night'),
+('ogres', 'live_in', 'mansions'),
+('ogres', 'possess', 'chariots'),
+('ogres', 'possess', 'horses'),
+('ogres', 'display', 'strength'),
+('ogres', 'practice', 'archery'),
+('women', 'sleep_peacefully', 'night'),
+
+
+]
+```jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'is_in', 'canto_5')
+('sita', 'is_in', 'canto_5')
+('vibhishana', 'is_in', 'canto_5')
+
+('hanuman', 'surveys', 'lanka')
+('hanuman', 'observes', 'women_activities')
+('hanuman', 'observes', 'warriors')
+('hanuman', 'observes', 'city_inhabitants')
+('hanuman', 'searches_for', 'sita')
+('women', 'engaged_in', 'various_activities')
+('warriors', 'possess', 'restless_energy')
+('city_inhabitants', 'are', 'intelligent_and_eloquent')
+('women', 'display', 'varied_emotions')
+('women', 'show', 'affection_for_husbands_and_drinks')
+('women', 'adorned_with', 'gold_and_flowers')
+('sita', 'is', 'noble_princess')
+('sita', 'descends_from', 'virtuous_lineage')
+
+
+('hanuman', 'related_in_canto_5', 'sita')
+('hanuman', 'related_in_canto_5', 'vibhishana')
+
+
+```
+jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'is_searching_for', 'sita')
+('sita', 'is_wife_of', 'rama')
+('sita', 'is_captive_in', 'lanka')
+('rama', 'is_husband_of', 'sita')
+('hanuman', 'feels_sorrow_for', 'sita')
+('sita', 'feels_sorrow_for', 'rama')
+
+
+('sita', 'captivity', 'suffering_in_lanka')
+('hanuman', 'search', 'unable_to_find_sita')
+('sita', 'grief', 'missing_rama')
+
+
+('hanuman', 'is_in', 'canto_5')
+('sita', 'is_in', 'canto_5')
+('rama', 'is_in', 'canto_5')
+jai_balayya_ew
+jai_balayya_ew
+* ('ravana', 'is_in', 'canto_50')
+* ('hanuman', 'is_in', 'canto_50')
+* ('prahasta', 'is_in', 'canto_50')
+* ('rama', 'is_in', 'canto_50')
+* ('indra', 'related_in_canto_50', 'hanuman')
+* ('kubera', 'related_in_canto_50', 'hanuman')
+* ('yama', 'related_in_canto_50', 'hanuman')
+* ('varuna', 'related_in_canto_50', 'hanuman')
+* ('vishnu', 'related_in_canto_50', 'hanuman')
+* ('brahma', 'related_in_canto_50', 'hanuman')
+* ('nandi', 'related_in_canto_50', 'hanuman')
+* ('ravana', 'questions', 'hanuman')
+* ('prahasta', 'questions', 'hanuman')
+* ('hanuman', 'destroys_grove', 'lanka')
+* ('hanuman', 'kills', 'ogres')
+* ('hanuman', 'messenger_of', 'rama')
+* ('ravana', 'commands', 'prahasta')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'meets', 'ravana')
+* ('hanuman', 'destroys_grove_of', 'ravana')
+* ('hanuman', 'fights', 'ogres')
+* ('hanuman', 'is_messenger_of', 'sri_rama')
+* ('hanuman', 'is_immune_to', 'ogre_weapons')
+* ('hanuman', 'submits_to', 'brahma_missile')
+* ('hanuman', 'is_captured_by', 'ravana')
+* ('prahasta', 'questions', 'hanuman')
+* ('ravana', 'commands', 'prahasta')
+* ('hanuman', 'is in', 'canto_50')
+* ('ravana', 'is in', 'canto_50')
+* ('prahasta', 'is in', 'canto_50')
+* ('sri_rama', 'is in', 'canto_50')
+* ('brahma', 'is in', 'canto_50')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'conveyed_message_from', 'sugriva'),
+('hanuman', 'addressed', 'ravana'),
+('sugriva', 'is_king_of', 'monkeys'),
+('sugriva', 'made_promise_to', 'rama'),
+('rama', 'is_son_of', 'dasaratha'),
+('rama', 'is_husband_of', 'sita'),
+('rama', 'is_brother_of', 'lakshmana'),
+('sita', 'is_daughter_of', 'janaka'),
+('sita', 'is_wife_of', 'rama'),
+('lakshmana', 'is_brother_of', 'rama'),
+('rama', 'helped', 'sugriva'),
+('rama', 'killed', 'vali'),
+('hanuman', 'is_in', 'canto_51'),
+('rama', 'is_in', 'canto_51'),
+('sita', 'is_in', 'canto_51'),
+('ravana', 'is_in', 'canto_51'),
+('sugriva', 'is_in', 'canto_51'),
+('vali', 'is_in', 'canto_51'),
+('dasaratha', 'is_in', 'canto_51'),
+('hanuman', 'met_with', 'ravana'),
+('rama', 'exiled_to', 'dandaka_forest'),
+('sita', 'abducted_by', 'ravana'),
+('rama', 'met', 'sugriva')
+
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'is_son_of', 'wind_god')
+('hanuman', 'crossed_ocean_to', 'lanka')
+('hanuman', 'found', 'sita')
+('sita', 'is_in', 'ravana_garden')
+('hanuman', 'is_messenger_of', 'rama')
+('ravana', 'kidnapped', 'sita')
+('rama', 'is_husband_of', 'sita')
+('hanuman', 'warned', 'ravana')
+('hanuman', 'is_in', 'canto_51')
+('ravana', 'is_in', 'canto_51')
+('sita', 'is_in', 'canto_51')
+('rama', 'is_in', 'canto_51')
+('hanuman', 'searching_for', 'sita')
+('hanuman', 'met', 'ravana')
+('ravana', 'has', 'sita')
+('hanuman', 'delivers_message_to', 'ravana')
+('hanuman', 'conveys_warning_to', 'ravana')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'warns', 'ravana_kidnapping_sita')
+('ravana', 'kidnapped', 'sita')
+('hanuman', 'in_lanka', 'warns_ravana')
+('ravana', 'performed', 'austerities')
+('ravana', 'has', 'immunity_to_death')
+('rama', 'is', 'human')
+('sugriva', 'is', 'monkey')
+('rama', 'allied_with', 'sugriva')
+('ravana', 'defeated_by', 'rama_sugriva_alliance')
+('janasthana_ogres', 'defeated_by', 'rama')
+('vali', 'defeated_by', 'rama')
+('hanuman', 'can_destroy', 'lanka')
+('rama', 'vowed_to_annihilate', 'sita_harmers')
+('indra', 'wronged', 'rama')
+('indra', 'defeated_by', 'rama')
+('sita', 'compared_to', 'kalaratri')
+('sita', 'cause_of_doom', 'lanka')
+('hanuman', 'is_in', 'canto_51')
+('ravana', 'is_in', 'canto_51')
+('sita', 'is_in', 'canto_51')
+('rama', 'is_in', 'canto_51')
+('sugriva', 'is_in', 'canto_51')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'implored', 'ravana_to_return_sita')
+* ('ravana', 'threatened_by', 'hanuman_about_rama')
+* ('hanuman', 'messenger_of', 'rama')
+* ('rama', 'capable_of', 'destroying_universe')
+* ('ravana', 'ordered', 'hanuman_death')
+* ('rama', 'is_husband_of', 'sita')
+* ('ravana', 'abducted', 'sita')
+* ('hanuman', 'is_in', 'canto_51')
+* ('rama', 'is_in', 'canto_51')
+* ('ravana', 'is_in', 'canto_51')
+* ('sita', 'is_in', 'canto_51')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('ravana', 'is_angered_by', 'hanuman')
+* ('ravana', 'orders_execution_of', 'hanuman')
+* ('vibhisana', 'disapproves_of', 'execution')
+* ('vibhisana', 'is_brother_of', 'ravana')
+* ('vibhisana', 'advises', 'ravana')
+* ('vibhisana', 'argues_against', 'harming_hanuman')
+* ('hanuman', 'is_messenger', 'rama') # inferred, not explicitly stated
+* ('ravana', 'rejects', 'vibhisana_advice')
+* ('ravana', 'intends_to_kill', 'hanuman')
+* ('vibhisana', 'is_in', 'canto_52')
+* ('ravana', 'is_in', 'canto_52')
+* ('hanuman', 'is_in', 'canto_52')
+* ('hanuman', 'provokes', 'ravana')
+* ('hanuman', 'delivers_message_to', 'ravana') # inferred
+* ('vibhisana', 'tries_to_prevent', 'hanuman_execution')
+* ('ravana', 'ignores_dharma', 'by_ordering_execution')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('vibhisana', 'is_in', 'canto_52')
+* ('ravana', 'is_in', 'canto_52')
+* ('hanuman', 'is_in', 'canto_52')
+* ('rama', 'is_in', 'canto_52')
+* ('lakshmana', 'is_in', 'canto_52')
+* ('indra', 'is_in', 'canto_52')
+
+
+* ('vibhisana', 'advises', 'ravana_against_killing_hanuman')
+* ('ravana', 'orders_execution_of', 'hanuman')
+* ('hanuman', 'delivers_message_to', 'ravana')
+* ('hanuman', 'angered', 'ravana')
+* ('vibhisana', 'warns_against_killing', 'messenger')
+* ('vibhisana', 'suggests_alternative', 'punishments')
+* ('vibhisana', 'appeals_to', 'ravana_wisdom_dharma')
+* ('vibhisana', 'praises', 'ravana_prowess_knowledge')
+* ('vibhisana', 'argues_killing_hanuman', 'prevents_communication')
+* ('vibhisana', 'suggests_focus_on', 'indra')
+* ('vibhisana', 'claims_hanuman_death', 'prevents_war_with_rama_lakshmana')
+* ('rama', 'related_in_canto_52', 'lakshmana')
+* ('rama', 'related_in_canto_52', 'hanuman')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('vibhisana', 'advises', 'ravana')
+('ravana', 'considers_killing', 'hanuman')
+('vibhisana', 'discourages_violence_against', 'hanuman')
+('ravana', 'more_powerful_than', 'gods')
+('ravana', 'more_powerful_than', 'demons')
+('hanuman', 'monkey_envoy_of', 'rama')
+('vibhisana', 'suggests_capturing', 'rama')
+('vibhisana', 'suggests_capturing', 'lakshmana')
+('ravana', 'listens_to', 'vibhisana')
+('vibhisana', 'is_brother_of', 'ravana')
+
+
+('ravana', 'orders_execution_of_hanuman', 'canto_52')
+('vibhisana', 'prevents_hanuman_execution', 'canto_52')
+('hanuman', 'provokes_ravana', 'canto_52')
+
+
+('ravana', 'is_in', 'canto_52')
+('vibhisana', 'is_in', 'canto_52')
+('hanuman', 'is_in', 'canto_52')
+('rama', 'is_in', 'canto_52')
+('lakshmana', 'is_in', 'canto_52')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'is_captured_by', 'ravana')
+* ('hanuman', 'tail_set_on_fire', 'punishment')
+* ('vibhishana', 'advises', 'ravana')
+* ('vibhishana', 'against_killing', 'hanuman')
+* ('ravana', 'orders_tail_burning', 'hanuman')
+* ('hanuman', 'tail_used_as_weapon', 'attack')
+* ('hanuman', 'considers_escape', 'capture')
+* ('hanuman', 'serves', 'rama')
+* ('hanuman', 'is_in', 'canto_53')
+* ('ravana', 'is_in', 'canto_53')
+* ('vibhishana', 'is_in', 'canto_53')
+* ('sita', 'prays_for', 'hanuman')
+* ('sita', 'is_in', 'canto_53')
+* ('rama', 'is_master_of', 'hanuman')
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'endures_captivity', 'demonstrates_loyalty_to_rama')
+('hanuman', 'observes_lanka', 'gathers_intelligence')
+('hanuman', 'sets_tail_on_fire', 'captured_by_ravana')
+('hanuman', 'paraded_around_lanka', 'publicly_humiliated')
+('sita', 'prays_for_hanuman', 'shows_concern')
+('hanuman', 'escapes_fire', 'displays_divine_power')
+('hanuman', 'kills_gate_guards', 'retaliates_against_captors')
+('ravana', 'orders_hanuman_tormented', 'demonstrates_cruelty')
+('sita', 'worried_about_hanuman', 'displays_compassion')
+('hanuman', 'related_in_canto_53', 'sita')
+('hanuman', 'related_in_canto_53', 'ravana')
+
+('hanuman', 'is_in', 'canto_53')
+('sita', 'is_in', 'canto_53')
+('ravana', 'is_in', 'canto_53')
+```
+jai_balayya_ew
+jai_balayya_ew
+```python
+triplets = [
+    ('hanuman', 'is_in', 'canto_53'),
+    ('ravana', 'is_in', 'canto_53'),
+    ('sita', 'is_in', 'canto_53'),
+    ('hanuman', 'captured_by', 'rakshasas'),
+    ('rakshasas', 'paraded', 'hanuman'),
+    ('rakshasas', 'set_fire_to', 'hanuman_tail'),
+    ('sita', 'prays_to', 'agni'),
+    ('sita', 'prays_for', 'hanuman'),
+    ('hanuman', 'escaped', 'captivity'), 
+    ('hanuman', 'killed', 'ogres'),
+    ('sita', 'is_wife_of', 'rama'),
+    ('hanuman', 'serves', 'rama'),
+    ('ravana', 'ordered', 'hanuman_capture'),
+    ('hanuman', 'reconnoitres', 'lanka'),
+    ('sita', 'heard_about', 'hanuman_capture'),
+    ('hanuman', 'related_in_canto_53', 'sita'),
+    ('hanuman', 'related_in_canto_53', 'ravana'),
+    ('sita', 'related_in_canto_53', 'ravana')
+
+
+
+]
+```jai_balayya_ew
+jai_balayya_ew
+```
+('sita', 'prayed_to', 'agni_for_hanuman_protection')
+('sita', 'is_wife_of', 'rama')
+('hanuman', 'protected_by', 'agni')
+('hanuman', 'is_son_of', 'vayu')
+('rama', 'has_power_over', 'agni')
+('rama', 'has_power_over', 'ocean')
+('rama', 'has_power_over', 'mount_mainaka')
+('hanuman', 'climbed_gate', 'lanka')
+('hanuman', 'killed', 'lanka_guards')
+('hanuman', 'set_lanka_on_fire', 'punishment_ravana')
+('sita', 'is_in', 'canto_53')
+('hanuman', 'is_in', 'canto_53')
+('rama', 'is_in', 'canto_53')
+('agni', 'is_in', 'canto_53')
+('vayu', 'is_in', 'canto_53')
+('ravana', 'is_in', 'canto_53')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'escaped_from', 'ogres')
+('hanuman', 'destroyed', 'city_gate')
+('hanuman', 'defeated', 'guards')
+('hanuman', 'burned', 'lanka')
+('hanuman', 'is_in', 'canto_53')
+('ravana', 'ordered', 'hanuman_capture')
+('ravana', 'is_in', 'canto_53')
+('sita', 'prayed_for', 'hanuman')
+('sita', 'is_in', 'canto_53')
+('hanuman', 'set_tail_on_fire', 'canto_53')
+('hanuman', 'surveyed_lanka', 'canto_53')
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'sets_fire_to', 'lanka')
+('hanuman', 'finds', 'sita')
+('hanuman', 'weakens', 'rakshasas')
+('hanuman', 'destroys', 'ashok_vatika_grove')
+('hanuman', 'kills', 'rakshasas')
+('hanuman', 'diminishes', 'rakshasa_army')
+('hanuman', 'has_objective', 'destroy_lanka_citadel')
+('hanuman', 'crosses', 'ocean')
+('hanuman', 'sets_fire_to', 'buildings')
+('hanuman', 'sets_fire_to', 'homes_of_prominent_rakshasas')
+('prahasta', 'is_in', 'canto_54')
+('mahaparswa', 'is_in', 'canto_54')
+('vajradamshtra', 'is_in', 'canto_54')
+('suka', 'is_in', 'canto_54')
+('sarana', 'is_in', 'canto_54')
+('indrajit', 'is_in', 'canto_54')
+('jambumali', 'is_in', 'canto_54')
+('sumali', 'is_in', 'canto_54')
+('hanuman', 'is_in', 'canto_54')
+('sita', 'is_in', 'canto_54')
+('vibhisana', 'is_in','canto_54')
+
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'sets_fire_to', 'lanka')
+* ('hanuman', 'spared_house_of', 'vibhishana')
+* ('hanuman', 'burns_palace_of', 'ravana')
+* ('ravana', 'owns', 'palace')
+* ('hanuman', 'is_in', 'canto_54')
+* ('ravana', 'is_in', 'canto_54')
+* ('vibhishana', 'is_in', 'canto_54')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'sets_fire_to', 'lanka')
+* ('hanuman', 'is_in', 'canto_54')
+* ('rakshasas', 'are_killed_by', 'fire')
+* ('rakshasas', 'live_in', 'lanka')
+* ('vibhisana', 'house_is_spared', 'by_hanuman')
+* ('vibhisana', 'is_in', 'canto_54')
+* ('gods', 'witness', 'lanka_burning')
+* ('gandharvas', 'witness', 'lanka_burning')
+* ('gods', 'is_in', 'canto_54')
+* ('gandharvas', 'is_in', 'canto_54')
+
+
+jai_balayya_ew
+jai_balayya_ew
+1. ('hanuman', 'sets_fire_to', 'lanka')
+2. ('rakshasas', 'fear', 'hanuman')
+3. ('hanuman', 'defeats', 'rakshasas')
+4. ('hanuman', 'destroys', 'asoka_grove')
+5. ('gods', 'praise', 'hanuman')
+6. ('hanuman', 'thinks_of', 'rama')
+7. ('ravana', 'rules', 'lanka')
+8. ('hanuman', 'is_son_of', 'wind_god')
+9. ('hanuman', 'is_in', 'canto_54')
+10. ('ravana', 'is_in', 'canto_54')
+11. ('rakshasas', 'is_in', 'canto_54')
+12. ('gods', 'is_in', 'canto_54')
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'sets_fire_to', 'lanka')
+* ('hanuman', 'completes_mission', 'burning_lanka')
+* ('gods', 'rejoice_at', 'lanka_burning')
+* ('gandharvas', 'rejoice_at', 'lanka_burning')
+* ('hanuman', 'spares', 'vibhisana_abode')
+* ('hanuman', 'is_in', 'canto_54')
+* ('vibhisana', 'is_in', 'canto_54')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'is_in', 'canto_55')
+('sita', 'is_in', 'canto_55')
+('rama', 'is_in', 'canto_55')
+('hanuman', 'sets_fire_to', 'lanka')
+('hanuman', 'regrets_action', 'burning_lanka')
+('hanuman', 'worries_about', 'sita')
+('hanuman', 'fears', 'sitas_death')
+('hanuman', 'believes_undermined', 'ramas_mission')
+('hanuman', 'contemplates', 'suicide')
+('sita', 'is_in', 'lanka')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```python
+[
+('hanuman', 'feels_grief', 'presumed_death_of_sita'),
+('hanuman', 'considers_suicide', 'due_to_grief'),
+('hanuman', 'burned_lanka', 'rash_act'),
+('hanuman', 'blames_anger', 'sitas_presumed_demise'),
+('rama', 'mission_failure', 'hanumans_rash_act'),
+('lakshmana', 'mission_failure', 'hanumans_rash_act'),
+('sugriva', 'mission_failure', 'hanumans_rash_act'),
+('sita', 'presumed_dead', 'fire_in_lanka'),
+('rama', 'might_die', 'sitas_death'),
+('lakshmana', 'might_die', 'sitas_death'),
+('sugriva', 'might_die', 'ramas_death'),
+('bharata', 'might_die', 'ramas_death'),
+('shatrughna', 'might_die', 'ramas_death'),
+('ikshvaku_dynasty', 'might_face_destruction', 'ramas_death'),
+('hanuman', 'recalls_positive_omens', 'sitas_potential_survival'),
+('sita', 'might_be_alive', 'protected_by_virtue_and_ramas_power'),
+('hanuman', 'is_in', 'canto_55'),
+('sita', 'is_in', 'canto_55'),
+('rama', 'is_in', 'canto_55'),
+('lakshmana', 'is_in', 'canto_55'),
+('sugriva', 'is_in', 'canto_55'),
+
+]
+```jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'is_in', 'canto_55')
+* ('sita', 'is_in', 'canto_55')
+* ('rama', 'is_in', 'canto_55')
+* ('hanuman', 'reflects_on', 'sita_virtue')
+* ('sita', 'revered_by', 'rama')
+* ('sita', 'revered_by', 'rama_brothers')
+* ('hanuman', 'witnessed', 'lanka_destruction')
+* ('sita', 'survived', 'fire_ordeal')
+* ('hanuman', 'informed_about', 'sita_safety')
+* ('hanuman', 'felt', 'joy_and_relief')
+* ('hanuman', 'returned_to', 'rama')
+* ('sita', 'protected_by', 'purity_and_devotion')
+
+
+jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'reassured', 'sita')
+('sita', 'urged_to_stay', 'hanuman')
+('sita', 'worried_about', 'hanuman_safe_return')
+('sita', 'doubted', 'sugriva_army_capability')
+('sita', 'acknowledged', 'hanuman_garuda_wind_god_capability')
+('sita', 'questioned_about_plan', 'hanuman')
+('sita', 'desired_rescue_by', 'rama')
+('sita', 'desired_lanka_conquest_by', 'rama')
+
+('hanuman', 'conveyed_message_from_rama', 'sita')
+('sita', 'expressed_grief_to', 'hanuman')
+
+
+('hanuman', 'is_in', 'canto_56')
+('sita', 'is_in', 'canto_56')
+('rama', 'is_in', 'canto_56')
+('sugriva', 'is_in', 'canto_56')
+('garuda', 'is_in', 'canto_56')
+('wind_god', 'is_in', 'canto_56')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'advised', 'sita')
+('rama', 'known_for', 'valor')
+('sugriva', 'is_leader_of', 'monkeys_and_bears')
+('sugriva', 'committed_to', 'sita_rescue')
+('rama', 'will_join', 'battle')
+('lakshmana', 'will_join', 'battle')
+('rama', 'will_destroy', 'lanka')
+('lakshmana', 'will_destroy', 'lanka')
+('rama', 'will_defeat', 'ravana')
+('sita', 'will_return_to', 'ayodhya')
+('hanuman', 'reassured', 'sita')
+('rohini', 'compared_to', 'sita')
+('moon_god', 'compared_to', 'rama')
+('hanuman', 'is_in', 'canto_56')
+('sita', 'is_in', 'canto_56')
+('rama', 'is_in', 'canto_56')
+('lakshmana', 'is_in', 'canto_56')
+('sugriva', 'is_in', 'canto_56')
+('ravana', 'is_in', 'canto_56')
+('rohini', 'is_in', 'canto_56')
+('moon_god', 'is_in', 'canto_56')
+
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'instilled_confidence_in', 'sita')
+* ('hanuman', 'met', 'sita')
+* ('hanuman', 'defeated', 'demons')
+* ('hanuman', 'is_in', 'canto_56')
+* ('sita', 'is_in', 'canto_56')
+* ('hanuman', 'climbed', 'mount_arista')
+* ('hanuman', 'leaped_across', 'ocean')
+* ('hanuman', 'returned_to', 'rama')
+* ('sita', 'is_wife_of', 'rama')
+
+
+jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'causes_disruption_on', 'mount_arista')
+('hanuman', 'prepares_for', 'leap')
+('hanuman', 'crosses', 'ocean')
+('hanuman', 'is_in', 'canto_56')
+('sita', 'receives_farewell_from', 'hanuman')
+('sita', 'is_in', 'canto_56')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'crossed_ocean_like_sky', 'return_to_monkeys')
+* ('hanuman', 'roared_triumphantly', 'signaling_mission_success')
+* ('hanuman', 'discovered', 'sita')
+* ('hanuman', 'recounted_discovery', 'sita_to_monkeys')
+* ('hanuman', 'flew_with_immense_speed', 'consuming_the_sky')
+* ('hanuman', 'is_in', 'canto_57')
+* ('jambavan', 'reassured', 'monkeys_about_hanuman')
+* ('jambavan', 'is_in', 'canto_57')
+* ('angada', 'eager_to_hear', 'hanuman_story')
+* ('angada', 'is_in', 'canto_57')
+* ('sita', 'discovered_by', 'hanuman')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'caused_chaos_and_grief_for', 'ravana')
+* ('hanuman', 'defeated', 'ravana_warriors')
+* ('hanuman', 'met', 'sita')
+* ('hanuman', 'is_in', 'canto_57')
+* ('ravana', 'is_in', 'canto_57')
+* ('sita', 'is_in', 'canto_57')
+* ('jambavan', 'is_in', 'canto_57')
+* ('hanuman', 'crossed_sea', 'lanka_to_mainaka')
+* ('hanuman', 'touched', 'mainaka_mountain')
+* ('hanuman', 'approached', 'mahendra_mountain')
+* ('hanuman', 'reunited_with', 'fellow_monkeys')
+* ('jambavan', 'addressed', 'waiting_monkeys')
+* ('hanuman', 'journey_back', 'from_lanka')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'caused_joy_in', 'monkeys')
+('hanuman', 'returned_to', 'mahendra_mountain')
+('monkeys', 'greeted', 'hanuman')
+('monkeys', 'gave_gifts_to', 'hanuman')
+('hanuman', 'is_in', 'canto_57')
+('monkeys', 'is_in', 'canto_57')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'greeted', 'jambavan')
+('hanuman', 'greeted', 'angada')
+('hanuman', 'found', 'sita')
+('sita', 'is_wife_of', 'rama')
+('sita', 'is_in', 'asoka_grove')
+('sita', 'guarded_by', 'ogresses')
+('sita', 'longing_for', 'rama')
+('angada', 'praised', 'hanuman')
+('hanuman', 'crossed', 'sea')
+('hanuman', 'is_in', 'canto_57')
+('sita', 'is_in', 'canto_57')
+('angada', 'is_in', 'canto_57')
+('jambavan', 'is_in', 'canto_57')
+('rama', 'is_in', 'canto_57')
+
+('hanuman', 'shared_news', 'sita_found')
+('sita', 'suffering_in_captivity', 'sita_found')
+('hanuman', 'returned_from_search', 'sita_found')
+('angada', 'celebrated_hanuman_return', 'sita_found')
+('monkeys', 'rejoiced_at_news', 'sita_found')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'brought_relief_to', 'monkey_army')
+* ('jambavan', 'is_in', 'canto_57')
+* ('angada', 'is_in', 'canto_57')
+* ('hanuman', 'is_in', 'canto_57')
+* ('hanuman', 'travelled_across_ocean', 'travel_to_lanka')
+* ('hanuman', 'met_with_sita', 'meeting_in_lanka')
+* ('hanuman', 'met_with_ravana', 'meeting_in_lanka')
+* ('monkeys', 'gathered_around', 'angada')
+* ('monkeys', 'gathered_around', 'hanuman')
+* ('angada', 'present_with', 'hanuman') 
+* ('hanuman', 'related_in_canto_57', 'angada')
+* ('hanuman', 'related_in_canto_57', 'jambavan')
+jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'returns_from', 'lanka')
+('hanuman', 'rejoices_with', 'monkeys')
+('hanuman', 'is_on', 'mount_mahendra')
+('jambavan', 'asks', 'hanuman')
+('hanuman', 'encounters', 'sita')
+('jambavan', 'inquires_about', 'sita')
+('ravana', 'holds', 'sita')
+('hanuman', 'locates', 'sita')
+('sita', 'responds_to', 'hanuman')
+('jambavan', 'seeks_advice_from', 'hanuman')
+('hanuman', 'advises', 'rama')
+('hanuman', 'advises', 'lakshmana')
+('hanuman', 'narrates_to', 'jambavan')
+('hanuman', 'leaps_across', 'ocean')
+('hanuman', 'journeys_to', 'lanka')
+('hanuman', 'sees', 'mount_mainaka')
+('hanuman', 'beholds', 'sita')
+('sita', 'is_daughter_of', 'janaka')
+('hanuman', 'returns_to', 'mount_mahendra')
+
+
+('hanuman', 'journey_to_lanka', 'leap_across_ocean')
+('hanuman', 'journey_to_lanka', 'meeting_sita')
+('jambavan', 'meeting_on_mount_mahendra', 'inquiring_hanuman')
+('sita', 'captivity_in_lanka', 'meeting_hanuman')
+
+
+
+('hanuman', 'is_in', 'canto_58')
+('jambavan', 'is_in', 'canto_58')
+('sita', 'is_in', 'canto_58')
+('rama', 'is_in', 'canto_58')
+('lakshmana', 'is_in', 'canto_58')
+('ravana', 'is_in', 'canto_58')
+('janaka', 'is_in', 'canto_58')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'encountered', 'mainaka_mountain')
+* ('hanuman', 'journey_to', 'lanka')
+* ('mainaka', 'friend_of', 'wind_god')
+* ('wind_god', 'father_of', 'hanuman')
+* ('indra', 'clipped_wings_of', 'mountains')
+* ('wind_god', 'saved', 'mainaka')
+* ('mainaka', 'requested_help_for', 'rama')
+* ('hanuman', 'is in', 'canto_58')
+* ('mainaka', 'is in', 'canto_58')
+* ('rama', 'is in', 'canto_58')
+* ('jambavan', 'is in', 'canto_58')
+* ('indra', 'is in', 'canto_58')
+* ('wind_god', 'is in', 'canto_58')
+
+
+jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'encounters', 'surasa')
+('hanuman', 'journeys_to', 'lanka')
+('surasa', 'challenges', 'hanuman')
+('hanuman', 'tricks', 'surasa')
+('hanuman', 'searches_for', 'sita')
+('sita', 'is_wife_of', 'rama')
+('ravana', 'kidnapped', 'sita')
+('hanuman', 'serves', 'rama')
+('hanuman', 'is_in', 'canto_58')
+('surasa', 'is_in', 'canto_58')
+('sita', 'is_in', 'canto_58')
+('rama', 'is_in', 'canto_58')
+('ravana', 'is_in', 'canto_58')
+('jambavan', 'asks', 'hanuman')
+('hanuman', 'narrates_journey', 'jambavan')
+('hanuman', 'saw', 'mount_mainaka')
+('hanuman', 'returns_to', 'mount_mahendra')
+('sita', 'is_daughter_of', 'janaka')
+('jambavan', 'is_in', 'canto_58')
+('janaka', 'is_in', 'canto_58')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'encountered', 'surasa')
+* ('surasa', 'challenged', 'hanuman')
+* ('hanuman', 'outsmarted', 'surasa')
+* ('surasa', 'blessed', 'hanuman')
+* ('hanuman', 'searching_for', 'sita')
+* ('hanuman', 'journey_to', 'lanka')
+* ('hanuman', 'saw', 'mount_mainaka')
+* ('hanuman', 'met', 'jambavan')
+* ('hanuman', 'is_in', 'canto_58')
+* ('surasa', 'is_in', 'canto_58')
+* ('sita', 'is_in', 'canto_58')
+* ('jambavan', 'is_in', 'canto_58')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'defeated', 'surasa')
+* ('hanuman', 'defeated', 'simhika')
+* ('hanuman', 'searched_for', 'sita')
+* ('hanuman', 'journeyed_to', 'lanka')
+* ('hanuman', 'defeated', 'lanka_spirit')
+* ('lanka_spirit', 'prophesied_victory_to', 'hanuman')
+* ('hanuman', 'searched_ravana_palace', 'sita')
+* ('hanuman', 'found_ashoka_garden', 'lanka')
+* ('hanuman', 'is_in', 'canto_58')
+* ('jambavan', 'enquired_hanuman', 'hanuman_journey')
+* ('hanuman', 'narrated_journey', 'jambavan')
+* ('hanuman', 'saw_mount_mainaka', 'journey_to_lanka')
+* ('hanuman', 'reached_lanka', 'search_for_sita')
+* ('hanuman', 'saw_sita', 'lanka')
+* ('sita', 'is_daughter_of', 'janaka')
+* ('hanuman', 'returned_to_mount_mahendra', 'meeting_rama')
+* ('jambavan', 'is_in', 'canto_58')
+* ('sita', 'is_in', 'canto_58')
+
+
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'spotted', 'sita_in_grove')
+* ('sita', 'guarded_by', 'ogresses')
+* ('sita', 'held_captive_in', 'ravana_palace')
+* ('ravana', 'approached', 'sita')
+* ('hanuman', 'observed', 'ravana_arrival')
+* ('sita', 'rejected_by', 'ravana')
+* ('sita', 'feared', 'ravana')
+* ('hanuman', 'is_in', 'canto_58')
+* ('sita', 'is_in', 'canto_58')
+* ('ravana', 'is_in', 'canto_58')
+* ('hanuman', 'climbed', 'plantain_tree')
+* ('sita', 'wore', 'single_garment')
+* ('sita', 'lived_on', 'bare_ground')
+* ('hanuman', 'hid_from', 'ravana')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('ravana', 'approached', 'sita_captive')
+* ('sita', 'rejected', 'ravana_advances')
+* ('sita', 'is_wife_of', 'rama')
+* ('sita', 'is_daughter_in_law_of', 'dasaratha')
+* ('ravana', 'abducted', 'sita')
+* ('rama', 'is_superior_to', 'ravana')
+* ('ravana', 'threatened', 'sita')
+* ('mandodari', 'is_wife_of', 'ravana')
+* ('mandodari', 'intervened', 'ravana_anger')
+* ('hanuman', 'saw', 'mount_mainaka')
+* ('hanuman', 'travelled_to', 'lanka')
+* ('hanuman', 'saw', 'sita')
+* ('hanuman', 'returned_to', 'mount_mahendra')
+* ('sita', 'is_daughter_of', 'janaka')
+* ('ravana', 'is_in', 'canto_58')
+* ('sita', 'is_in', 'canto_58')
+* ('hanuman', 'is_in', 'canto_58')
+* ('mandodari', 'is_in', 'canto_58')
+* ('rama', 'is_in', 'canto_58')
+* ('janaka', 'is_in', 'canto_58')
+* ('jambavan', 'is_in', 'canto_58')
+* ('dasaratha', 'is_in', 'canto_58')
+
+
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('ravana', 'threatened_by', 'ogresses')
+* ('sita', 'guarded_by', 'ogresses')
+* ('sita', 'loyal_to', 'rama')
+* ('sita', 'threatened_by', 'ogresses')
+* ('ogresses', 'reported_to', 'ravana')
+* ('trijata', 'protected', 'sita')
+* ('trijata', 'warned', 'ogresses')
+* ('trijata', 'dreamed_of', 'rama_victory')
+* ('trijata', 'dreamed_of', 'ogres_destruction')
+* ('rama', 'will_defeat', 'ravana')
+
+* ('ravana', 'involved_in', 'sita_imprisonment')
+* ('sita', 'involved_in', 'captivity')
+* ('trijata', 'involved_in', 'dream_prophecy')
+* ('rama', 'involved_in', 'impending_victory')
+
+
+* ('sita', 'is_in', 'canto_58')
+* ('ravana', 'is_in', 'canto_58')
+* ('trijata', 'is_in', 'canto_58')
+* ('rama', 'is_in', 'canto_58')
+* ('hanuman', 'is_in', 'canto_58')
+* ('jambavan', 'is_in', 'canto_58')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'met', 'sita')
+* ('sita', 'gave', 'jewel')
+* ('hanuman', 'gave', 'ring')
+* ('rama', 'sent', 'hanuman')
+* ('sugriva', 'sent', 'hanuman')
+* ('hanuman', 'is_emissary_of', 'sugriva')
+* ('hanuman', 'is_emissary_of', 'rama')
+* ('sita', 'is_wife_of', 'rama')
+* ('hanuman', 'is_in', 'canto_58')
+* ('sita', 'is_in', 'canto_58')
+* ('rama', 'is_in', 'canto_58')
+* ('sugriva', 'is_in', 'canto_58')
+* ('trijata', 'is_in', 'canto_58')
+* ('jambavan', 'is_in', 'canto_58')
+* ('hanuman', 'related_in_canto_58', 'sita')
+* ('hanuman', 'related_in_canto_58', 'rama')
+* ('sita', 'related_in_canto_58', 'rama')
+* ('hanuman', 'related_in_canto_58', 'sugriva')
+* ('hanuman', 'related_in_canto_58', 'trijata')
+* ('hanuman', 'related_in_canto_58', 'jambavan')
+
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('sita', 'gave_jewel_to', 'hanuman')
+('sita', 'shared_details_with', 'hanuman')
+('hanuman', 'bowed_to', 'sita')
+('hanuman', 'circumambulated', 'sita')
+('sita', 'urged', 'hanuman')
+('hanuman', 'relay_plight_to', 'rama')
+('hanuman', 'relay_plight_to', 'lakshmana')
+('hanuman', 'destroyed_ravana_garden', 'ravana')
+('ogresses', 'alerted', 'ravana')
+('ravana', 'dispatched', 'kinkara_warriors')
+('sita', 'told_details_to', 'hanuman')
+
+
+
+('sita', 'imprisoned_in_lanka', 'captivity')
+('hanuman', 'meets_sita', 'meeting')
+('hanuman', 'destroys_ravana_garden', 'destruction')
+('ogresses', 'witness_destruction', 'warning')
+('ravana', 'sends_warriors', 'dispatch')
+('hanuman', 'journey_to_lanka', 'travel')
+
+
+('sita', 'is_in', 'canto_58')
+('hanuman', 'is_in', 'canto_58')
+('rama', 'is_in', 'canto_58')
+('lakshmana', 'is_in', 'canto_58')
+('ravana', 'is_in', 'canto_58')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'fought_against', 'ravana_forces')
+* ('hanuman', 'defeated', 'ravana_forces')
+* ('hanuman', 'destroyed', 'sacred_sanctuary')
+* ('hanuman', 'killed', 'ogres')
+* ('ravana', 'sent', 'jambumali')
+* ('hanuman', 'defeated', 'jambumali')
+* ('ravana', 'sent', 'ministers_sons')
+* ('hanuman', 'defeated', 'ministers_sons')
+* ('ravana', 'sent', 'aksa')
+* ('hanuman', 'defeated', 'aksa')
+* ('hanuman', 'killed', 'aksa')
+* ('aksa', 'is_son_of', 'ravana')
+
+
+* ('hanuman', 'hanuman_fights_ravana_forces', 'canto_58')
+* ('ravana', 'ravana_sends_forces_against_hanuman', 'canto_58')
+* ('jambumali', 'jambumali_fights_hanuman', 'canto_58')
+* ('aksa', 'aksa_fights_hanuman', 'canto_58')
+
+* ('hanuman', 'is_in', 'canto_58')
+* ('ravana', 'is_in', 'canto_58')
+* ('jambumali', 'is_in', 'canto_58')
+* ('aksa', 'is_in', 'canto_58')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'is_messenger_of', 'rama')
+* ('hanuman', 'is_messenger_of', 'sugriva')
+* ('hanuman', 'is_allied_with', 'rama')
+* ('indrajit', 'is_son_of', 'ravana')
+* ('hanuman', 'met', 'ravana')
+* ('hanuman', 'captured_by', 'ravana') 
+* ('hanuman', 'subdued_by', 'indrajit')
+* ('hanuman', 'saw', 'sita')
+* ('hanuman', 'is in', 'canto_58')
+* ('ravana', 'is in', 'canto_58')
+* ('indrajit', 'is in', 'canto_58')
+* ('sita', 'is in', 'canto_58')
+* ('rama', 'is in', 'canto_58')
+* ('sugriva', 'is in', 'canto_58')
+* ('jambavan', 'is in', 'canto_58')
+* ('hanuman', 'journey_to_lanka', 'canto_58')
+* ('hanuman', 'met_sita', 'canto_58')
+
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'conveyed_message_to', 'ravana')
+* ('hanuman', 'reminded', 'ravana')
+* ('ravana', 'kidnapped', 'sita')
+* ('rama', 'is_allied_with', 'sugriva')
+* ('rama', 'aided', 'sugriva')
+* ('sugriva', 'reclaimed_kingdom_from', 'vali')
+* ('hanuman', 'is_envoy_of', 'sugriva')
+* ('ravana', 'ordered_execution_of', 'hanuman')
+* ('vibhisana', 'is_brother_of', 'ravana')
+* ('vibhisana', 'intervened_for', 'hanuman')
+* ('hanuman', 'is_in', 'canto_58')
+* ('ravana', 'is_in', 'canto_58')
+* ('sita', 'is_in', 'canto_58')
+* ('vibhisana', 'is_in', 'canto_58')
+* ('jambavan', 'is_in', 'canto_58')
+* ('sugriva', 'is_in', 'canto_58')
+* ('rama', 'is_in', 'canto_58')
+* ('vali', 'is_in', 'canto_58')
+* ('hanuman', 'travelled_to_lanka', 'canto_58')
+* ('hanuman', 'met_sita', 'canto_58')
+* ('hanuman', 'returned_to_mahendra', 'canto_58')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('ravana', 'ordered_tail_on_fire', 'hanuman')
+* ('hanuman', 'tail_set_on_fire', 'lanka')
+* ('hanuman', 'observed_city', 'lanka')
+* ('hanuman', 'attacked', 'rakshasas')
+* ('hanuman', 'set_fire_to_city', 'lanka')
+* ('hanuman', 'believed_sita_dead', 'lanka')
+* ('hanuman', 'heard_sita_alive', 'lanka')
+* ('hanuman', 'related_in_canto_58', 'jambavan')
+* ('hanuman', 'is_in', 'canto_58')
+* ('ravana', 'is_in', 'canto_58')
+* ('sita', 'is_in', 'canto_58')
+* ('vibhisana', 'is_in', 'canto_58')
+* ('jambavan', 'is_in', 'canto_58')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'is_in', 'canto_58')
+* ('sita', 'is_in', 'canto_58')
+* ('rama', 'is_in', 'canto_58')
+* ('jambavan', 'is_in', 'canto_58')
+* ('sugriva', 'is_in', 'canto_58')
+
+* ('hanuman', 'witnessed_auspicious_signs', 'sita_survival')
+* ('sita', 'survived_fire', 'lanka')
+* ('hanuman', 'conveyed_message', 'sita_to_rama')
+* ('sita', 'granted_permission', 'hanuman_departure')
+* ('hanuman', 'returned_from', 'lanka')
+* ('hanuman', 'met', 'monkey_hordes')
+* ('hanuman', 'saw', 'mount_mainaka')
+* ('hanuman', 'saw', 'mount_arista')
+* ('hanuman', 'beheld', 'sita')
+
+
+* ('hanuman', 'related_in_canto_58', 'jambavan')
+* ('hanuman', 'related_in_canto_58', 'sita')
+* ('sita', 'related_in_canto_58', 'rama')
+* ('hanuman', 'related_in_canto_58', 'rama')
+* ('hanuman', 'related_in_canto_58', 'sugriva')
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'is_in', 'canto_59')
+* ('sita', 'is_in', 'canto_59')
+* ('rama', 'is_in', 'canto_59')
+* ('lakshmana', 'is_in', 'canto_59')
+* ('ravana', 'is_in', 'canto_59')
+* ('indrajit', 'is_in', 'canto_59')
+* ('jambavan', 'is_in', 'canto_59')
+
+* ('hanuman', 'addressed', 'monkeys')
+* ('hanuman', 'described_virtue_of', 'sita')
+* ('sita', 'captured_by', 'ravana')
+* ('ravana', 'could_not_subdue', 'sita')
+* ('hanuman', 'confident_to_defeat', 'ravana')
+* ('hanuman', 'plans_to_destroy', 'lanka')
+* ('hanuman', 'wants_to_fight', 'ravana')
+* ('hanuman', 'wants_to_fight', 'indrajit')
+* ('hanuman', 'urged_to_rescue', 'monkeys')
+* ('monkeys', 'need_to_rescue', 'sita')
+* ('sita', 'needs_to_return_to', 'rama')
+* ('sita', 'needs_to_return_to', 'lakshmana')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'rallies', 'monkey_army')
+* ('hanuman', 'boasts_of', 'strength')
+* ('hanuman', 'threatens_to_devastate', 'gods')
+* ('hanuman', 'threatens_to_devastate', 'ravana')
+* ('hanuman', 'awaits_consent_from', 'monkey_army')
+* ('hanuman', 'praises', 'jambavan')
+* ('hanuman', 'praises', 'angada')
+* ('hanuman', 'praises', 'nila')
+* ('hanuman', 'praises', 'mainda')
+* ('hanuman', 'praises', 'dwivida')
+* ('hanuman', 'ravaged', 'lanka')
+* ('hanuman', 'proclaims_name_of', 'rama')
+* ('hanuman', 'serves', 'rama')
+* ('hanuman', 'describes_plight_of', 'sita')
+* ('sita', 'confined_by', 'ravana')
+* ('sita', 'is_in', 'asoka_grove')
+* ('hanuman', 'is_in', 'canto_59')
+* ('sita', 'is_in', 'canto_59')
+* ('rama', 'is_in', 'canto_59')
+* ('jambavan', 'is_in', 'canto_59')
+* ('angada', 'is_in', 'canto_59')
+* ('nila', 'is_in', 'canto_59')
+* ('mainda', 'is_in', 'canto_59')
+* ('dwivida', 'is_in', 'canto_59')
+* ('ravana', 'is_in', 'canto_59')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* (hanuman, context, describes_sita_plight)
+* (sita, context, imprisoned_in_lanka)
+* (sita, context, separated_from_rama)
+* (sita, context, refuses_ravana)
+* (sita, context, learns_of_alliance)
+* (rama, context, allied_with_sugriva)
+* (ravana, context, abducted_sita)
+* (hanuman, context, urges_rescue_plan)
+* (rama, context, will_destroy_ravana)
+* (sita, is_wife_of, rama)
+* (ravana, abducted, sita)
+* (hanuman, is_in, canto_59)
+* (sita, is_in, canto_59)
+* (rama, is_in, canto_59)
+* (ravana, is_in, canto_59)
+
+
+jai_balayya_ew
+jai_balayya_ew
+* (hanuman, explored, lanka)
+* (hanuman, visited, ravana_palace)
+* (ravana, owns, ravana_palace)
+* (ravana_palace, guarded_by, sentinels)
+* (ravana_palace, inhabited_by, women)
+* (ravana_palace, inhabited_by, ogres)
+* (hanuman, is_in, canto_6)
+* (ravana, is_in, canto_6)
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'explored_palace_of', 'ravana')
+* ('ravana', 'owns', 'palace')
+* ('hanuman', 'is_in', 'canto_6')
+* ('ravana', 'is_in', 'canto_6')
+* ('prahasta', 'is_related_in_canto_6', 'ravana')
+* ('mahaparswa', 'is_related_in_canto_6', 'ravana')
+* ('kumbhakarna', 'is_related_in_canto_6', 'ravana')
+* ('vibhisana', 'is_related_in_canto_6', 'ravana')
+* ('mahodara', 'is_related_in_canto_6', 'ravana')
+* ('virupaksa', 'is_related_in_canto_6', 'ravana')
+* ('vidyujjihva', 'is_related_in_canto_6', 'ravana')
+* ('vidyunmali', 'is_related_in_canto_6', 'ravana')
+* ('vajradamstra', 'is_related_in_canto_6', 'ravana')
+* ('suka', 'is_related_in_canto_6', 'ravana')
+* ('sarana', 'is_related_in_canto_6', 'ravana')
+* ('indrajit', 'is_related_in_canto_6', 'ravana')
+* ('jambumali', 'is_related_in_canto_6', 'ravana')
+* ('sumali', 'is_related_in_canto_6', 'ravana')
+* ('hanuman', 'searched_for_sita', 'canto_6')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'explores', 'ravana_palace')
+('hanuman', 'surveys_residences', 'rakshasa_warriors')
+('hanuman', 'returns', 'ravana_main_palace')
+('hanuman', 'observes', 'ogresses_guarding')
+('hanuman', 'observes', 'rakshasa_guards')
+('hanuman', 'notes', 'tethered_horses')
+('hanuman', 'is_in', 'canto_6')
+('ravana', 'is_in', 'canto_6')
+('rasmiketu', 'related_in_canto_6', 'hanuman')
+('suryasatru', 'related_in_canto_6', 'hanuman')
+('vajrakaya', 'related_in_canto_6', 'hanuman')
+('dhumraksa', 'related_in_canto_6', 'hanuman')
+('sampati', 'related_in_canto_6', 'hanuman')
+('vidyudripa', 'related_in_canto_6', 'hanuman')
+('bhima', 'related_in_canto_6', 'hanuman')
+('ghana', 'related_in_canto_6', 'hanuman')
+('vighana', 'related_in_canto_6', 'hanuman')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'is_in', 'canto_6')
+* ('ravana', 'is_in', 'canto_6')
+* ('indra', 'is_in', 'canto_6')
+* ('kubera', 'is_in', 'canto_6')
+* ('hanuman', 'observes_palace', 'ravana_palace')
+* ('ravana', 'owns', 'ravana_palace')
+* ('ravana_palace', 'contains', 'elephants')
+* ('elephants', 'compared_to', 'indra_airavatha')
+* ('ravana_palace', 'adorned_with', 'gold')
+* ('ravana_palace', 'contains', 'palanquins')
+* ('ravana_palace', 'contains', 'pleasure_houses')
+* ('ravana_palace', 'contains', 'peacock_pens')
+* ('ravana_palace', 'decorated_with', 'flagstaffs')
+* ('ravana_palace', 'filled_with', 'precious_stones')
+* ('ravana_palace', 'resembles', 'kubera_abode')
+* ('ravana_palace', 'glitters_with', 'gems')
+* ('ravana_palace', 'contains', 'golden_couches')
+* ('ravana_palace', 'contains', 'golden_vessels')
+* ('ravana_palace', 'floors_damp_with', 'spilled_wine')
+* ('ravana_palace', 'filled_with_sounds_of', 'anklets_girdles_clapping_drums')
+* ('ravana_palace', 'contains', 'women')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('angada', 'is_son_of', 'vali')
+* ('mainda', 'received_boon_from', 'brahma')
+* ('dwivida', 'received_boon_from', 'brahma')
+* ('mainda', 'defeated', 'gods')
+* ('dwivida', 'defeated', 'gods')
+* ('angada', 'related_in_canto_60', 'mainda')
+* ('angada', 'related_in_canto_60', 'dwivida')
+* ('angada', 'related_in_canto_60', 'vali')
+* ('angada', 'related_in_canto_60', 'hanuman')
+* ('angada', 'related_in_canto_60', 'ravana')
+* ('angada', 'related_in_canto_60', 'sita')
+* ('angada', 'related_in_canto_60', 'rama')
+* ('angada', 'related_in_canto_60', 'lakshmana')
+* ('hanuman', 'related_in_canto_60', 'ravana')
+* ('hanuman', 'related_in_canto_60', 'sita')
+
+
+* ('angada', 'boasting_of_strength', 'destroy_lanka')
+* ('angada', 'boasting_of_strength', 'kill_ravana')
+* ('angada', 'suggests', 'rescue_sita')
+* ('angada', 'mentions', 'hanuman_strength')
+* ('angada', 'mentions', 'monkey_prowess')
+* ('hanuman', 'vanquished', 'ravana_forces')
+* ('angada', 'is_in', 'canto_60')
+* ('hanuman', 'is_in', 'canto_60')
+* ('sita', 'is_in', 'canto_60')
+* ('rama', 'is_in', 'canto_60')
+* ('lakshmana', 'is_in', 'canto_60')
+* ('ravana', 'is_in', 'canto_60')
+* ('vali', 'is_in', 'canto_60')
+* ('mainda', 'is_in', 'canto_60')
+* ('dwivida', 'is_in', 'canto_60')
+
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('angada', 'suggests_attack', 'ravana')
+('angada', 'proposes_return_with_sita', 'rama')
+('angada', 'proposes_return_with_sita', 'lakshmana')
+('angada', 'proposes_return_with_sita', 'sugriva')
+('jambavan', 'advises_against_attack', 'angada')
+('jambavan', 'reminds_of_mission', 'angada')
+('jambavan', 'mentions_rama_vow', 'angada')
+('jambavan', 'suggests_return_to_rama', 'angada')
+('jambavan', 'suggests_return_to_sugriva', 'angada')
+('rama', 'made_vow_to_rescue_sita', 'sita')
+('hanuman', 'located_sita', 'sita')
+('rama', 'is_brother_of', 'lakshmana')
+('angada', 'participates_in_search_for_sita', 'sita_search')
+('jambavan', 'participates_in_search_for_sita', 'sita_search')
+('hanuman', 'participates_in_search_for_sita', 'sita_search')
+('rama', 'awaits_news_of_sita', 'sita_search')
+('lakshmana', 'awaits_news_of_sita', 'sita_search')
+('sugriva', 'awaits_news_of_sita', 'sita_search')
+('angada', 'is_in', 'canto_60')
+('jambavan', 'is_in', 'canto_60')
+('rama', 'is_in', 'canto_60')
+('lakshmana', 'is_in', 'canto_60')
+('sugriva', 'is_in', 'canto_60')
+('sita', 'is_in', 'canto_60')
+('hanuman', 'is_in', 'canto_60')
+('ravana', 'is_in', 'canto_60')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('angada', 'led', 'monkey_troop')
+* ('hanuman', 'led', 'monkey_troop')
+* ('jambavan', 'advised', 'monkey_troop')
+* ('monkey_troop', 'started_from', 'mahendra_mountain')
+* ('monkey_troop', 'went_to', 'kiskindha')
+* ('monkey_troop', 'served', 'rama')
+* ('monkey_troop', 'reached', 'madhuvana')
+* ('sugriva', 'owns', 'madhuvana')
+* ('dadhimukha', 'guarded', 'madhuvana')
+* ('dadhimukha', 'is_uncle_of', 'sugriva')
+* ('angada', 'gave_permission', 'monkey_troop')
+* ('jambavan', 'advised', 'angada')
+* ('monkey_troop', 'participated_in', 'madhuvana_incident')
+* ('angada', 'participated_in', 'madhuvana_incident')
+* ('hanuman', 'participated_in', 'madhuvana_incident')
+* ('jambavan', 'participated_in', 'madhuvana_incident')
+* ('sugriva', 'related_in_canto_61', 'dadhimukha')
+* ('dadhimukha', 'related_in_canto_61', 'monkey_troop')
+* ('rama', 'is_in', 'canto_61')
+* ('angada', 'is_in', 'canto_61')
+* ('hanuman', 'is_in', 'canto_61')
+* ('jambavan', 'is_in', 'canto_61')
+* ('sugriva', 'is_in', 'canto_61')
+* ('dadhimukha', 'is_in', 'canto_61')
+* ('monkey_troop', 'is_in', 'canto_61')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```python
+[
+('angada', 'allowed_monkeys_to_enjoy', 'madhuvana'),
+('monkeys', 'caused_chaos_in', 'madhuvana'),
+('dadhimukha', 'guarded', 'madhuvana'),
+('dadhimukha', 'confronted', 'monkeys'),
+('monkeys', 'attacked', 'dadhimukha'),
+('sugriva', 'appointed', 'dadhimukha'),
+('angada', 'is_in', 'canto_61'),
+('monkeys', 'is_in', 'canto_61'),
+('dadhimukha', 'is_in', 'canto_61'),
+('sugriva', 'is_related_in_canto_61', 'dadhimukha'),
+
+]
+```jai_balayya_ew
+jai_balayya_ew
+```python
+[
+('hanuman', 'encouraged', 'monkeys_to_eat_honey'),
+('hanuman', 'protected', 'monkeys'),
+('angada', 'supported', 'hanuman'),
+('angada', 'permitted', 'monkeys_to_eat_honey'),
+('monkeys', 'ate', 'honey_and_fruits'),
+('monkeys', 'overpowered', 'guards'),
+('guards', 'reported_to', 'dadhimukha'),
+('dadhimukha', 'confronted', 'monkeys'),
+('angada', 'defeated', 'dadhimukha'),
+('guards', 'reported_to', 'sugriva'),
+
+('hanuman', 'is_in', 'canto_62'),
+('angada', 'is_in', 'canto_62'),
+('monkeys', 'is_in', 'canto_62'),
+('guards', 'is_in', 'canto_62'),
+('dadhimukha', 'is_in', 'canto_62'),
+('sugriva', 'is_in', 'canto_62'),
+
+
+('hanuman', 'related_in_canto_62', 'angada'),
+('hanuman', 'related_in_canto_62', 'monkeys'),
+('angada', 'related_in_canto_62', 'monkeys'),
+('angada', 'related_in_canto_62', 'dadhimukha'),
+('dadhimukha', 'related_in_canto_62', 'guards'),
+('sugriva', 'related_in_canto_62', 'guards'),
+
+]
+```jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'is_in', 'canto_62')
+('dadhimukha', 'is_in', 'canto_62')
+('angada', 'is_in', 'canto_62')
+('sugriva', 'is_in', 'canto_62')
+('monkeys', 'caused_destruction_in', 'madhuvana')
+('guards', 'fled_from', 'madhuvana')
+('guards', 'reported_to', 'dadhimukha')
+('dadhimukha', 'confronted', 'monkeys')
+('hanuman', 'challenged', 'dadhimukha')
+('angada', 'attacked', 'dadhimukha')
+('guards', 'reported_to', 'sugriva')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('angada', 'is_in', 'canto_62')
+* ('dadhimukha', 'is_in', 'canto_62')
+* ('sugriva', 'is_in', 'canto_62')
+* ('rama', 'is_in', 'canto_62')
+* ('lakshmana', 'is_in', 'canto_62')
+* ('hanuman', 'is_in', 'canto_62')
+
+
+* ('angada', 'assaulted', 'dadhimukha')
+* ('dadhimukha', 'reported_to', 'sugriva')
+* ('angada', 'defied', 'sugriva')
+* ('hanuman', 'permitted_entry', 'madhuvana')
+* ('dadhimukha', 'guarded', 'madhuvana')
+* ('monkeys', 'entered', 'madhuvana')
+* ('monkeys', 'consumed', 'honey')
+* ('monkeys', 'caused_misconduct', 'madhuvana')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('dadhimukha', 'is_leader_of', 'madhuvana_guards')
+('dadhimukha', 'appeals_to', 'sugriva')
+('dadhimukha', 'reports_to', 'sugriva')
+('angada', 'attacks', 'dadhimukha')
+('monkeys', 'consume_honey_in', 'madhuvana')
+('monkeys', 'cause_disturbance_in', 'madhuvana')
+('madhuvana_guards', 'confront', 'monkeys')
+('sugriva', 'rules', 'kiskindha')
+('angada', 'is_related_in_canto_62', 'dadhimukha')
+('sugriva', 'is_related_in_canto_62', 'dadhimukha')
+('hanuman', 'permits_entry_to', 'madhuvana')
+
+
+('dadhimukha', 'dadhimukha_reports_monkey_disturbance', 'canto_62')
+('sugriva', 'sugriva_receives_report_from_dadhimukha', 'canto_62')
+('angada', 'angada_attacks_dadhimukha', 'canto_62')
+('monkeys', 'monkeys_create_chaos_in_madhuvana', 'canto_62')
+('hanuman', 'hanuman_permits_monkeys_into_madhuvana', 'canto_62')
+
+
+('dadhimukha', 'is_in', 'canto_62')
+('sugriva', 'is_in', 'canto_62')
+('angada', 'is_in', 'canto_62')
+('hanuman', 'is_in', 'canto_62')
+('monkeys', 'is_in', 'canto_62')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('sugriva', 'is_leader_of', 'monkeys')
+* ('sugriva', 'reassured', 'dadhimukha')
+* ('dadhimukha', 'reported_destruction_of', 'madhuvana')
+* ('sugriva', 'ruled_after', 'vali')
+* ('sugriva', 'father_of', 'sugriva')
+* ('monkeys', 'destroyed', 'madhuvana')
+* ('guards', 'confronted', 'monkeys')
+* ('monkeys', 'attacked', 'guards')
+* ('dadhimukha', 'reported_to', 'sugriva')
+* ('sugriva', 'inquired_about', 'madhuvana')
+* ('dadhimukha', 'is_in', 'canto_63')
+* ('sugriva', 'is_in', 'canto_63')
+* ('vali', 'is_in','canto_63')
+* ('sugriva', 'heard_report_from', 'dadhimukha')
+* ('sugriva', 'comforted', 'dadhimukha')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('sugriva', 'deduces_location_of', 'sita')
+* ('monkeys', 'destroyed', 'madhuvana')
+* ('sugriva', 'explained_to', 'lakshmana')
+* ('monkeys', 'succeeded_in', 'mission')
+* ('dadhimukha', 'was_overpowered', 'monkeys')
+* ('sugriva', 'appointed', 'dadhimukha')
+* ('hanuman', 'found', 'sita')
+* ('hanuman', 'has_ability', 'intelligence')
+* ('hanuman', 'has_ability', 'strength')
+* ('hanuman', 'has_ability', 'knowledge')
+* ('hanuman', 'led', 'monkey_army')
+* ('angada', 'led', 'monkey_army')
+* ('jambavan', 'led', 'monkey_army')
+* ('angada', 'led_search_in', 'southern_region')
+* ('monkeys', 'returned_from', 'lanka')
+* ('madhuvana', 'was_untouchable', 'previously')
+* ('madhuvana', 'was_destroyed_by', 'monkeys')
+* ('guards', 'were_overpowered', 'monkeys')
+* ('sugriva', 'is_in', 'canto_63')
+* ('lakshmana', 'is_in', 'canto_63')
+* ('hanuman', 'is_in', 'canto_63')
+* ('angada', 'is_in', 'canto_63')
+* ('jambavan', 'is_in', 'canto_63')
+* ('dadhimukha', 'is_in', 'canto_63')
+* ('sita', 'is_in', 'canto_63')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('sugriva', 'introduces', 'dadhimukha')
+* ('dadhimukha', 'is_guard_of', 'madhuvana')
+* ('sugriva', 'tells', 'lakshmana')
+* ('monkeys', 'are_feasting_in', 'madhuvana')
+* ('rama', 'is_overjoyed', 'hearing_news_of_possible_success')
+* ('lakshmana', 'is_overjoyed', 'hearing_news_of_possible_success')
+* ('sugriva', 'tells', 'dadhimukha')
+* ('sugriva', 'instructs', 'dadhimukha')
+* ('dadhimukha', 'is_instructed_to_guard', 'madhuvana')
+* ('dadhimukha', 'is_instructed_to_send', 'hanuman')
+* ('sugriva', 'wants_to_hear_about', 'sita')
+* ('rama', 'wants_to_hear_about', 'sita')
+* ('lakshmana', 'wants_to_hear_about', 'sita')
+* ('sugriva', 'feels_happy_about', 'plan_success')
+
+* ('sugriva', 'is_in', 'canto_63')
+* ('dadhimukha', 'is_in', 'canto_63')
+* ('lakshmana', 'is_in', 'canto_63')
+* ('rama', 'is_in', 'canto_63')
+* ('hanuman', 'is_in', 'canto_63')
+* ('sita', 'is_in', 'canto_63')
+
+
+jai_balayya_ew
+jai_balayya_ew
+('dadhimukha', 'is_in', 'canto_64')
+('sugriva', 'is_in', 'canto_64')
+('rama', 'is_in', 'canto_64')
+('lakshmana', 'is_in', 'canto_64')
+('angada', 'is_in', 'canto_64')
+('hanuman', 'is_in', 'canto_64')
+('sita', 'is_in', 'canto_64')
+
+
+('dadhimukha', 'greeted', 'rama')
+('dadhimukha', 'greeted', 'lakshmana')
+('dadhimukha', 'greeted', 'sugriva')
+('dadhimukha', 'returned_to', 'madhuvana')
+('angada', 'is_crown_prince_of', 'madhuvana')
+('dadhimukha', 'requested', 'angada')
+('sugriva', 'ordered', 'dadhimukha')
+('angada', 'accompanied_by', 'hanuman')
+('angada', 'informed', 'rama')
+('angada', 'informed_about', 'sita')
+
+
+('dadhimukha', 'follows_orders_in', 'canto_64')
+('angada', 'learns_of_sita_in', 'canto_64')
+
+jai_balayya_ew
+jai_balayya_ew
+* ('dadhimukha', 'urged', 'angada_to_forgive_guards')
+* ('dadhimukha', 'emphasized', 'sugriva_current_authority')
+* ('dadhimukha', 'compared', 'sugriva_authority_to_vali_rule')
+* ('dadhimukha', 'reminded', 'angada_high_status')
+* ('dadhimukha', 'relayed', 'sugriva_joyful_reaction')
+* ('sugriva', 'commanded', 'send_everyone_to_him')
+* ('angada', 'addressed', 'monkeys_about_rama')
+* ('angada', 'deduced', 'rama_knowledge_of_arrival')
+* ('angada', 'declared', 'no_delay_in_return')
+* ('angada', 'urged', 'monkeys_return_to_kiskindha')
+* ('angada', 'stated', 'reliance_on_monkeys_decision')
+* ('monkeys', 'praised', 'angada_humility')
+* ('angada', 'related_in_canto_64', 'dadhimukha')
+* ('angada', 'related_in_canto_64', 'sugriva')
+* ('angada', 'related_in_canto_64', 'rama')
+* ('angada', 'related_in_canto_64', 'hanuman')
+* ('angada', 'related_in_canto_64', 'vali')
+* ('dadhimukha', 'related_in_canto_64', 'sugriva')
+* ('sugriva', 'related_in_canto_64', 'rama')
+
+* ('angada', 'is_in', 'canto_64')
+* ('dadhimukha', 'is_in', 'canto_64')
+* ('sugriva', 'is_in', 'canto_64')
+* ('rama', 'is_in', 'canto_64')
+* ('hanuman', 'is_in', 'canto_64')
+* ('vali', 'is_in', 'canto_64')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('angada', 'leads', 'monkeys')
+* ('hanuman', 'leads', 'monkeys')
+* ('monkeys', 'return_to', 'sugriva')
+* ('monkeys', 'obey', 'angada')
+* ('angada', 'reports_to', 'sugriva')
+* ('angada', 'reassures', 'rama')
+* ('angada', 'confirms_discovery_of', 'sita')
+* ('rama', 'grieves_for', 'sita')
+* ('sugriva', 'commands', 'dadhimukha')
+* ('dadhimukha', 'returns_to', 'madhuvana')
+* ('dadhimukha', 'seeks_forgiveness_from', 'angada')
+* ('dadhimukha', 'reports_to', 'sugriva')
+* ('angada', 'related_in_canto_64', 'hanuman')
+* ('angada', 'related_in_canto_64', 'sugriva')
+* ('angada', 'related_in_canto_64', 'rama')
+* ('angada', 'related_in_canto_64', 'sita')
+* ('angada', 'related_in_canto_64', 'dadhimukha')
+* ('angada', 'is_in', 'canto_64')
+* ('hanuman', 'is_in', 'canto_64')
+* ('sugriva', 'is_in', 'canto_64')
+* ('rama', 'is_in', 'canto_64')
+* ('sita', 'is_in', 'canto_64')
+* ('dadhimukha', 'is_in', 'canto_64')
+* ('angada', 'context_canto_64', 'discovery_of_sita')
+* ('rama', 'context_canto_64', 'grieving_for_sita')
+
+jai_balayya_ew
+jai_balayya_ew
+* ('sugriva', 'consoles', 'rama')
+* ('hanuman', 'found', 'sita')
+* ('hanuman', 'is_advisor_of', 'sugriva')
+* ('jambavan', 'is_leader_of', 'monkey_army')
+* ('angada', 'is_leader_of', 'monkey_army')
+* ('rama', 'learns_about', 'sita_discovery')
+* ('lakshmana', 'learns_about', 'sita_discovery')
+* ('monkeys', 'destroyed', 'madhuvana')
+* ('hanuman', 'informs', 'rama')
+* ('sita', 'is_safe', 'event')
+* ('sita', 'is_loyal_to', 'rama')
+* ('rama', 'is_overjoyed', 'sita_discovery')
+* ('lakshmana', 'is_overjoyed', 'sita_discovery')
+* ('lakshmana', 'respects', 'sugriva')
+* ('rama', 'loves', 'hanuman')
+* ('rama', 'is_in', 'canto_64')
+* ('lakshmana', 'is_in', 'canto_64')
+* ('sita', 'is_in', 'canto_64')
+* ('hanuman', 'is_in', 'canto_64')
+* ('sugriva', 'is_in', 'canto_64')
+* ('angada', 'is_in', 'canto_64')
+* ('jambavan', 'is_in', 'canto_64')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'met_with', 'rama')
+('hanuman', 'met_with', 'lakshmana')
+('angada', 'met_with', 'rama')
+('angada', 'met_with', 'lakshmana')
+('sugriva', 'met_with', 'rama')
+('sugriva', 'met_with', 'lakshmana')
+('hanuman', 'told_about_sita', 'rama')
+('sita', 'is_wife_of', 'rama')
+('sita', 'confined_by', 'ravana')
+('ravana', 'held_captive', 'sita')
+('sita', 'is_in', 'ravana_garden')
+('hanuman', 'is_in', 'canto_65')
+('rama', 'is_in', 'canto_65')
+('lakshmana', 'is_in', 'canto_65')
+('sita', 'is_in', 'canto_65')
+('angada', 'is_in', 'canto_65')
+('sugriva', 'is_in', 'canto_65')
+('ravana', 'is_in', 'canto_65')
+
+('hanuman', 'conveyed_message', 'meeting_rama')
+('angada', 'conveyed_message', 'meeting_rama')
+('sugriva', 'conveyed_message', 'meeting_rama')
+('rama', 'learnt_about_sita', 'meeting_monkeys')
+
+
+```
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'met', 'sita')
+* ('sita', 'held_captive_by', 'ravana')
+* ('hanuman', 'gave_ring_to', 'sita')
+* ('sita', 'is_wife_of', 'rama')
+* ('sita', 'located_in', 'ravana_garden')
+* ('ravana_garden', 'is_in', 'lanka')
+* ('sita', 'guarded_by', 'ogresses')
+* ('sita', 'grieving_for', 'rama')
+* ('hanuman', 'reassured', 'sita')
+* ('hanuman', 'told_about', 'rama_glory')
+* ('rama', 'allied_with', 'sugriva')
+* ('sita', 'devoted_to', 'rama')
+* ('hanuman', 'is_in', 'canto_65')
+* ('sita', 'is_in', 'canto_65')
+* ('rama', 'is_in', 'canto_65')
+* ('ravana', 'is_in', 'canto_65')
+* ('sugriva', 'is_in', 'canto_65')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'reports_to', 'rama')
+* ('sita', 'is_wife_of', 'rama')
+* ('sita', 'is_held_captive_by', 'ravana')
+* ('sita', 'is_in', 'ravana_s_garden')
+* ('hanuman', 'meets', 'sita')
+* ('sita', 'gives_jewel_to', 'hanuman')
+* ('rama', 'is_in', 'canto_65')
+* ('hanuman', 'is_in', 'canto_65')
+* ('sita', 'is_in', 'canto_65')
+* ('ravana', 'is_in', 'canto_65')
+
+
+jai_balayya_ew
+jai_balayya_ew
+('rama', 'is_husband_of', 'sita')
+('rama', 'is_brother_of', 'lakshmana')
+('rama', 'grieves_for', 'sita')
+('rama', 'is_in', 'canto_66')
+('sita', 'is_wife_of', 'rama')
+('sita', 'is_daughter_of', 'janaka')
+('sita', 'is_held_captive', 'rakshasas')
+('sita', 'is_in', 'canto_66')
+('lakshmana', 'is_brother_of', 'rama')
+('lakshmana', 'consoles', 'rama')
+('lakshmana', 'is_in', 'canto_66')
+('sugriva', 'is_in', 'canto_66')
+('janaka', 'is_father_of', 'sita')
+('janaka', 'gifted_jewel_to', 'sita')
+('hanuman', 'is_in', 'canto_66')
+('rama', 'requests_message_from', 'hanuman')
+('hanuman', 'delivers_message_to', 'rama')
+('rama', 'wishes_to_rescue', 'sita')
+('rama', 'recieves_jewel_from', 'sita')
+
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('rama', 'holds', 'sita_jewel')
+('rama', 'grieves_for', 'sita')
+('sita', 'face_compared_to', 'autumn_moon')
+('rama', 'asks_message_from', 'hanuman')
+('sita', 'sent_message_through', 'hanuman')
+('rama', 'considers_message_as', 'medicine')
+('rama', 'is_husband_of', 'sita')
+('sita', 'is_wife_of', 'rama')
+('rama', 'worries_about', 'sita')
+('sita', 'faces_hardship', 'separation')
+('rama', 'is_in', 'canto_66')
+('sita', 'is_in', 'canto_66')
+('hanuman', 'is_in', 'canto_66')
+```
+jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'recounts_story_to', 'rama')
+('sita', 'tells_story_to', 'rama')
+('sita', 'wife_of', 'rama')
+('rama', 'husband_of', 'sita')
+('jayanta', 'son_of', 'indra')
+('rama', 'attacked_by', 'jayanta')
+('sita', 'attacked_by', 'jayanta')
+
+
+('rama', 'context_chitrakuta', 'crow_attack')
+('sita', 'context_chitrakuta', 'crow_attack')
+('jayanta', 'context_chitrakuta', 'crow_attack')
+('hanuman', 'context_rama', 'recounts_story')
+('sita', 'context_rama', 'tells_story')
+
+
+('rama', 'is_in', 'canto_67')
+('sita', 'is_in', 'canto_67')
+('hanuman', 'is_in', 'canto_67')
+('jayanta', 'is_in', 'canto_67')
+('indra', 'is_in', 'canto_67')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('sita', 'narrates_story_to', 'hanuman')
+* ('sita', 'threw_grass_at', 'crow')
+* ('crow', 'feared', 'rama')
+* ('rama', 'angered_by', 'crow')
+* ('sita', 'is_wife_of', 'rama')
+* ('sita', 'is_in', 'canto_67')
+* ('hanuman', 'is_in', 'canto_67')
+* ('rama', 'is_in', 'canto_67')
+* ('crow', 'is_in', 'canto_67')
+* ('sita', 'describes_stay_at', 'citrakuuta')
+* ('rama', 'stayed_at', 'citrakuuta')
+* ('hanuman', 'witnessed_sita_lament', 'sita_lament')
+* ('sita', 'lamented_to', 'hanuman')
+
+
+jai_balayya_ew
+jai_balayya_ew
+('sita', 'narrates_story_to', 'hanuman')
+('sita', 'harassed_by', 'crow')
+('crow', 'seeks_mercy_from', 'rama')
+('rama', 'shows_mercy_to', 'crow')
+('rama', 'injures', 'crow')
+('sita', 'questions', 'rama')
+('sita', 'is_wife_of', 'rama')
+('rama', 'is_husband_of', 'sita')
+('sita', 'abducted_by', 'demons')
+('sita', 'laments_fate_to', 'hanuman')
+('rama', 'grief_stricken_due_to_separation_from', 'sita')
+('lakshmana', 'shares_sorrow_with', 'rama')
+('rama', 'is_brother_of', 'lakshmana')
+('lakshmana', 'is_brother_of', 'rama')
+('hanuman', 'reassures', 'sita')
+('hanuman', 'finds', 'sita')
+
+('sita', 'sorrowful_over_abduction', 'crow_incident')
+('rama', 'shows_compassion', 'crow_incident')
+('sita', 'expresses_anguish', 'captivity')
+('hanuman', 'offers_reassurance', 'meeting_sita')
+
+
+('sita', 'is_in', 'canto_67')
+('rama', 'is_in', 'canto_67')
+('hanuman', 'is_in', 'canto_67')
+('lakshmana', 'is_in', 'canto_67')
+('crow', 'is_in', 'canto_67')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'meets', 'sita')
+('sita', 'gives_token_to', 'hanuman')
+('hanuman', 'returns_to', 'rama')
+('sita', 'is_wife_of', 'rama')
+('lakshmana', 'is_brother_of', 'rama')
+('rama', 'fights', 'ravana')
+('sita', 'is_captured_by', 'ravana')
+('hanuman', 'conveys_message_to', 'rama')
+('hanuman', 'is_in', 'canto_67')
+('sita', 'is_in', 'canto_67')
+('rama', 'is_in', 'canto_67')
+('lakshmana', 'is_in', 'canto_67')
+('ravana', 'is_in', 'canto_67')
+
+```jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'recounts_message_to', 'rama')
+* ('sita', 'message_recounts_by', 'hanuman')
+* ('ravana', 'abducted', 'sita')
+* ('sita', 'asks_help_from', 'hanuman')
+* ('hanuman', 'meets', 'sita')
+* ('hanuman', 'meets', 'rama')
+* ('rama', 'brother_of', 'lakshmana')
+* ('sita', 'wife_of', 'rama')
+* ('sita', 'is_in', 'canto_67')
+* ('hanuman', 'is_in', 'canto_67')
+* ('rama', 'is_in', 'canto_67')
+* ('lakshmana', 'is_in', 'canto_67')
+* ('ravana', 'is_in', 'canto_67')
+* ('sugriva', 'is_in', 'canto_67')
+* ('sita', 'is_held_captive_by', 'ravana')
+* ('sita', 'context_captivity', 'asks_for_rescue')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'conveyed_message_to', 'rama')
+* ('sita', 'doubted_ability_of', 'hanuman')
+* ('sita', 'urged', 'hanuman')
+* ('sita', 'expressed_fear_for', 'own_safety')
+* ('rama', 'husband_of', 'sita')
+* ('sita', 'wife_of', 'rama')
+* ('ravana', 'abducted', 'sita')
+* ('hanuman', 'met', 'sita')
+* ('sita', 'requested_rescue_from', 'rama')
+* ('hanuman', 'is_in', 'canto_68')
+* ('sita', 'is_in', 'canto_68')
+* ('rama', 'is_in', 'canto_68')
+* ('ravana', 'is_in', 'canto_68')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'reassured', 'sita')
+* ('rama', 'will_rescue', 'sita')
+* ('ravana', 'abducted', 'sita')
+* ('hanuman', 'is_messenger_of', 'rama')
+* ('sugriva', 'is_allied_with', 'rama')
+* ('hanuman', 'is_part_of', 'monkey_army')
+* ('sita', 'is_wife_of', 'rama')
+* ('lakshmana', 'is_brother_of', 'rama')
+* ('hanuman', 'is in', 'canto_68')
+* ('sita', 'is in', 'canto_68')
+* ('rama', 'is in', 'canto_68')
+* ('ravana', 'is in', 'canto_68')
+* ('sugriva', 'is in', 'canto_68')
+* ('lakshmana', 'is in', 'canto_68')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('hanuman', 'informed', 'sita')
+* ('rama', 'is_brother_of', 'lakshmana')
+* ('rama', 'will_arrive_at', 'lanka')
+* ('sita', 'will_witness', 'rama_coronation')
+* ('rama_coronation', 'will_be_at', 'ayodhya')
+* ('hanuman', 'is in', 'canto_68')
+* ('sita', 'is in', 'canto_68')
+* ('rama', 'is in', 'canto_68')
+* ('lakshmana', 'is in', 'canto_68')
+
+
+jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'is_in', 'canto_7')
+('ravana', 'is_in', 'canto_7')
+('kubera', 'is_in', 'canto_7')
+('maya', 'is_in', 'canto_7')
+
+
+('hanuman', 'observes', 'ravana_palace')
+('ravana', 'owns', 'palace')
+('ravana', 'owns', 'puspaka')
+('palace', 'made_by', 'maya')
+('palace', 'acquired_from', 'kubera')
+('puspaka', 'owned_by', 'ravana')
+
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'examines', 'pushpaka_vimana')
+('pushpaka_vimana', 'has', 'sculpted_birds')
+('sculpted_birds', 'adorned_with', 'coral_gold_flowers')
+('hanuman', 'is_in', 'canto_7')
+('ravana', 'owns', 'pushpaka_vimana')
+('pushpaka_vimana', 'contains', 'lakshmi_statue')
+('hanuman', 'searches_for', 'sita')
+('sita', 'is_daughter_of', 'janaka')
+('janaka', 'is_in', 'canto_7')
+('ravana', 'is_in', 'canto_7')
+('sita', 'is_wife_of', 'rama') # inferred from Ramayana's general context
+('hanuman', 'serves', 'rama') # inferred from Ramayana's general context
+```
+jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'discovered', 'puspaka_car')
+('hanuman', 'is_in', 'canto_8')
+('puspaka_car', 'created_by', 'viswakarma')
+('puspaka_car', 'owned_by', 'ravana')
+('ravana', 'acquired', 'puspaka_car')
+('ravana', 'is_in', 'canto_8')
+('viswakarma', 'is_in', 'canto_8')
+
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'is_in', 'canto_9')
+('ravana', 'is_in', 'canto_9')
+('sita', 'is_in', 'canto_9')
+('kubera', 'is_in', 'canto_9')
+('brahma', 'is_in', 'canto_9')
+
+
+('hanuman', 'searched_for', 'sita')
+('hanuman', 'found', 'puspaka_vimana')
+('ravana', 'owns', 'puspaka_vimana')
+('ravana', 'captured', 'sita')
+('ravana', 'won_from', 'kubera')
+('kubera', 'originally_owned', 'puspaka_vimana')
+('brahma', 'created', 'puspaka_vimana')
+
+('hanuman', 'surveyed', 'ravana_palace')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+```
+('hanuman', 'is_in', 'canto_9')
+('ravana', 'is_in', 'canto_9')
+('viswakarma', 'is_in', 'canto_9')
+('brahma', 'is_in', 'canto_9')
+
+
+('hanuman', 'observes', 'ravana_palace')
+('hanuman', 'discovers', 'ravana_favorite_hall')
+('hanuman', 'enters', 'ravana_palace')
+('viswakarma', 'built', 'ravana_palace')
+('ravana', 'owns', 'palace')
+('ravana', 'uses', 'hall')
+
+```
+jai_balayya_ew
+jai_balayya_ew
+('hanuman', 'is_in', 'canto_9')
+('ravana', 'is_in', 'canto_9')
+('hanuman', 'observes', 'ravana_in_chamber')
+('hanuman', 'observes', 'sleeping_women')
+('ravana', 'is_with', 'sleeping_women')
+('women', 'are_in', 'ravana_chamber')
+
+
+jai_balayya_ew
+jai_balayya_ew
+* (ravana, has_wives, women)
+* (women, are_in, ravana_chamber)
+* (women, resemble, scattered_stars)
+* (women, wear, finery)
+* (women, have, loose_hair)
+* (women, have, scattered_jewels)
+* (women, have, shifted_garments)
+* (women, have, smudged_makeup)
+* (women, have, displaced_anklets)
+* (women, have, broken_necklaces)
+* (women, wear, pearl_necklaces)
+* (women, wear, loosened_girdles)
+* (women, wear, discarded_earrings)
+* (women, wear, crushed_garlands)
+* (women, wear, golden_chains)
+* (women, resemble, swans_on_riverbanks)
+* (women, have, adorned_bodies)
+* (women, have, impressions_of_ornaments)
+* (women, resemble, streams_with_lotuses)
+* (women, covered_by, colorful_banners)
+* (ravana, is_in, canto_9)
+* (women, is_in, canto_9)
+* (ravana, resides_in, chamber)
+* (women, are_present_in, chamber)
+
+jai_balayya_ew
+jai_balayya_ew
+* (ravana, is_in, canto_9)
+* (women, are_in, canto_9)
+* (women, desired, ravana)
+* (women, are_intoxicated, with_wine)
+* (women, mistook, companions_for_ravana)
+
+
+jai_balayya_ew
+jai_balayya_ew
+* ('ravana', 'is_husband_of', 'wives')
+* ('wives', 'related_in_canto_9', 'ravana')
+* ('ravana', 'abducted', 'sita')
+* ('sita', 'related_in_canto_9', 'ravana')
+* ('sita', 'is_daughter_of', 'janaka')
+* ('janaka', 'related_in_canto_9', 'sita')
+* ('hanuman', 'observed_harem', 'ravana_palace')
+* ('hanuman', 'is_in', 'canto_9')
+* ('ravana', 'is_in', 'canto_9')
+* ('sita', 'is_in', 'canto_9')
+* ('janaka', 'is_in', 'canto_9')
+
+
+jai_balayya_ew

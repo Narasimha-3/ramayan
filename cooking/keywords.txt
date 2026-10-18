@@ -1,0 +1,1 @@
+['Sita', 'text', 'various', 'appellations', 'addressed', 'refer', 'names']

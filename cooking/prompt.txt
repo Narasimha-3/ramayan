@@ -1,0 +1,7 @@
+A question is provided below. Given the question, extract up to 10 keywords from the text. Focus on extracting the keywords that we can use to best lookup answers to the question. Avoid stopwords. 
+Use only question to extract and don't use any extra context.
+---------------------
+Who is father of dasaratha ?Who was King Dasaratha's father?  Who sired Dasaratha? What is the name of Dasaratha's father?
+
+---------------------
+Provide keywords in the following comma-separated format: 'KEYWORDS: <keywords>'
