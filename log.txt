@@ -1,0 +1,40 @@
+number: 58_1
+gpt paragraph used: 
+After being cursed to become a Candala, Trisanku's transformation was marked by a stark change in appearance,
+as his skin and clothing darkened and his adornments changed to those associated with his new status. Deserted by his followers,
+Trisanku remained resolute and, alone, journeyed to Viswamitra’s hermitage, placing his hope in the sage’s compassion and strength.
+Viswamitra, moved by Trisanku's plight, inquires about the reason for his visit. In response, Trisanku expresses his despair,
+stating that despite his adherence to duty and truth, his efforts to ascend to heaven in his bodily form through
+a hundred sacrifices have been thwarted. He laments the power of fate, which, in his view, has overshadowed his personal efforts
+and prevented his achievements. Trisanku further shares that he has faithfully served his people and honored his elders,
+but even this has not helped him avoid his misfortune. Convinced that destiny alone is decisive, Trisanku appeals to Viswamitra,
+stating that he has no other refuge and seeking the sage’s help to alter his fate.
+
+number: 58_0
+gpt paragraph used: 
+The sons of Sage Vasistha, enraged by Trisanku’s persistence after their father’s refusal,
+chastise him for seeking another patron despite being rejected by a revered and truthful sage.
+They reiterate that Sage Vasistha, as the Ikswaku family’s priest, has the final word in such matters,
+and no one should attempt what he has forbidden. They caution that they cannot conduct a sacrifice against his command,
+given his authority and wisdom, and advise Trisanku to return to his kingdom.
+When Trisanku expresses his intent to approach another priest, they curse him in anger,
+reducing him to the form of a Candala—a being of the lowest status. Following the curse, Trisanku’s appearance transforms:
+he dons black garments, his fair complexion darkens, and his ornaments and garlands change into those associated with an outcast.
+His followers, horrified by his altered form, abandon him.
+Alone and in despair, Trisanku seeks out Viswamitra, whose compassionate nature is stirred by the king’s plight.
+Seeing Trisanku reduced to this pitiable state, Viswamitra addresses him kindly and inquires about the purpose of his visit.
+With humility, Trisanku recounts how he has been rejected by his preceptor and his sons, and now seeks Viswamitra’s help.
+
+number: 57_1
+gpt paragraph used: 
+Having been refused by the noble Vasistha, TriSanku sought out Vasistha's sons in the hope they would assist him with his sacrifice.
+Upon finding them in their austere practices, TriSanku humbly greeted each one with respect, concealing his disappointment
+and shame from his previous rejection. Bowing before the sons of his revered preceptor, he asked for their support,
+acknowledging them as protectors and placing his trust in them for guidance.
+He expressed his deep desire to perform a great sacrifice that would allow him to ascend bodily to heaven.
+TriSanku entreated them to bless his endeavor and, bowing with sincerity, implored them to grant him permission.
+He conveyed his sense of refuge, explaining that after being denied by Vasistha, they were his last hope to achieve this extraordinary goal.
+He appealed to their sense of duty toward the Ikswaku dynasty, reminding them of the pivotal role of their father, Vasistha,
+as a spiritual guide to his ancestors, and recognized the sons as the next trusted protectors of his lineage.
+
+

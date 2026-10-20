@@ -1,0 +1,40 @@
+Context information from multiple sources is below.
+---------------------
+kg_schema: {'schema': 'Node properties are the following:\n\nRelationship properties are the following:\n\nThe relationships are the following:\n'}
+
+The following are knowledge sequence in max depth 2 in the form of directed graph like:
+`subject -[predicate]->, object, <-[predicate_next_hop]-, object_next_hop ...`
+['RELATED_IN_CANTO_26_42', 'Lakshmana', 'CONTEXT_CANTO_1_16', 'Supporting_rama']
+['RELATED_IN_CANTO_26_42', 'Lakshmana', 'RELATED_IN_CANTO_26_42', 'Viswamitra']
+['RELATED_IN_CANTO_26_42', 'Viswamitra', 'INQUIRED_ABOUT', 'Trisanku_visit']
+['BROTHER_OF', 'Lakshmana', 'CONTEXT_CANTO_1_16', 'Supporting_rama']
+['BROTHER_OF', 'Lakshmana', 'RELATED_IN_CANTO_26_42', 'Viswamitra']
+['HELPS', 'Trisanku', 'CURSED_BY_VASISTHA_SONS', 'Becomes_candala']
+['RELATED_IN_CANTO_26_42', 'Lakshmana', 'VOWS_TO_KILL', 'Ravana']
+['RELATED_IN_CANTO_26_42', 'Viswamitra', 'IS_IN', 'Canto_26_42']
+['RELATED_IN_CANTO_26_42', 'Viswamitra', 'IS_IN', 'Canto_32_48']
+['RELATED_IN_CANTO_26_42', 'Lakshmana', 'IS_IN', 'Canto_26_42']
+['RELATED_IN_CANTO_26_42', 'Viswamitra', 'IS_IN', 'Canto_1_16']
+['RELATED_IN_CANTO_26_42', 'Lakshmana', 'IS_IN', 'Canto_1_16']
+['RELATED_IN_CANTO_26_42', 'Viswamitra', 'HELPS', 'Trisanku']
+['HELPS', 'Trisanku', 'RELATED_IN_CANTO_32_48', 'Viswamitra']
+['RELATED_IN_CANTO_26_42', 'Lakshmana', 'SUPPORTS', 'Rama']
+['RELATED_IN_CANTO_26_42', 'Lakshmana', 'CONSOLES', 'Rama']
+['HELPS', 'Trisanku', 'RELATED_IN_CANTO_32_48', 'Vasistha']
+['HELPS', 'Trisanku', 'SEEKS_HELP_FROM', 'Viswamitra']
+['BROTHER_OF', 'Lakshmana', 'VOWS_TO_KILL', 'Ravana']
+['LEARNS_HERMITAGE_HISTORY', 'Gautama_ahalya_story']
+['HELPS', 'Trisanku', 'DESIRES', 'Ascend_to_heaven']
+('Vasistha', 'Related_in_canto_32_48', 'Viswamitra')
+['BROTHER_OF', 'Lakshmana', 'IS_IN', 'Canto_26_42']
+['BROTHER_OF', 'Lakshmana', 'IS_IN', 'Canto_1_16']
+('Rama', 'Related_in_canto_26_42', 'Viswamitra')
+['SEARCHES_FOR', 'Sita', 'IS_IN', 'Canto_1_16']
+['BROTHER_OF', 'Lakshmana', 'CONSOLES', 'Rama']
+['BROTHER_OF', 'Lakshmana', 'SUPPORTS', 'Rama']
+['GRIEVES_FOR', 'Sita', 'IS_IN', 'Canto_1_16']
+['HELPS', 'Trisanku', 'IS_IN', 'Canto_32_48']
+---------------------
+Given the information from multiple sources and not prior knowledge, answer the query.
+Query: How is viswamitra related to rama?
+Answer: 

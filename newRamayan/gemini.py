@@ -1,0 +1,16 @@
+
+import os
+import google.generativeai as genai
+
+genai.configure(api_key=os.environ.get("GOOGLE_API_KEY"))
+
+model = genai.GenerativeModel('gemini-1.5-pro')
+
+def ramayandata(prompt):
+    response = model.generate_content(prompt)
+    # print(response.text)
+    with open('log.txt', 'a') as f:
+        f.write("jai_balayya_ew\n")
+        f.write(response.text)
+        f.write("jai_balayya_ew\n")
+    return response.text

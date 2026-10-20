@@ -1,0 +1,5753 @@
+jai_balayya_ew
+(rama, is_virtuous, canto_1)
+(rama, is_powerful, canto_1)
+(rama, is_truthful, canto_1)
+(rama, is_resolute, canto_1)
+(rama, is_compassionate, canto_1)
+(rama, is_intelligent, canto_1)
+(rama, is_eloquent, canto_1)
+(rama, is_skilled_warrior, canto_1)
+(rama, has_impressive_physique, canto_1)
+(rama, is_wise, canto_1)
+(rama, is_pure, canto_1)
+(rama, is_self_controlled, canto_1)
+(rama, is_knowledgeable_in_scriptures, canto_1)
+(rama, is_skilled_in_archery, canto_1)
+(rama, upholds_dharma, canto_1)
+(rama, protects_all_beings, canto_1)
+(narada, describes_rama, canto_1)
+(valmiki, listens_to_narada, canto_1)
+(narada, related_in_canto_1, valmiki)
+(narada, related_in_canto_1, rama)
+(valmiki, related_in_canto_1, rama)
+jai_balayya_ew
+jai_balayya_ew
+(rama, is_son_of, dasaratha)
+(rama, is_husband_of, sita)
+(rama, is_brother_of, bharata)
+(rama, is_brother_of, lakshmana)
+(rama, is_brother_of, shatrughna)
+(bharata, is_son_of, dasaratha)
+(bharata, is_brother_of, rama)
+(bharata, is_brother_of, lakshmana)
+(bharata, is_brother_of, shatrughna)
+(lakshmana, is_brother_of, rama)
+(lakshmana, is_brother_of, bharata)
+(lakshmana, is_brother_of, shatrughna)
+(lakshmana, is_son_of, dasaratha)
+(shatrughna, is_son_of, dasaratha)
+(shatrughna, is_brother_of, rama)
+(shatrughna, is_brother_of, bharata)
+(shatrughna, is_brother_of, lakshmana)
+(sita, is_wife_of, rama)
+(kaikeyi, is_wife_of, dasaratha)
+(kaikeyi, is_mother_of, bharata)
+(dasaratha, is_father_of, rama)
+(dasaratha, is_father_of, bharata)
+(dasaratha, is_father_of, lakshmana)
+(dasaratha, is_father_of, shatrughna)
+
+
+(rama, exiled_by_father, exile)
+(rama, obeys_father, boon)
+(dasaratha, grants_boon, kingship)
+(dasaratha, exiles_son, exile)
+(kaikeyi, requests_boon, exile)
+(kaikeyi, requests_coronation, kingship)
+(bharata, becomes_king, coronation)
+
+(rama, is_in, canto_1)
+(dasaratha, is_in, canto_1)
+(kaikeyi, is_in, canto_1)
+(bharata, is_in, canto_1)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, is_son_of, dasaratha)
+(lakshmana, is_brother_of, rama)
+(sita, is_wife_of, rama)
+(bharata, is_brother_of, rama)
+(hanuman, related_in_canto_4, rama)
+(sugriva, related_in_canto_4, rama)
+(vali, related_in_canto_4, rama)
+(guha, related_in_canto_2, rama)
+(bharadwaja, related_in_canto_2, rama)
+(agastya, related_in_canto_3, rama)
+(sabari, related_in_canto_3, rama)
+(surpanakha, related_in_canto_3, rama)
+
+
+(rama, exile, goes_into_exile)
+(rama, chitrakut, builds_dwelling)
+(dasaratha, grief, passes_away)
+(bharata, throne, refuses_kingship)
+(bharata, chitrakut, implores_rama_return)
+(rama, ayodhya, refuses_return)
+(rama, dandaka_forest, enters_forest)
+(rama, sages, protects_sages)
+(rama, surpanakha, encounters_surpanakha)
+(rama, demon, defeats_demon)
+(rama, sabari, meets_sabari)
+(rama, hanuman, meets_hanuman)
+
+
+(rama, is_in, canto_1)
+(lakshmana, is_in, canto_1)
+(sita, is_in, canto_1)
+(dasaratha, is_in, canto_1)
+(rama, is_in, canto_2)
+(guha, is_in, canto_2)
+(bharadwaja, is_in, canto_2)
+(rama, is_in, canto_3)
+(bharata, is_in, canto_3)
+(rama, is_in, canto_4)
+jai_balayya_ew
+jai_balayya_ew
+rama,is_brother_of,lakshmana
+rama,is_husband_of,sita
+rama,is_brother_of,bharata
+bharata,is_brother_of,rama
+sita,is_wife_of,rama
+lakshmana,is_brother_of,rama
+ravana,related_in_canto_1,marica
+ravana,related_in_canto_1,surpanakha
+jatayu,related_in_canto_1,rama
+kabandha,related_in_canto_1,rama
+sugriva,related_in_canto_1,rama
+vali,related_in_canto_1,sugriva
+hanuman,related_in_canto_1,rama
+khara,related_in_canto_1,rama
+trishira,related_in_canto_1,rama
+dusana,related_in_canto_1,rama
+agastya,related_in_canto_1,rama
+
+
+rama,refused_kingship,canto_1
+bharata,ruled_nandigrama,canto_1
+rama,journeyed_dandaka_forest,canto_1
+rama,received_divine_weapons,canto_1
+rama,protected_sages,canto_1
+rama,disfigured_surpanakha,canto_1
+rama,defeated_demons,canto_1
+ravana,plotted_revenge,canto_1
+ravana,abducted_sita,canto_1
+jatayu,tried_rescue_sita,canto_1
+rama,cremated_jatayu,canto_1
+rama,encountered_kabandha,canto_1
+rama,displayed_strength,canto_1
+rama,allied_sugriva,canto_1
+rama,killed_vali,canto_1
+sugriva,mobilized_army,canto_1
+hanuman,located_sita,canto_1
+hanuman,presented_ring,canto_1
+hanuman,created_havoc,canto_1
+
+
+rama,is_in,canto_1
+sita,is_in,canto_1
+lakshmana,is_in,canto_1
+bharata,is_in,canto_1
+ravana,is_in,canto_1
+jatayu,is_in,canto_1
+hanuman,is_in,canto_1
+sugriva,is_in,canto_1
+vali,is_in,canto_1
+agastya,is_in,canto_1
+
+jai_balayya_ew
+jai_balayya_ew
+rama,killed,khara
+rama,killed,trisira
+rama,killed,dusana
+rama,killed,demon_followers
+surpanakha,instigated,khara
+surpanakha,instigated,trisira
+surpanakha,instigated,dusana
+surpanakha,instigated,demon_followers
+ravana,brother_of,khara
+ravana,brother_of,trisira
+ravana,brother_of,dusana
+ravana,sought_help_from,marica
+jatayu,protected,sita
+ravana,abducted,sita
+rama,killed,kabandha
+rama,met,sabari
+rama,met,hanuman
+rama,met,sugriva
+rama,killed,vali
+hanuman,found,sita
+rama,killed,ravana
+rama,rescued,sita
+vibhisana,ruled,lanka
+rama,returned_to,ayodhya
+
+rama,killing_of_demons,canto_1
+ravana,abduction_of_sita,canto_1
+rama,meeting_sabari,canto_1
+rama,meeting_hanuman_and_sugriva,canto_1
+hanuman,locating_sita,canto_1
+rama,building_bridge_to_lanka,canto_1
+rama,slaying_ravana,canto_1
+rama,rescuing_sita,canto_1
+rama,returning_to_ayodhya,canto_1
+
+
+rama,is_in,canto_1
+sita,is_in,canto_1
+ravana,is_in,canto_1
+hanuman,is_in,canto_1
+sugriva,is_in,canto_1
+jatayu,is_in,canto_1
+vibhisana,is_in,canto_1
+lakshmana,is_in,canto_1
+bharata,is_in,canto_1
+surpanakha,is_in,canto_1
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, helped_by, hanuman)
+(rama, befriended, sugriva)
+(rama, wife_of, sita)
+(rama, told_story_to, sugriva)
+(sugriva, brother_of, vali)
+(vali, killed, dundubhi)
+(rama, displayed_power_to, sugriva)
+(rama, killed, vali)
+(rama, installed, sugriva)
+(sugriva, sent, monkeys)
+(hanuman, advised_by, sampati)
+(hanuman, leaped_across_ocean, lanka)
+(rama, rescued, sita)
+
+
+(rama, sita_abduction, shared_story)
+(sugriva, vali_conflict, recounted_story)
+(rama, power_display, tossed_skeleton)
+(rama, vali_killing, installed_sugriva)
+(hanuman, lanka_leap, searched_sita)
+(rama, sita_rescue, regained_kingdom)
+
+
+(rama, is_in, canto_1)
+(sita, is_in, canto_1)
+(hanuman, is_in, canto_1)
+(sugriva, is_in, canto_1)
+(vali, is_in, canto_1)
+(dundubhi, is_in, canto_1)
+(sampati, is_in, canto_1)
+
+
+jai_balayya_ew
+jai_balayya_ew
+hanuman,went_to,lanka
+hanuman,found,sita
+hanuman,gave_ring_to,sita
+hanuman,reassured,sita
+hanuman,defeated,ravana_warriors
+hanuman,captured_by,ravana
+hanuman,set_fire_to,lanka
+hanuman,returned_to,rama
+hanuman,informed_about,sita
+rama,went_to,southern_coast
+rama,displayed_power_to,ocean_god
+rama,built,bridge
+rama,crossed,bridge
+rama,defeated,ravana
+rama,retrieved,sita
+rama,questioned,sita_purity
+sita,entered,fire
+fire_god,testified,sita_innocence
+rama,accepted,sita
+rama,is_in,canto_1
+sita,is_in,canto_1
+hanuman,is_in,canto_1
+ravana,is_in,canto_1
+sampati,is_in,canto_1
+ocean_god,is_in,canto_1
+fire_god,is_in,canto_1
+sita,wife_of,rama
+rama,husband_of,sita
+ravana,captured,sita
+hanuman,met,sita
+hanuman,related_in_canto_1,rama
+hanuman,related_in_canto_1,sita
+hanuman,related_in_canto_1,ravana
+rama,related_in_canto_1,ravana
+rama,related_in_canto_1,sita
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, husband_of, sita)
+(sita, wife_of, rama)
+(rama, brother_of, lakshmana)
+(lakshmana, brother_of, rama)
+(rama, brother_of, bharata)
+(bharata, brother_of, rama)
+(vibhishana, king_of, lanka)
+(sugriva, related_in_canto_number, rama)
+(hanuman, related_in_canto_number, rama)
+(bharadwaja, related_in_canto_number, rama)
+
+
+(rama, accepted, sita)
+(rama, crowned, vibhishana)
+(rama, revived, allies)
+(rama, departed_for, ayodhya)
+(rama, sent, hanuman)
+(rama, informed, bharata)
+(rama, disentangled, hair)
+(rama, reclaimed, kingdom)
+(rama, ushered_in, golden_age)
+(rama, performed, sacrifices)
+
+
+(rama, is_in, canto_number)
+(sita, is_in, canto_number)
+(lakshmana, is_in, canto_number)
+(vibhishana, is_in, canto_number)
+(sugriva, is_in, canto_number)
+(hanuman, is_in, canto_number)
+(bharata, is_in, canto_number)
+(bharadwaja, is_in, canto_number)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, ruled_for, eleven_thousand_years)
+(rama, ascended_to, brahmaloka)
+(rama, performed, horse_sacrifices)
+(rama, donated, cows)
+(rama, donated, riches)
+(rama, strengthened, royal_dynasties)
+(rama, guided, people)
+(rama, is_in, canto_1)
+
+(people, adhered_to, duties)
+(people, read, rama_story)
+(people, cleansed_of, sins)
+(people, ensured, heavenly_honor)
+
+(brahmins, gained, eloquence)
+(brahmins, is_in, canto_1)
+(kshatriyas, attained, kingship)
+(kshatriyas, is_in, canto_1)
+(merchants, prospered_in, trade)
+(merchants, is_in, canto_1)
+(sudras, achieved, higher_status)
+(sudras, is_in, canto_1)
+
+(rama_story, considered_as_holy_as, vedas)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(valmiki, is_in, canto_ii)
+(narada, is_in, canto_ii)
+(bharadwaja, is_in, canto_ii)
+(hunter, is_in, canto_ii)
+(male_crane, is_in, canto_ii)
+(female_crane, is_in, canto_ii)
+(brahma, is_in, canto_ii)
+
+(valmiki, received_discourse_from, narada)
+(valmiki, instructed, bharadwaja)
+(bharadwaja, disciple_of, valmiki)
+(male_crane, mate_of, female_crane)
+(female_crane, mate_of, male_crane)
+(valmiki, cursed, hunter)
+
+(valmiki, witnessed_hunting, canto_ii)
+(hunter, killed_crane, canto_ii)
+(female_crane, grieved_for_mate, canto_ii)
+(valmiki, felt_compassion, canto_ii)
+(brahma, visited_valmiki, canto_ii)
+jai_balayya_ew
+jai_balayya_ew
+(valmiki, witnesses, hunter_killing_crane)
+(hunter, kills, crane)
+(valmiki, curses, hunter)
+(valmiki, realizes_poetic_nature, curse)
+(valmiki, explains_meter, bharadwaja)
+(valmiki, is_teacher_of, bharadwaja)
+(brahma, visits, valmiki)
+(valmiki, greets, brahma)
+
+(valmiki, is_in, canto_2)
+(hunter, is_in, canto_2)
+(crane, is_in, canto_2)
+(bharadwaja, is_in, canto_2)
+(brahma, is_in, canto_2)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(brahma, visited, valmiki)
+(valmiki, offered_seat, brahma)
+(brahma, instructed, valmiki)
+(valmiki, lamented, hunter)
+(brahma, reassured, valmiki)
+(brahma, commissioned, valmiki)
+(valmiki, is_in, canto_ii)
+(brahma, is_in, canto_ii)
+(hunter, is_in, canto_ii)
+
+(valmiki, brahma_visit, received_divine_inspiration)
+(valmiki, brahma_visit, tasked_to_write_ramayana)
+(brahma, brahma_visit, gave_divine_inspiration)
+(brahma, brahma_visit, commissioned_ramayana)
+jai_balayya_ew
+jai_balayya_ew
+(valmiki, received_blessing_from, brahma)
+(valmiki, composed, ramayana)
+(valmiki, is_in, canto_ii)
+(brahma, blessed, valmiki)
+(brahma, prophesied_about, rama)
+(brahma, is_in, canto_ii)
+(rama, story_prophesied_by, brahma)
+(rama, life_narrated_in, ramayana)
+(rama, defeated, ravana)
+(rama, is_in, canto_ii)
+(ravana, defeated_by, rama)
+(ravana, is_in, canto_ii)
+jai_balayya_ew
+jai_balayya_ew
+(valmiki, inspired_by, narada)
+(valmiki, wrote, ramayana)
+(rama, is_son_of, dasharatha)
+(lakshmana, is_brother_of, rama)
+(sita, is_wife_of, rama)
+(rama, goes_on_exile_with, sita)
+(rama, goes_on_exile_with, lakshmana)
+(rama, broke, bow)
+(sita, wedding_with, rama)
+(rama, conflict_with, parashurama)
+(dasharatha, planned, coronation)
+(kaikeyi, caused, exile)
+(dasharatha, felt, sorrow)
+(dasharatha, died_from, grief)
+(rama, met, nishadha_chief)
+(rama, crossed, ganga)
+(rama, visited, bharadwaja)
+(rama, travelled_to, chitrakuta)
+(valmiki, is_in, canto_3)
+(narada, is_in, canto_3)
+(rama, is_in, canto_3)
+(lakshmana, is_in, canto_3)
+(sita, is_in, canto_3)
+(dasharatha, is_in, canto_3)
+(kaikeyi, is_in, canto_3)
+(parashurama, is_in, canto_3)
+(bharadwaja, is_in, canto_3)
+(nishadha_chief, is_in, canto_3)
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, broke, shiva_bow)
+(parashurama, confronted, rama)
+(dasharatha, father_of, rama)
+(kaikeyi, stepmother_of, rama)
+(rama, exiled, ayodhya)
+(dasharatha, died, grief)
+(rama, crossed, ganga_river)
+(rama, visited, sage_bharadwaja)
+(rama, settled_in, chitrakuta)
+(bharata, brother_of, rama)
+(bharata, requested, rama_return)
+(rama, performed, last_rites)
+(rama, moved_to, dandaka_forest)
+(rama, killed, demon_viradha)
+(rama, met, sutiksna)
+(sita, wife_of, rama)
+(sita, met, anasuya)
+(rama, honored_by, sage_agastya)
+(lakshmana, brother_of, rama)
+(lakshmana, disfigured, surpanakha)
+(rama, killed, khara)
+(rama, killed, trisira)
+(rama, killed, dusana)
+(ravana, kidnapped, sita)
+(rama, killed, marica)
+(jatayu, tried_to_rescue, sita)
+(rama, met, kabandha)
+(rama, met, shabari)
+(rama, met, hanuman)
+(rama, befriended, sugriva)
+(rama, aided, sugriva)
+(sugriva, brother_of, vali)
+(rama, killed, vali)
+(tara, wife_of, vali)
+(rama, agreed_with, sugriva)
+(sugriva, searched_for, sita)
+
+(rama, is_in, canto_3)
+(sita, is_in, canto_3)
+(lakshmana, is_in, canto_3)
+(dasharatha, is_in, canto_3)
+(kaikeyi, is_in, canto_3)
+(bharata, is_in, canto_3)
+(ravana, is_in, canto_3)
+(hanuman, is_in, canto_3)
+(sugriva, is_in, canto_3)
+(vali, is_in, canto_3)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, resided_on, mount_rsyamuka)
+(sugriva, wife_of, tara)
+(tara, husband_of, vali)
+(rama, agreed_with, sugriva)
+(rama, searched_for, sita)
+(sugriva, assembled, monkey_forces)
+(angada, led, monkey_forces)
+(hanuman, climbed, mount_mahendra)
+(hanuman, spoke_with, mount_mainaka)
+(hanuman, faced, surasa)
+(hanuman, faced, lankini)
+(hanuman, defeated, simhika)
+(hanuman, found, sita)
+(sita, located_in, ashoka_grove)
+(hanuman, gave, ring)
+(sita, gave, jewel)
+(hanuman, set_ablaze, lanka)
+(rama, journeyed_to, lanka)
+(nala, built, bridge)
+(rama, defeated, kumbhakarna)
+(rama, defeated, meghanada)
+(rama, defeated, ravana)
+(rama, rescued, sita)
+(vibhishana, crowned_king_of, lanka)
+(rama, met, sage_bharadwaja)
+(hanuman, informed, bharata)
+(rama, coronation_of, ayodhya)
+
+(rama, is_in, canto_3)
+(sita, is_in, canto_3)
+(sugriva, is_in, canto_3)
+(tara, is_in, canto_3)
+(vali, is_in, canto_3)
+(angada, is_in, canto_3)
+(hanuman, is_in, canto_3)
+(nal, is_in, canto_3)
+(vibhishana, is_in, canto_3)
+(bharata, is_in, canto_3)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, defeated, ravana)
+(rama, rescued, sita)
+(vibhishana, crowned_king_of, lanka)
+(rama, travelled_to, ayodhya)
+(rama, visited, sage_bharadwaja)
+(hanuman, informed, bharata)
+(rama, crowned_king_of, ayodhya)
+(rama, disbanded, army)
+(valmiki, wrote_story_of, rama)
+(kumbhakarna, is_in, canto_3)
+(meghanada, is_in, canto_3)
+(ravana, is_in, canto_3)
+(sita, is_in, canto_3)
+(vibhishana, is_in, canto_3)
+(rama, is_in, canto_3)
+(hanuman, is_in, canto_3)
+(bharata, is_in, canto_3)
+(valmiki, is_in, canto_3)
+(sage_bharadwaja, is_in, canto_3)
+(rama, participated_in, battles_in_lanka)
+(sita, involved_in, rescue_from_lanka)
+(vibhishana, participated_in, coronation_in_lanka)
+(rama, involved_in, journey_to_ayodhya)
+(hanuman, involved_in, informing_bharata)
+(rama, involved_in, coronation_in_ayodhya)
+
+
+
+jai_balayya_ew
+jai_balayya_ew
+valmiki, composed, ramayana
+rama, returned, ayodhya
+rama, exiled, forest
+valmiki, sought, reciter
+kusa, is_son_of, rama
+lava, is_son_of, rama
+kusa, raised_by, valmiki
+lava, raised_by, valmiki
+valmiki, taught, kusa
+valmiki, taught, lava
+kusa, recited, ramayana
+lava, recited, ramayana
+rama, ruled, ayodhya
+rama, listened_to, ramayana_recital
+kusa, performed_for, audience
+lava, performed_for, audience
+kusa, is_in, canto_4
+lava, is_in, canto_4
+rama, is_in, canto_4
+valmiki, is_in, canto_4
+sita, related_in_canto_4, rama
+ravana, related_in_canto_4, rama
+kusa, sang, ramayana
+lava, sang, ramayana
+jai_balayya_ew
+jai_balayya_ew
+(kusa, sings_ramayana, canto_4)
+(lava, sings_ramayana, canto_4)
+(kusa, is_in, canto_4)
+(lava, is_in, canto_4)
+(valmiki, instructs, canto_4)
+(rama, listens_ramayana, canto_4)
+(rama, is_in, canto_4)
+(kusa, related_in_canto_4, lava)
+(lava, related_in_canto_4, kusa)
+(kusa, son_of, rama)
+(lava, son_of, rama)
+(valmiki, teacher_of, kusa)
+(valmiki, teacher_of, lava)
+(rama, ascends_throne, canto_4)
+
+jai_balayya_ew
+jai_balayya_ew
+kusa_lava, received_gifts_from, sages
+sages, blessed, kusa_lava
+sages, wished_long_life_to, kusa_lava
+sages, praised, kusa_lava
+rama, heard, kusa_lava_singing
+rama, brought, kusa_lava_to_palace
+rama, offered_seats_to, kusa_lava
+rama, requested_brothers_to_listen, kusa_lava_story
+kusa_lava, sang_ramayana_to, rama
+kusa_lava, is_son_of, rama
+rama, impressed_by, kusa_lava
+rama, is_father_of, kusa_lava
+rama, is_brother_of, bharata
+rama, is_brother_of, lakshmana
+rama, is_brother_of, shatrughna
+bharata, is_brother_of, lakshmana
+bharata, is_brother_of, shatrughna
+lakshmana, is_brother_of, shatrughna
+rama, is_in, canto_4
+kusa, is_in, canto_4
+lava, is_in, canto_4
+bharata, is_in, canto_4
+lakshmana, is_in, canto_4
+shatrughna, is_in, canto_4
+kusa, related_in_canto_4, lava
+lava, related_in_canto_4, kusa
+jai_balayya_ew
+jai_balayya_ew
+(rama, is_in, canto_iv)
+(kusa, is_in, canto_iv)
+(lava, is_in, canto_iv)
+
+(rama, is_father_of, kusa)
+(rama, is_father_of, lava)
+(kusa, is_son_of, rama)
+(lava, is_son_of, rama)
+(kusa, is_brother_of, lava)
+(lava, is_brother_of, kusa)
+
+(rama, urged_sons_to_sing, ramayana_recitation)
+(kusa, sang_ramayana, ramayana_recitation)
+(lava, sang_ramayana, ramayana_recitation)
+(rama, listened_to_ramayana, ramayana_recitation)
+
+jai_balayya_ew
+jai_balayya_ew
+(kosala, is_in, canto_5)
+(ayodhya, is_in, canto_5)
+(dasaratha, is_in, canto_5)
+(manu, is_in, canto_5)
+(indra, is_in, canto_5)
+
+(kosala, kingdom_description, prosperous_land)
+(ayodhya, city_description, well_planned_city)
+(ayodhya, built_by, manu)
+(dasaratha, ruled, ayodhya)
+(ayodhya, compared_to, amaravati)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(ayodhya, is_in, canto_5)
+(dasaratha, is_in, canto_5)
+(dasaratha, rules_over, ayodhya)
+(ayodhya, description, prosperous_city)
+(ayodhya, description, well_defended_city)
+(ayodhya, description, home_to_learned_brahmanas)
+(ayodhya, description, home_to_righteous_seers)
+(ayodhya, description, home_to_skilled_warriors)
+
+jai_balayya_ew
+jai_balayya_ew
+(dasaratha, ruled, ayodhya)
+(dasaratha, is_in, canto_6)
+(dasaratha, prosperous_reign, ayodhya)
+(ikswaku, ancestor_of, dasaratha)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(king_dasaratha, ruled, ayodhya)
+(king_dasaratha, is_in, canto_6)
+(ayodhya, prosperity_during_reign, king_dasaratha)
+(ayodhya, filled_with, warriors)
+(ayodhya, filled_with, horses)
+(ayodhya, filled_with, elephants)
+(brahmins, dedicated_to, duties)
+(brahmins, is_in, canto_6)
+(kshatriyas, followed, brahmins)
+(kshatriyas, is_in, canto_6)
+(vaishyas, followed, kshatriyas)
+(vaishyas, is_in, canto_6)
+(shudras, served, other_three_classes)
+(shudras, is_in, canto_6)
+
+jai_balayya_ew
+jai_balayya_ew
+(dasaratha, is_in, canto_6)
+(ayodhya, is_in, canto_6)
+(dasaratha, rules, ayodhya)
+(dasaratha, conquered, adversaries)
+(dasaratha, context, prosperity_of_ayodhya)
+jai_balayya_ew
+jai_balayya_ew
+(dasaratha, is_king_of, ayodhya)
+(dasaratha, has_minister, dhrsti)
+(dasaratha, has_minister, jayanta)
+(dasaratha, has_minister, vijaya)
+(dasaratha, has_minister, surastra)
+(dasaratha, has_minister, rastravardhana)
+(dasaratha, has_minister, akopa)
+(dasaratha, has_minister, dharmapala)
+(dasaratha, has_minister, sumantra)
+(dasaratha, has_advisor, vasistha)
+(dasaratha, has_advisor, vamadeva)
+(dasaratha, has_advisor, suyajna)
+(dasaratha, has_advisor, jabali)
+(dasaratha, has_advisor, kasyapa)
+(dasaratha, has_advisor, gautama)
+(dasaratha, has_advisor, markandeya)
+(dasaratha, has_advisor, katyayana)
+(dasaratha, ministers_virtue, canto_vii)
+(dhrsti, related_in_canto_vii, dasaratha)
+(jayanta, related_in_canto_vii, dasaratha)
+(vijaya, related_in_canto_vii, dasaratha)
+(surastra, related_in_canto_vii, dasaratha)
+(rastravardhana, related_in_canto_vii, dasaratha)
+(akopa, related_in_canto_vii, dasaratha)
+(dharmapala, related_in_canto_vii, dasaratha)
+(sumantra, related_in_canto_vii, dasaratha)
+(vasistha, related_in_canto_vii, dasaratha)
+(vamadeva, related_in_canto_vii, dasaratha)
+(suyajna, related_in_canto_vii, dasaratha)
+(jabali, related_in_canto_vii, dasaratha)
+(kasyapa, related_in_canto_vii, dasaratha)
+(gautama, related_in_canto_vii, dasaratha)
+(markandeya, related_in_canto_vii, dasaratha)
+(katyayana, related_in_canto_vii, dasaratha)
+
+
+(dasaratha, is_in, canto_vii)
+(dhrsti, is_in, canto_vii)
+(jayanta, is_in, canto_vii)
+(vijaya, is_in, canto_vii)
+(surastra, is_in, canto_vii)
+
+
+
+jai_balayya_ew
+jai_balayya_ew
+(king_dasaratha, ruled_by, eight_ministers)
+(eight_ministers, ensured, kingdom_prosperity)
+(eight_ministers, imposed, penalties)
+(eight_ministers, eliminated, wickedness)
+(eight_ministers, eliminated, infidelity)
+(eight_ministers, focused_on, king_welfare)
+(eight_ministers, skilled_in, diplomacy)
+(eight_ministers, skilled_in, warfare)
+(eight_ministers, maintained, confidentiality)
+(eight_ministers, supported, king_dasaratha)
+(king_dasaratha, known_for, generosity)
+(king_dasaratha, known_for, truthfulness)
+(king_dasaratha, governed, righteously)
+(king_dasaratha, protected, subjects)
+(king_dasaratha, avoided, injustice)
+(king_dasaratha, had, unmatched_strength)
+(king_dasaratha, supported_by, allies)
+(king_dasaratha, respected_by, neighboring_rulers)
+(king_dasaratha, reigned, supreme)
+(king_dasaratha, had, loyal_counselors)
+(king_dasaratha, had, skilled_counselors)
+
+(king_dasaratha, context_virtuous_rule, canto_vii)
+(eight_ministers, context_virtuous_conduct, canto_vii)
+
+(king_dasaratha, is_in, canto_vii)
+(eight_ministers, is_in, canto_vii)
+
+jai_balayya_ew
+jai_balayya_ew
+(king_dasaratha, is_in, canto_vii)
+(king_dasaratha, ruled_by, counselors)
+(counselors, advised, king_dasaratha)
+(king_dasaratha, context_canto_vii, ruled_kingdom)
+jai_balayya_ew
+jai_balayya_ew
+(king_dasaratha, is_in, canto_viii)
+(vasistha, is_in, canto_viii)
+(king_dasaratha, grieved_over_lack_heir, performs_horse_sacrifice)
+(king_dasaratha, consults_counselors, performs_horse_sacrifice)
+(vasistha, leads_brahmanas, advises_king)
+(king_dasaratha, seeks_guidance, performs_horse_sacrifice)
+(brahmanas, advise_king, prepare_sacrificial_ground)
+(king_dasaratha, instructs_ministers, release_sacrificial_horse)
+(king_dasaratha, instructs_ministers, prepare_sacrificial_ground)
+(king_dasaratha, desires, son)
+
+jai_balayya_ew
+jai_balayya_ew
+(dasaratha, performs_horse_sacrifice, obtain_sons)
+(dasaratha, instructs, ministers)
+(dasaratha, informed, wives)
+(ministers, prepare, horse_sacrifice)
+(wives, participate, consecration_ceremony)
+(counselors, affirmed, horse_sacrifice_plan)
+(priests, affirmed, horse_sacrifice_plan)
+(dasaratha, is_in, canto_viii)
+(ministers, is_in, canto_viii)
+(wives, is_in, canto_viii)
+(counselors, is_in, canto_viii)
+(priests, is_in, canto_viii)
+
+jai_balayya_ew
+jai_balayya_ew
+(dasaratha, instructed, ministers)
+(dasaratha, informed, wives)
+(dasaratha, is_husband_of, kausalya)
+(dasaratha, is_husband_of, kaikeyi)
+(dasaratha, is_husband_of, sumitra)
+(dasaratha, is_father_of, rama)
+(dasaratha, is_father_of, bharata)
+(dasaratha, is_father_of, lakshmana)
+(dasaratha, is_father_of, shatrughna)
+(kausalya, is_wife_of, dasaratha)
+(kaikeyi, is_wife_of, dasaratha)
+(sumitra, is_wife_of, dasaratha)
+(rama, is_son_of, dasaratha)
+(bharata, is_son_of, dasaratha)
+(lakshmana, is_son_of, dasaratha)
+(shatrughna, is_son_of, dasaratha)
+(dasaratha, performs, horse_sacrifice)
+(ministers, involved_in, horse_sacrifice)
+(priests, involved_in, horse_sacrifice)
+(wives, involved_in, horse_sacrifice)
+(dasaratha, is_in, canto_viii)
+(kausalya, is_in, canto_viii)
+(kaikeyi, is_in, canto_viii)
+(sumitra, is_in, canto_viii)
+(rama, related_in_canto_viii, dasaratha)
+
+jai_balayya_ew
+jai_balayya_ew
+(sumantra, is_in, canto_ix)
+(dasaratha, is_in, canto_ix)
+(rsyasrnga, is_in, canto_ix)
+(vibhandaka, is_in, canto_ix)
+(romapada, is_in, canto_ix)
+(santa, is_in, canto_ix)
+(sanatkumara, is_in, canto_ix)
+
+(sumantra, minister_of, dasaratha)
+(sumantra, charioteer_of, dasaratha)
+(rsyasrnga, son_of, vibhandaka)
+(vibhandaka, father_of, rsyasrnga)
+(santa, daughter_of, romapada)
+(romapada, father_of, santa)
+
+
+(dasaratha, advised_by, sumantra)
+(sumantra, recounts_legend_to, dasaratha)
+(sanatkumara, foretold_future_sons_of, dasaratha)
+(romapada, king_of, anga)
+(rsyasrnga, raised_in, forest)
+(romapada, faces, drought)
+(romapada, advised_to_bring, rsyasrnga)
+(rsyasrnga, will_marry, santa)
+(romapada, offered_daughter_to, rsyasrnga)
+
+jai_balayya_ew
+jai_balayya_ew
+(dasaratha, is_in, canto_ix)
+(sumantra, is_in, canto_ix)
+(rsyasrnga, is_in, canto_ix)
+(romapada, is_in, canto_ix)
+(vibhandaka, is_in, canto_ix)
+(santa, is_in, canto_ix)
+
+(dasaratha, consults_with, sumantra)
+(sumantra, advises, dasaratha)
+(dasaratha, will_have, sons)
+(rsyasrnga, will_perform, rituals)
+(rsyasrnga, will_be, son_in_law_of_dasaratha)
+
+(romapada, is_king_of, anga)
+(romapada, consults_with, advisors)
+(romapada, wants_to_bring, rsyasrnga)
+(santa, is_daughter_of, romapada)
+(rsyasrnga, is_son_of, vibhandaka)
+(rsyasrnga, will_marry, santa)
+
+(brahmanas, advise, romapada)
+(romapada, seeks_to_end, drought)
+(priests, fear, vibhandaka)
+(ministers, fear, vibhandaka)
+(priests, devise, plan)
+(ministers, devise, plan)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(dasaratha, urges_to_explain, sumantra)
+(sumantra, recounts_advice_of, priest)
+(rsyasrnga, context, isolated_life)
+(rsyasrnga, context, ascetic_practices)
+(rsyasrnga, context, vedic_studies)
+(rsyasrnga, context, unfamiliar_with_worldly_pleasures)
+(priest, suggests_sending, courtesans)
+(romapada, agreed_to_send, courtesans)
+(courtesans, context, lure_sage)
+(courtesans, context, attract_rsyasrnga)
+(rsyasrnga, context, encountered_women)
+(rsyasrnga, context, captivated_by_beauty)
+(rsyasrnga, context, revealed_identity)
+(rsyasrnga, invites_to_hermitage, courtesans)
+(rsyasrnga, context, married_santa)
+(santa, is_adopted_daughter_of, romapada)
+(rsyasrnga, is_son_of, vibhandaka)
+
+
+(dasaratha, is_in, canto_x)
+(sumantra, is_in, canto_x)
+(rsyasrnga, is_in, canto_x)
+(romapada, is_in, canto_x)
+(priest, is_in, canto_x)
+(courtesans, is_in, canto_x)
+(santa, is_in, canto_x)
+(vibhandaka, is_in, canto_x)
+jai_balayya_ew
+jai_balayya_ew
+(rsyasrnga, encountered, courtesans)
+(rsyasrnga, invited, courtesans)
+(rsyasrnga, offered_hospitality, courtesans)
+(courtesans, offered_gifts, rsyasrnga)
+(rsyasrnga, searched_for, courtesans)
+(courtesans, invited, rsyasrnga)
+
+(rsyasrnga, lured_away, capital_of_romapada)
+(rsyasrnga, married, santa)
+(romapada, adopted_daughter, santa)
+
+
+(rsyasrnga, is_in, canto_x)
+(vibhandaka, is_in, canto_x)
+(santa, is_in, canto_x)
+(romapada, is_in, canto_x)
+
+(rsyasrnga, father, vibhandaka)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(rsyasrnga, met, courtesans)
+(rsyasrnga, went_with, courtesans)
+(rsyasrnga, arrived_at, anga)
+(romapada, greeted, rsyasrnga)
+(romapada, requested_boon_from, rsyasrnga)
+(romapada, adopted_daughter_of, santa)
+(rsyasrnga, married, santa)
+(rsyasrnga, lived_with, santa)
+(rsyasrnga, lured_away_from, father)
+
+(rsyasrnga, arrival_caused_rain, anga)
+(rsyasrnga, married_santa, anga)
+
+(rsyasrnga, is_in, canto_x)
+(romapada, is_in, canto_x)
+(santa, is_in, canto_x)
+(courtesans, is_in, canto_x)
+jai_balayya_ew
+jai_balayya_ew
+(sanatkumara, prophesied_about, dasaratha)
+(dasaratha, is_friend_of, romapada)
+(romapada, is_father_of, santa)
+(santa, is_wife_of, rsyasrnga)
+(dasaratha, desires, heir)
+(dasaratha, requests, rsyasrnga)
+(rsyasrnga, performs, sacrifice)
+(dasaratha, performs, putrakameshti_yagna)
+(rsyasrnga, officiates, putrakameshti_yagna)
+(dasaratha, gains, four_sons)
+(sanatkumara, advises, dasaratha)
+(dasaratha, escorts, rsyasrnga)
+
+(dasaratha, canto_xi, prophesied_friendship)
+(dasaratha, canto_xi, desires_heir)
+(rsyasrnga, canto_xi, performs_sacrifice)
+
+(dasaratha, is_in, canto_xi)
+(sanatkumara, is_in, canto_xi)
+(romapada, is_in, canto_xi)
+(santa, is_in, canto_xi)
+(rsyasrnga, is_in, canto_xi)
+(sumantra, is_in, canto_xi)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(dasaratha, requested_rsyasrnga, rsyasrnga)
+(dasaratha, father_of, santa)
+(romapada, adopted, santa)
+(romapada, husband_of, santa)
+(santa, wife_of, rsyasrnga)
+(dasaratha, king_of, ayodhya)
+(rsyasrnga, sage, null)
+(dasaratha, brought_rsyasrnga_and_santa, ayodhya)
+(dasaratha, organized_grand_welcome, rsyasrnga)
+(citizens, welcomed, rsyasrnga)
+(santa, lived_in, ayodhya)
+(dasaratha, is_in, canto_xi)
+(rsyasrnga, is_in, canto_xi)
+(santa, is_in, canto_xi)
+(romapada, is_in, canto_xi)
+(sumantra, is_in, canto_xi)
+(dasaratha, welcomes_rsyasrnga_and_santa, canto_xi)
+(rsyasrnga, travelled_to_ayodhya, canto_xi)
+(santa, returned_to_ayodhya, canto_xi)
+jai_balayya_ew
+jai_balayya_ew
+(dasaratha, sent_messengers, ayodhya)
+(dasaratha, returns_with, rsyasrnga)
+(citizens, prepare_for, dasaratha)
+(citizens, welcome, rsyasrnga)
+(dasaratha, leads_procession, rsyasrnga)
+(dasaratha, shows_reverence, rsyasrnga)
+(dasaratha, escorts, rsyasrnga)
+(indra, respects, kasyapa)
+(dasaratha, related_in_canto_11, sumantra)
+(dasaratha, related_in_canto_11, romapada)
+(dasaratha, related_in_canto_11, santa)
+(dasaratha, related_in_canto_11, rsyasrnga)
+(dasaratha, friend_of, romapada)
+(dasaratha, brings, rsyasrnga)
+(romapada, permits, rsyasrnga)
+
+(dasaratha, canto_11, returns_to_ayodhya)
+(rsyasrnga, canto_11, enters_ayodhya)
+(citizens, canto_11, welcome_king)
+
+(dasaratha, is_in, canto_11)
+(rsyasrnga, is_in, canto_11)
+(sumantra, is_in, canto_11)
+(romapada, is_in, canto_11)
+(santa, is_in, canto_11)
+(citizens, is_in, canto_11)
+(indra, is_in, canto_11)
+(kasyapa, is_in, canto_11)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(king_dasaratha, desires, son)
+(king_dasaratha, performs, horse_sacrifice)
+(rishyasringa, leads, horse_sacrifice)
+(king_dasaratha, requests, rishyasringa)
+(king_dasaratha, is_in, canto_xii)
+(rishyasringa, is_in, canto_xii)
+(sumantra, is_in, canto_xii)
+(suyajna, is_in, canto_xii)
+(vamadeva, is_in, canto_xii)
+(jabali, is_in, canto_xii)
+(kashyapa, is_in, canto_xii)
+(vasistha, is_in, canto_xii)
+(king_dasaratha, summons, brahmins)
+(king_dasaratha, summons, vedic_scholars)
+(vasistha, is_family_priest_of, king_dasaratha)
+(king_dasaratha, expresses, sorrow_for_no_son)
+(king_dasaratha, performs, ashvamedha_sacrifice)
+(rishyasringa, has, spiritual_power)
+(brahmins, assure, king_dasaratha_will_have_sons)
+(king_dasaratha, will_have, four_sons)
+(king_dasaratha, orders, gather_resources)
+(king_dasaratha, releases, sacrificial_horse)
+(kshatriya_princes, protect, sacrificial_horse)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(king_dasaratha, instructed, ministers)
+(king_dasaratha, ordered, kshatriya_princes)
+(king_dasaratha, ordered, chief_priest)
+(king_dasaratha, urged, ministers)
+(ministers, agreed_to, king_dasaratha)
+(king_dasaratha, father_of, rama) #Ramayan's central theme
+(king_dasaratha, husband_of, kausalya) #Kausalya is Rama's mother
+(king_dasaratha, husband_of, sumitra) #Sumitra is Lakshmana and Shatrughna's mother
+(king_dasaratha, husband_of, kaikeyi) #Kaikeyi is Bharata's mother
+
+(king_dasaratha, prepares_for, horse_sacrifice)
+(king_dasaratha, seeks, sons)
+(brahmins, assure, sons)
+(ministers, gather, materials)
+(kshatriya_princes, protect, sacrificial_horse)
+(chief_priest, oversees, horse_sacrifice)
+
+
+(king_dasaratha, is_in, canto_xii)
+(ministers, is_in, canto_xii)
+(brahmins, is_in, canto_xii)
+(kshatriya_princes, is_in, canto_xii)
+(chief_priest, is_in, canto_xii)
+jai_balayya_ew
+jai_balayya_ew
+(dasaratha, requests_horse_sacrifice, vasistha)
+(dasaratha, is_king_of, kosala)
+(vasistha, is_advisor_of, dasaratha)
+(vasistha, is_husband_of, arundhati)
+(arundhati, is_wife_of, vasistha)
+(dasaratha, performs, horse_sacrifice)
+(vasistha, oversees, horse_sacrifice)
+(vasistha, instructs, brahmans)
+(vasistha, instructs, artists)
+(vasistha, instructs, carpenters)
+(vasistha, instructs, excavators)
+(vasistha, instructs, astronomers)
+(vasistha, instructs, artisans)
+(vasistha, instructs, actors)
+(vasistha, instructs, dancers)
+(vasistha, orders_construction_of, palaces)
+(vasistha, orders_construction_of, housing)
+(vasistha, orders_construction_of, wells)
+(vasistha, orders_construction_of, stables)
+(vasistha, emphasizes, hospitality)
+(dasaratha, is_in, canto_xiii)
+(vasistha, is_in, canto_xiii)
+(arundhati, is_in, canto_xiii)
+
+
+jai_balayya_ew
+jai_balayya_ew
+vasistha, is_in, canto_xiii
+sumantra, is_in, canto_xiii
+dasaratha, is_in, canto_xiii
+janaka, is_in, canto_xiii
+kekaya_king, is_in, canto_xiii
+romapada, is_in, canto_xiii
+bhanuman, is_in, canto_xiii
+praptijaa, is_in, canto_xiii
+
+vasistha, instructs, horse_sacrifice_preparations
+vasistha, instructs, invite_guests
+sumantra, receives_instruction, invite_guests
+dasaratha, related_in_canto_xiii, janaka
+dasaratha, sons_of, potential_marriage_alliances
+kekaya_king, father_in_law_of, dasarath
+romapada, friend_of, dasarath
+jai_balayya_ew
+jai_balayya_ew
+(dasaratha, instructed, sumantra)
+(sumantra, invited, kekaya_king)
+(kekaya_king, is_father_in_law_of, dasaratha)
+(sumantra, invited, romapada)
+(romapada, is_friend_of, dasaratha)
+(sumantra, invited, bhanuman)
+(sumantra, invited, praptij_aa)
+(sumantra, invited_rulers_from, eastern_territories)
+(sumantra, invited_rulers_from, sindhusauvira)
+(sumantra, invited_rulers_from, saurastra)
+(sumantra, invited_rulers_from, south)
+(vasistha, emphasized_respect_for, guests)
+(kings, brought_gifts_to, dasaratha)
+(vasistha, informed, dasaratha)
+(dasaratha, is_in, canto_xiii)
+(sumantra, is_in, canto_xiii)
+(kekaya_king, is_in, canto_xiii)
+(romapada, is_in, canto_xiii)
+(bhanuman, is_in, canto_xiii)
+(praptij_aa, is_in, canto_xiii)
+(vasistha, is_in, canto_xiii)
+(dasaratha, prepares_for, horse_sacrifice)
+(sumantra, participates_in, horse_sacrifice)
+(feudatory_chiefs, set_up, stables)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(sumantra, related_in_canto_13, dasaratha)
+(dasaratha, related_in_canto_13, vasistha)
+(dasaratha, related_in_canto_13, rishyasringa)
+(vasistha, related_in_canto_13, rishyasringa)
+
+(dasaratha, performs, horse_sacrifice)
+(vasistha, leads, sacrificial_rites)
+(rishyasringa, advises, horse_sacrifice)
+(sumantra, reports, sacrifice_preparations)
+
+(sumantra, is_in, canto_13)
+(dasaratha, is_in, canto_13)
+(vasistha, is_in, canto_13)
+(rishyasringa, is_in, canto_13)
+jai_balayya_ew
+jai_balayya_ew
+(king_dasaratha, performs, horse_sacrifice)
+(king_dasaratha, receives_boon, sons_birth)
+(king_dasaratha, is_in, canto_xiv)
+(rsyasrnga, grants_boon, sons_birth)
+(rsyasrnga, leads, horse_sacrifice)
+(rsyasrnga, is_in, canto_xiv)
+(brahmanas, perform, horse_sacrifice)
+(brahmanas, is_in, canto_xiv)
+(king_dasaratha, is_father_of, rama)
+(king_dasaratha, is_father_of, lakshmana)
+(king_dasaratha, is_father_of, bharata)
+(king_dasaratha, is_father_of, shatrughna)
+(rama, is_son_of, king_dasaratha)
+(lakshmana, is_son_of, king_dasaratha)
+(bharata, is_son_of, king_dasaratha)
+(shatrughna, is_son_of, king_dasaratha)
+(rama, related_in_canto_xiv, king_dasaratha)
+(lakshmana, related_in_canto_xiv, king_dasaratha)
+(bharata, related_in_canto_xiv, king_dasaratha)
+(shatrughna, related_in_canto_xiv, king_dasaratha)
+
+jai_balayya_ew
+jai_balayya_ew
+(king_dasaratha, performed, horse_sacrifice)
+(king_dasaratha, received_boon, birth_of_four_sons)
+(rsyasrnga, granted_boon, birth_of_four_sons)
+(king_dasaratha, is_in, canto_xiv)
+(rsyasrnga, is_in, canto_xiv)
+(brahmanas, participated_in, horse_sacrifice)
+(king_dasaratha, hosted, brahmanas)
+(king_dasaratha, hosted, twice_born_castes)
+(king_dasaratha, hosted, servants)
+(king_dasaratha, hosted, ascetics)
+(king_dasaratha, hosted, students)
+(king_dasaratha, hosted, retired_forest_dwellers)
+(king_dasaratha, hosted, recluses)
+(king_dasaratha, hosted, elderly)
+(king_dasaratha, hosted, sick)
+(king_dasaratha, hosted, women)
+(king_dasaratha, hosted, children)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(king_dasaratha, context, horse_sacrifice)
+(king_dasaratha, is_in, canto_xiv)
+(kausalya, context, horse_sacrifice)
+(kausalya, is_in, canto_xiv)
+(rsyasrnga, context, grants_boon)
+(rsyasrnga, is_in, canto_xiv)
+(king_dasaratha, husband_of, kausalya)
+(rsyasrnga, mentor_of, king_dasaratha)
+jai_balayya_ew
+jai_balayya_ew
+(king_dasaratha, performed, horse_sacrifice)
+(king_dasaratha, offered, earth_as_fee)
+(king_dasaratha, received, boon_from_rsyasrnga)
+(king_dasaratha, is_in, canto_xiv)
+(rsyasrnga, granted, boon_to_dasaratha)
+(rsyasrnga, is_in, canto_xiv)
+(hota, received_offer, east)
+(adhwaryu, received_offer, west)
+(brahma, received_offer, south)
+(udgata, received_offer, north)
+jai_balayya_ew
+jai_balayya_ew
+(king_dasaratha, offered_earth, priests)
+(priests, requested_gold_gems_cattle, king_dasaratha)
+(king_dasaratha, bestowed_riches, priests)
+(priests, entrusted_riches, rishyashringa)
+(priests, entrusted_riches, vasistha)
+(king_dasaratha, gifted_gold_coins, brahmana)
+(king_dasaratha, offered_bangle, brahmin)
+(king_dasaratha, performed_horse_sacrifice, canto_xiv)
+(king_dasaratha, requested_sons, rishyashringa)
+(rishyashringa, promised_sons, king_dasaratha)
+
+(king_dasaratha, is_in, canto_xiv)
+(priests, is_in, canto_xiv)
+(rishyashringa, is_in, canto_xiv)
+(vasistha, is_in, canto_xiv)
+(brahmana, is_in, canto_xiv)
+(brahmin, is_in, canto_xiv)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(king_dasaratha, is_in, canto_xiv)
+(rishyashringa, is_in, canto_xiv)
+
+(king_dasaratha, requested_boon, horse_sacrifice)
+(rishyashringa, granted_boon, horse_sacrifice)
+
+(king_dasaratha, desires, sons)
+(rishyashringa, blessed, sons)
+jai_balayya_ew
+jai_balayya_ew
+rsyasrnga, performs, putra_kameshti_yagna
+dasaratha, requests, putra_kameshti_yagna
+rsyasrnga, is_in, canto_xv
+dasaratha, is_in, canto_xv
+brahma, is_in, canto_xv
+ravana, is_in, canto_xv
+vishnu, is_in, canto_xv
+gods, request, kill_ravana
+brahma, plans, kill_ravana
+vishnu, agrees, kill_ravana
+ravana, torments, gods
+ravana, disrespects, indra
+brahma, granted_boon, ravana
+gods, fear, ravana
+ravana, arrogant, towards_gods
+humans, can_kill, ravana
+jai_balayya_ew
+jai_balayya_ew
+(brahma, reveals_strategy, gods)
+(ravana, overlooked, humans)
+(ravana, vulnerable_to, humans)
+(vishnu, arrives_on, garuda)
+(gods, request_help, vishnu)
+(vishnu, incarnate_as, dasaratha_son)
+(ravana, tyranny_against, gods)
+(ravana, tyranny_against, rishis)
+(ravana, invincible_against, celestial_beings)
+(vishnu, eliminate, ravana)
+(ravana, enemy_of, gods)
+(brahma, leads, gods)
+(rsyasrnga, conducts_sacrifice_for, dasaratha)
+(gods, pray_for_death_of, ravana)
+(brahma, implores, vishnu)
+(vishnu, descend_in_house_of, dasaratha)
+(vishnu, kill, ravana)
+
+(vishnu, context_canto_xv, arrives_assembly)
+(gods, context_canto_xv, request_vishnu_incarnate)
+(brahma, context_canto_xv, reveals_ravana_demise_strategy)
+(ravana, context_canto_xv, vulnerable_to_humans)
+(rsyasrnga, context_canto_xv, conducts_sacrifice)
+
+
+(brahma, is_in, canto_xv)
+(ravana, is_in, canto_xv)
+(vishnu, is_in, canto_xv)
+(garuda, is_in, canto_xv)
+(dasaratha, is_in, canto_xv)
+(rsyasrnga, is_in, canto_xv)
+(gods, is_in, canto_xv)
+(rishis, is_in, canto_xv)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(vishnu, asked_by, gods)
+(vishnu, son_of, dasaratha)
+(dasaratha, king_of, ayodhya)
+(ravana, oppresses, gods)
+(ravana, oppresses, gandharvas)
+(ravana, oppresses, siddhas)
+(ravana, oppresses, rishis)
+(vishnu, eliminates, ravana)
+(vishnu, dwells_on, earth)
+(dasaratha, father_of, vishnu)
+(vishnu, praised_by, gods)
+(vishnu, praised_by, rishis)
+(vishnu, praised_by, gandharvas)
+(vishnu, praised_by, rudra)
+(vishnu, praised_by, apsaras)
+(ravana, hostile_towards, indra)
+(ravana, torments, ascetics)
+(ravana, torments, hermits)
+
+(vishnu, intervention_against_ravana, canto_xv)
+(ravana, oppression_of_celestials, canto_xv)
+(dasaratha, chosen_as_father, canto_xv)
+
+(vishnu, is_in, canto_xv)
+(ravana, is_in, canto_xv)
+(dasaratha, is_in, canto_xv)
+(rsyasrnga, is_in, canto_xv)
+(brahma, is_in, canto_xv)
+(gods, is_in, canto_xv)
+(gandharvas, is_in, canto_xv)
+(siddhas, is_in, canto_xv)
+(rishis, is_in, canto_xv)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(ravana, caused_destruction, canto_xvi)
+(ravana, abducted_women, canto_xvi)
+(ravana, received_boon_from, brahma)
+(brahma, granted_boon_to, ravana)
+(vishnu, inquired_strategy, canto_xvi)
+(gods, asked_help, vishnu)
+(vishnu, decided_human_form, canto_xvi)
+(vishnu, chose_father, dasaratha)
+(dasaratha, performed_sacrifice, canto_xvi)
+(vishnu, bid_farewell_to, brahma)
+(vishnu, is_in, canto_xvi)
+(ravana, is_in, canto_xvi)
+(brahma, is_in, canto_xvi)
+(dasaratha, is_in, canto_xvi)
+(gods, is_in, canto_xvi)
+
+
+jai_balayya_ew
+jai_balayya_ew
+divine_messenger,related_in_canto_16,dasaratha
+divine_messenger,delivers_divine_pudding,canto_16
+dasaratha,receives_divine_pudding,canto_16
+dasaratha,is_in,canto_16
+kausalya,is_wife_of,dasaratha
+kausalya,receives_divine_pudding,canto_16
+kausalya,is_in,canto_16
+sumitra,is_wife_of,dasaratha
+sumitra,receives_divine_pudding,canto_16
+sumitra,is_in,canto_16
+divine_messenger,is_messenger_of,lord_vishnu
+lord_vishnu,grants_boon,canto_16
+dasaratha,performs_sacrifices,canto_16
+
+
+jai_balayya_ew
+jai_balayya_ew
+(king_dasaratha, is_in, canto_xvi)
+(kausalya, is_in, canto_xvi)
+(sumitra, is_in, canto_xvi)
+(kaikeyi, is_in, canto_xvi)
+(king_dasaratha, is_husband_of, kausalya)
+(king_dasaratha, is_husband_of, sumitra)
+(king_dasaratha, is_husband_of, kaikeyi)
+(king_dasaratha, receives_divine_pudding, canto_xvi)
+(king_dasaratha, distributes_divine_pudding, canto_xvi)
+(kausalya, receives_divine_pudding, canto_xvi)
+(sumitra, receives_divine_pudding, canto_xvi)
+(kaikeyi, receives_divine_pudding, canto_xvi)
+(kausalya, conceives_child, canto_xvi)
+(sumitra, conceives_child, canto_xvi)
+(kaikeyi, conceives_child, canto_xvi)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(brahma, commands, gods)
+(gods, fathered, monkey_sons)
+(vishnu, aided_by, monkey_sons)
+(jambavan, created_by, brahma)
+(indra, father_of, vali)
+(vali, is_king, kishkindha)
+(sun_god, father_of, sugriva)
+(sugriva, brother_of, vali)
+(brihaspati, father_of, tara)
+(kubera, father_of, gandhamadana)
+(viswakarma, father_of, nala)
+(fire_god, father_of, nila)
+(aswins, father_of, mainda)
+(aswins, father_of, dwivida)
+(varuna, father_of, susena)
+(parjanya, father_of, sarabha)
+
+(brahma, context_canto_xvii, birth_of_monkey_chiefs)
+(indra, context_canto_xvii, birth_of_vali)
+(sun_god, context_canto_xvii, birth_of_sugriva)
+(brihaspati, context_canto_xvii, birth_of_tara)
+
+
+(brahma, is_in, canto_xvii)
+(vishnu, is_in, canto_xvii)
+(indra, is_in, canto_xvii)
+(vali, is_in, canto_xvii)
+(sugriva, is_in, canto_xvii)
+(tara, is_in, canto_xvii)
+(jambavan, is_in, canto_xvii)
+(kubera, is_in, canto_xvii)
+(viswakarma, is_in, canto_xvii)
+(fire_god, is_in, canto_xvii)
+
+
+jai_balayya_ew
+jai_balayya_ew
+gandhamadana,father,kubera
+nala,father,viswakarma
+nila,father,fire_god
+mainda,father,aswins
+dwivida,father,aswins
+susena,father,varuna
+sarabha,father,parjanya
+hanuman,father,wind_god
+hanuman,context,birth_of_monkey_chiefs
+gandhamadana,is_in,canto_xvii
+nala,is_in,canto_xvii
+nila,is_in,canto_xvii
+mainda,is_in,canto_xvii
+dwivida,is_in,canto_xvii
+susena,is_in,canto_xvii
+sarabha,is_in,canto_xvii
+hanuman,is_in,canto_xvii
+kubera,is_in,canto_xvii
+wind_god,is_in,canto_xvii
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, needs_help_from, monkey_warriors)
+(brahma, directed, birth_of_monkey_warriors)
+(caranas, fathered, monkey_warriors)
+(monkey_warriors, have_ability, shapeshifting)
+(monkey_warriors, have_strength, immense)
+(monkey_warriors, use_weapons, rocks)
+(monkey_warriors, use_weapons, mountains)
+(monkey_warriors, have_ability, shake_mountains)
+(monkey_warriors, have_ability, shatter_trees)
+(monkey_warriors, have_ability, churn_sea)
+(monkey_warriors, have_ability, leap_across_oceans)
+(monkey_warriors, have_ability, seize_clouds)
+(monkey_warriors, gathered_under, sugriva)
+(monkey_warriors, gathered_under, vali)
+(vali, protected, bears)
+(vali, protected, monkeys)
+(vali, has_strength, exceptional)
+(monkey_warriors, purpose, aid_rama)
+(rama, is_in, canto_xvii)
+(brahma, is_in, canto_xvii)
+(caranas, is_in, canto_xvii)
+(monkey_warriors, is_in, canto_xvii)
+(sugriva, is_in, canto_xvii)
+(vali, is_in, canto_xvii)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, context, birth_of_monkey_chiefs)
+(brahma, context, birth_of_monkey_chiefs)
+(rama, is_in, canto_xvii)
+(brahma, is_in, canto_xvii)
+(monkey_chiefs, related_in_canto_xvii, rama)
+(monkey_chiefs, related_in_canto_xvii, brahma)
+
+jai_balayya_ew
+jai_balayya_ew
+(king_dasaratha, performed, sacrifices)
+(king_dasaratha, returned_to, ayodhya)
+(king_dasaratha, honored, brahmins)
+(rishyasringa, departed_from, ayodhya)
+(rishyasringa, husband_of, santa)
+(king_dasaratha, anticipated_birth_of, sons)
+(kausalya, mother_of, rama)
+(kaikeyi, mother_of, bharata)
+(sumitra, mother_of, lakshmana)
+(sumitra, mother_of, shatrughna)
+(rama, birth_under, auspicious_astrological_alignments)
+(bharata, birth_under, specific_astrological_conditions)
+(lakshmana, birth_under, specific_astrological_conditions)
+(shatrughna, birth_under, specific_astrological_conditions)
+(rama, related_in_canto_18, bharata)
+(rama, related_in_canto_18, lakshmana)
+(rama, related_in_canto_18, shatrughna)
+(king_dasaratha, father_of, rama)
+(king_dasaratha, father_of, bharata)
+(king_dasaratha, father_of, lakshmana)
+(king_dasaratha, father_of, shatrughna)
+
+
+(king_dasaratha, is_in, canto_xviii)
+(rishyasringa, is_in, canto_xviii)
+(santa, is_in, canto_xviii)
+(kausalya, is_in, canto_xviii)
+(rama, is_in, canto_xviii)
+(kaikeyi, is_in, canto_xviii)
+(bharata, is_in, canto_xviii)
+(sumitra, is_in, canto_xviii)
+(lakshmana, is_in, canto_xviii)
+(shatrughna, is_in, canto_xviii)
+
+jai_balayya_ew
+jai_balayya_ew
+(kausaliya, is_mother_of, rama)
+(dasaratha, is_father_of, rama)
+(kaikeyi, is_mother_of, bharata)
+(dasaratha, is_father_of, bharata)
+(sumitra, is_mother_of, lakshmana)
+(dasaratha, is_father_of, lakshmana)
+(sumitra, is_mother_of, shatrughna)
+(dasaratha, is_father_of, shatrughna)
+(rama, is_brother_of, bharata)
+(rama, is_brother_of, lakshmana)
+(rama, is_brother_of, shatrughna)
+(bharata, is_brother_of, lakshmana)
+(bharata, is_brother_of, shatrughna)
+(lakshmana, is_brother_of, shatrughna)
+
+(rama, birth, canto_xviii)
+(bharata, birth, canto_xviii)
+(lakshmana, birth, canto_xviii)
+(shatrughna, birth, canto_xviii)
+(rama, naming_ceremony, canto_xviii)
+(bharata, naming_ceremony, canto_xviii)
+(lakshmana, naming_ceremony, canto_xviii)
+(shatrughna, naming_ceremony, canto_xviii)
+
+(rama, is_in, canto_xviii)
+(bharata, is_in, canto_xviii)
+(lakshmana, is_in, canto_xviii)
+(shatrughna, is_in, canto_xviii)
+(dasaratha, is_in, canto_xviii)
+(kausaliya, is_in, canto_xviii)
+(kaikeyi, is_in, canto_xviii)
+(sumitra, is_in, canto_xviii)
+(vasistha, is_in, canto_xviii)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(dasaratha, father_of, rama)
+(dasaratha, father_of, lakshmana)
+(dasaratha, father_of, bharata)
+(dasaratha, father_of, shatrughna)
+(rama, brother_of, lakshmana)
+(rama, brother_of, bharata)
+(rama, brother_of, shatrughna)
+(lakshmana, brother_of, bharata)
+(lakshmana, brother_of, shatrughna)
+(bharata, brother_of, shatrughna)
+(lakshmana, related_in_canto_18, rama)
+(shatrughna, related_in_canto_18, bharata)
+(rama, context, birth)
+(rama, context, investiture_with_sacred_thread)
+(bharata, context, birth)
+(bharata, context, investiture_with_sacred_thread)
+(shatrughna, context, birth)
+(shatrughna, context, investiture_with_sacred_thread)
+(lakshmana, context, birth)
+(lakshmana, context, investiture_with_sacred_thread)
+(dasaratha, context, sons_education)
+(viswamitra, context, arrival_at_palace)
+(rama, is_in, canto_xviii)
+(lakshmana, is_in, canto_xviii)
+(bharata, is_in, canto_xviii)
+(shatrughna, is_in, canto_xviii)
+(dasaratha, is_in, canto_xviii)
+(viswamitra, is_in, canto_xviii)
+
+
+
+jai_balayya_ew
+jai_balayya_ew
+(lakshmana, is_brother_of, rama)
+(lakshmana, is_devoted_to, rama)
+(shatrughna, is_brother_of, bharata)
+(dasaratha, is_father_of, rama)
+(dasaratha, is_father_of, lakshmana)
+(dasaratha, is_father_of, bharata)
+(dasaratha, is_father_of, shatrughna)
+(rama, related_in_canto_18, lakshmana)
+(rama, related_in_canto_18, bharata)
+(rama, related_in_canto_18, shatrughna)
+(rama, related_in_canto_18, dasaratha)
+(rama, related_in_canto_18, viswamitra)
+(lakshmana, related_in_canto_18, bharata)
+(lakshmana, related_in_canto_18, shatrughna)
+(lakshmana, related_in_canto_18, dasaratha)
+(lakshmana, related_in_canto_18, viswamitra)
+(bharata, related_in_canto_18, shatrughna)
+(bharata, related_in_canto_18, dasaratha)
+(bharata, related_in_canto_18, viswamitra)
+(shatrughna, related_in_canto_18, dasaratha)
+(shatrughna, related_in_canto_18, viswamitra)
+(dasaratha, related_in_canto_18, viswamitra)
+
+
+(rama, princes_education, nearing_completion)
+(bharata, princes_education, nearing_completion)
+(lakshmana, princes_education, nearing_completion)
+(shatrughna, princes_education, nearing_completion)
+(dasaratha, considers_marriage, sons)
+(viswamitra, arrives_at, palace)
+
+
+(rama, is_in, canto_18)
+(lakshmana, is_in, canto_18)
+(bharata, is_in, canto_18)
+(shatrughna, is_in, canto_18)
+(dasaratha, is_in, canto_18)
+(viswamitra, is_in, canto_18)
+
+jai_balayya_ew
+jai_balayya_ew
+(dasaratha, warmly_greeted, viswamitra)
+(dasaratha, compared_visit_to, nectar)
+(dasaratha, compared_visit_to, rain_after_drought)
+(dasaratha, compared_visit_to, birth_of_son)
+(dasaratha, compared_visit_to, recovering_lost_treasure)
+(dasaratha, compared_visit_to, festival_joy)
+(dasaratha, felt, blessed)
+(dasaratha, felt, honored)
+(dasaratha, declared, viswamitra_purified_him)
+(dasaratha, asked, purpose_of_visit)
+(dasaratha, promised, fulfill_request)
+(dasaratha, promised, offer_assistance)
+(dasaratha, felt, joy_from_presence)
+(dasaratha, felt, religious_merit_from_presence)
+(viswamitra, pleased_by, respectful_words)
+(viswamitra, pleased_by, heartfelt_words)
+(rama, is_in, canto_xviii)
+(bharata, is_in, canto_xviii)
+(dasaratha, is_in, canto_xviii)
+(viswamitra, is_in, canto_xviii)
+(rama, advent_of, canto_xviii)
+(bharata, advent_of, canto_xviii)
+(rama, festivities_in, ayodhya)
+(bharata, festivities_in, ayodhya)
+(rama, festivities_in, heaven)
+(bharata, festivities_in, heaven)
+(rama, investiture_with, sacred_thread)
+(bharata, investiture_with, sacred_thread)
+(viswamitra, arrival_of, canto_xviii)
+
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, requests_rama, rama)
+(dasaratha, father_of, rama)
+(rama, son_of, dasaratha)
+(marica, disrupts_yagna, viswamitra)
+(subahu, disrupts_yagna, viswamitra)
+(viswamitra, needs_help_from, rama)
+(rama, helps, viswamitra)
+
+(viswamitra, attends_yagna, yagna_disruption)
+(rama, slays_demons, demon_slaying)
+(dasaratha, worries_about_rama, rama_departure)
+
+(viswamitra, is_in, canto_xix)
+(dasaratha, is_in, canto_xix)
+(rama, is_in, canto_xix)
+(marica, is_in, canto_xix)
+(subahu, is_in, canto_xix)
+jai_balayya_ew
+jai_balayya_ew
+(rama, can_vanquish, marica)
+(rama, can_vanquish, subahu)
+(viswamitra, mentor, rama)
+(viswamitra, requests, rama)
+(dasaratha, father, rama)
+(vasistha, counselor, dasaratha)
+(rama, is_in, canto_xix)
+(viswamitra, is_in, canto_xix)
+(dasaratha, is_in, canto_xix)
+(vasistha, is_in, canto_xix)
+(marica, is_in, canto_xix)
+(subahu, is_in, canto_xix)
+(rama, protect_yagna, viswamitra_request)
+(dasaratha, grief_stricken, rama_departure)
+(viswamitra, urged, dasaratha)
+jai_balayya_ew
+jai_balayya_ew
+(dasaratha, is_father_of, rama)
+(rama, is_son_of, dasaratha)
+(dasaratha, expresses_concern_over, rama)
+(dasaratha, argues_against, viswamitra)
+(viswamitra, requests, rama)
+(rama, requested_by, viswamitra)
+(dasaratha, offers_army_to, viswamitra)
+(dasaratha, offers_self_to, viswamitra)
+(viswamitra, requests_help_for, ritual_protection)
+(dasaratha, inquires_about, rakshasas)
+(rama, related_in_canto_20, dasaratha)
+(rama, related_in_canto_20, viswamitra)
+(dasaratha, related_in_canto_20, viswamitra)
+(dasaratha, canto_20, disinclination_to_part_with_rama)
+(viswamitra, canto_20, request_for_rama's_help)
+(rama, canto_20, requested_for_help)
+(dasaratha, is_in, canto_20)
+(rama, is_in, canto_20)
+(viswamitra, is_in, canto_20)
+
+jai_balayya_ew
+jai_balayya_ew
+(king_dasaratha, resists_request, viswamitra)
+(king_dasaratha, father_of, rama)
+(rama, son_of, king_dasaratha)
+(king_dasaratha, concerned_about, rakshasas)
+(viswamitra, requests, rama)
+(rakshasas, threatens, viswamitra)
+(king_dasaratha, offers_army, viswamitra)
+(king_dasaratha, inquires_about, rakshasas)
+(viswamitra, mentor_of, rama)
+
+(king_dasaratha, disinclined_to_part_with_rama, canto_xx)
+(viswamitra, requests_rama_for_help, canto_xx)
+(rama, requested_by_viswamitra, canto_xx)
+(rakshasas, causing_trouble, canto_xx)
+
+(king_dasaratha, is_in, canto_xx)
+(viswamitra, is_in, canto_xx)
+(rama, is_in, canto_xx)
+(rakshasas, is_in, canto_xx)
+jai_balayya_ew
+jai_balayya_ew
+(dasaratha, argues_with, viswamitra)
+(dasaratha, father_of, rama)
+(rama, son_of, dasaratha)
+(ravana, steals_strength_of, warriors)
+(maricha, son_of, sunda)
+(maricha, son_of, upasunda)
+(subahu, son_of, sunda)
+(subahu, son_of, upasunda)
+(viswamitra, disrupted_by, maricha)
+(viswamitra, disrupted_by, subahu)
+(dasaratha, leads, army)
+(dasaratha, refuses, viswamitra)
+(viswamitra, angered_by, dasaratha)
+
+(dasaratha, disinclination_to_part_with_rama, canto_xx)
+(viswamitra, angered_by_dasaratha, canto_xx)
+
+(dasaratha, is_in, canto_xx)
+(viswamitra, is_in, canto_xx)
+(rama, is_in, canto_xx)
+(ravana, is_in, canto_xx)
+(maricha, is_in, canto_xx)
+(subahu, is_in, canto_xx)
+(sunda, is_in, canto_xx)
+(upasunda, is_in, canto_xx)
+jai_balayya_ew
+jai_balayya_ew
+(dasaratha, hesitant_reply, enraged_viswamitra)
+(viswamitra, accused, dasaratha)
+(dasaratha, broke_promise, raghu_dynasty)
+(viswamitra, threatened_to_leave, rama)
+(vasistha, advised, dasaratha)
+(dasaratha, uphold_promise, reputation)
+(rama, safe_under_protection, viswamitra)
+(viswamitra, knowledgeable_in, mystical_weapons)
+(shiva, gifted_weapons, viswamitra)
+(krsaswa, father_of, mystical_weapons)
+
+(dasaratha, context_canto_xxi, broke_promise)
+(viswamitra, context_canto_xxi, demanded_rama)
+(vasistha, context_canto_xxi, advised_dasaratha)
+(rama, context_canto_xxi, protected_by_viswamitra)
+
+(dasaratha, is_in, canto_xxi)
+(viswamitra, is_in, canto_xxi)
+(vasistha, is_in, canto_xxi)
+(rama, is_in, canto_xxi)
+(shiva, is_in, canto_xxi)
+(krsaswa, is_in, canto_xxi)
+
+jai_balayya_ew
+jai_balayya_ew
+(vasistha, related_in_canto_21, viswamitra)
+(vasistha, praises, viswamitra_knowledge)
+(viswamitra, has_knowledge_of, mystical_weapons)
+(shiva, gifted, mystical_weapons)
+(viswamitra, received, mystical_weapons)
+(krsaswa, father_of, mystical_weapons)
+(daksa, father_of, jaya)
+(daksa, father_of, suprabha)
+(jaya, mother_of, fifty_formless_sons)
+(suprabha, mother_of, fifty_samharas_sons)
+(vasistha, related_in_canto_21, dasaratha)
+(vasistha, urges, dasaratha_send_rama)
+(dasaratha, related_in_canto_21, rama)
+(dasaratha, sends, rama_with_viswamitra)
+(viswamitra, related_in_canto_21, rama)
+(viswamitra, seeks, rama_assistance)
+
+(vasistha, canto_21, viswamitra_praise)
+(viswamitra, canto_21, possessing_mystical_weapons)
+(shiva, canto_21, gifting_weapons)
+(jaya, canto_21, bearing_sons)
+(suprabha, canto_21, bearing_sons)
+(dasaratha, canto_21, sending_rama)
+(rama, canto_21, assisting_viswamitra)
+
+
+(vasistha, is_in, canto_21)
+(viswamitra, is_in, canto_21)
+(dasaratha, is_in, canto_21)
+(rama, is_in, canto_21)
+(shiva, is_in, canto_21)
+(jaya, is_in, canto_21)
+(suprabha, is_in, canto_21)
+(krsaswa, is_in, canto_21)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, is_son_of, dasaratha)
+(lakshmana, is_son_of, dasaratha)
+(rama, is_brother_of, lakshmana)
+(lakshmana, is_brother_of, rama)
+(kausalya, is_mother_of, rama)
+(kausalya, is_mother_of, lakshmana)
+(dasaratha, is_father_of, rama)
+(dasaratha, is_father_of, lakshmana)
+(rama, is_mentored_by, viswamitra)
+(lakshmana, is_mentored_by, viswamitra)
+(rama, related_in_canto_22, lakshmana)
+(rama, related_in_canto_22, dasaratha)
+(rama, related_in_canto_22, kausalya)
+(rama, related_in_canto_22, viswamitra)
+(lakshmana, related_in_canto_22, dasaratha)
+(lakshmana, related_in_canto_22, kausalya)
+(lakshmana, related_in_canto_22, viswamitra)
+
+(rama, receives_mantras, learns_bala_atibala_mantras)
+(lakshmana, accompanies_rama, travels_with_viswamitra)
+(dasaratha, sends_sons, entrusts_to_viswamitra)
+
+
+(rama, is_in, canto_22)
+(lakshmana, is_in, canto_22)
+(dasaratha, is_in, canto_22)
+(kausalya, is_in, canto_22)
+(viswamitra, is_in, canto_22)
+(vasistha, is_in, canto_22)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, related_in_canto_22, lakshmana)
+(rama, related_in_canto_22, viswamitra)
+(lakshmana, related_in_canto_22, viswamitra)
+(rama, is_son_of, dasharatha)
+(lakshmana, is_brother_of, rama)
+(viswamitra, is_mentor_of, rama)
+(viswamitra, is_mentor_of, lakshmana)
+
+(rama, canto_22_context, receives_mantras)
+(lakshmana, canto_22_context, receives_mantras)
+(viswamitra, canto_22_context, gives_mantras)
+(rama, canto_22_context, travels_with_viswamitra)
+(lakshmana, canto_22_context, travels_with_viswamitra)
+
+
+(rama, is_in, canto_22)
+(lakshmana, is_in, canto_22)
+(viswamitra, is_in, canto_22)
+(dasharatha, is_in, canto_22)
+jai_balayya_ew
+jai_balayya_ew
+(rama, is_son_of, dasaratha)
+(lakshmana, is_son_of, dasaratha)
+(rama, is_brother_of, lakshmana)
+(lakshmana, is_brother_of, rama)
+(dasaratha, is_father_of, rama)
+(dasaratha, is_father_of, lakshmana)
+(rama, is_mentored_by, viswamitra)
+(lakshmana, is_mentored_by, viswamitra)
+(viswamitra, is_mentor_of, rama)
+(viswamitra, is_mentor_of, lakshmana)
+(rama, receives_initiation, mystic_spells)
+(lakshmana, receives_initiation, mystic_spells)
+(rama, resting_comfortably, canto_xxii)
+(lakshmana, resting_comfortably, canto_xxii)
+(rama, related_in_canto_xxii, lakshmana)
+(lakshmana, related_in_canto_xxii, rama)
+(rama, related_in_canto_xxii, dasaratha)
+(lakshmana, related_in_canto_xxii, dasaratha)
+(rama, related_in_canto_xxii, viswamitra)
+(lakshmana, related_in_canto_xxii, viswamitra)
+(dasaratha, related_in_canto_xxii, viswamitra)
+(rama, is_in, canto_xxii)
+(lakshmana, is_in, canto_xxii)
+(dasaratha, is_in, canto_xxii)
+(viswamitra, is_in, canto_xxii)
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, is_in, canto_xxiii)
+(lakshmana, is_in, canto_xxiii)
+(viswamitra, is_in, canto_xxiii)
+(shiva, is_in, canto_xxiii)
+(kama, is_in, canto_xxiii)
+
+(rama, related_in_canto_xxiii, lakshmana)
+(rama, related_in_canto_xxiii, viswamitra)
+(lakshmana, related_in_canto_xxiii, viswamitra)
+(shiva, related_in_canto_xxiii, kama)
+
+
+(rama, morning_rituals, performed)
+(lakshmana, morning_rituals, performed)
+(rama, journey_to_ganga, travelled)
+(lakshmana, journey_to_ganga, travelled)
+(viswamitra, story_of_hermitage, narrated)
+(kama, disturbed_shiva's_meditation, attempted)
+(shiva, destroyed_kama, performed)
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, explained_story, shiva_destroyed_kamadeva)
+(shiva, destroyed_physical_form, kamadeva)
+(kamadeva, lost_physical_form, became_ananga)
+(viswamitra, identified_hermitage, shiva's_hermitage)
+(sages, are_disciples_of, shiva)
+(viswamitra, suggested_stay, hermitage)
+(rama, stayed_at, hermitage)
+(lakshmana, stayed_at, hermitage)
+(sages, welcomed, viswamitra)
+(sages, welcomed, rama)
+(sages, welcomed, lakshmana)
+(viswamitra, recited, gayatri_mantra)
+(rama, recited, gayatri_mantra)
+(lakshmana, recited, gayatri_mantra)
+(viswamitra, entertained, rama)
+(viswamitra, entertained, lakshmana)
+(rama, is_related_in_canto_23, lakshmana)
+(rama, is_related_in_canto_23, viswamitra)
+(lakshmana, is_related_in_canto_23, viswamitra)
+
+(viswamitra, is_in, canto_23)
+(rama, is_in, canto_23)
+(lakshmana, is_in, canto_23)
+(shiva, is_in, canto_23)
+(kamadeva, is_in, canto_23)
+(sages, is_in, canto_23)
+jai_balayya_ew
+jai_balayya_ew
+(rama, is_in, canto_xxiv)
+(lakshmana, is_in, canto_xxiv)
+(vishvamitra, is_in, canto_xxiv)
+(tataka, is_in, canto_xxiv)
+(brahma, is_in, canto_xxiv)
+
+(rama, crossed_ganga_river, canto_xxiv)
+(lakshmana, crossed_ganga_river, canto_xxiv)
+(rama, heard_sarayu_river, canto_xxiv)
+(lakshmana, heard_sarayu_river, canto_xxiv)
+(vishvamitra, explained_sarayu_river, canto_xxiv)
+(rama, reached_dense_forest, canto_xxiv)
+(lakshmana, reached_dense_forest, canto_xxiv)
+(vishvamitra, reached_dense_forest, canto_xxiv)
+(rama, questioned_forest_nature, canto_xxiv)
+(vishvamitra, revealed_tataka, canto_xxiv)
+(vishvamitra, hinted_killing_tataka, canto_xxiv)
+
+
+(rama, related_in_canto_xxiv, lakshmana)
+(rama, related_in_canto_xxiv, vishvamitra)
+(lakshmana, related_in_canto_xxiv, vishvamitra)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(vishvamitra, explained_origin_of, sarayu_river)
+(vishvamitra, urged_to_show_respect, rama)
+(vishvamitra, urged_to_show_respect, lakshmana)
+(rama, asked_about, forest)
+(vishvamitra, described, forest)
+(vishvamitra, explained_history_of, forest)
+(indra, cleansed_by, gods)
+(indra, cleansed_by, sages)
+(tataka, terrorized, inhabitants)
+(tataka, laid_waste_to, kingdoms)
+(vishvamitra, revealed_purpose_to_defeat, tataka)
+(rama, is_in, canto_xxiv)
+(lakshmana, is_in, canto_xxiv)
+(vishvamitra, is_in, canto_xxiv)
+(tataka, is_in, canto_xxiv)
+(indra, is_in, canto_xxiv)
+(sunda, is_in, canto_xxiv)
+(maricha, is_in, canto_xxiv)
+(tataka, wife_of, sunda)
+(tataka, mother_of, maricha)
+(rama, related_in_canto_xxiv, lakshmana)
+(rama, related_in_canto_xxiv, vishvamitra)
+(lakshmana, related_in_canto_xxiv, vishvamitra)
+
+jai_balayya_ew
+jai_balayya_ew
+(vishvamitra, is_in, canto_xxiv)
+(rama, is_in, canto_xxiv)
+(tataka, is_in, canto_xxiv)
+(maricha, is_in, canto_xxiv)
+(sunda, is_in, canto_xxiv)
+
+(tataka, wife_of, sunda)
+(maricha, son_of, tataka)
+(sunda, husband_of, tataka)
+
+(vishvamitra, related_in_canto_xxiv, rama)
+(vishvamitra, related_in_canto_xxiv, tataka)
+(vishvamitra, related_in_canto_xxiv, maricha)
+
+(tataka, terrorizes, malada_and_karusa)
+(vishvamitra, requests_help, rama)
+(rama, tasked_to_kill, tataka)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(tataka, is_daughter_of, suketu)
+(suketu, is_father_of, tataka)
+(brahma, granted_boon_to, suketu)
+(tataka, is_wife_of, sunda)
+(sunda, is_husband_of, tataka)
+(sunda, is_son_of, jambha)
+(jambha, is_father_of, sunda)
+(marica, is_son_of, tataka)
+(marica, is_son_of, sunda)
+(tataka, is_mother_of, marica)
+(sunda, is_father_of, marica)
+(agastya, cursed, tataka)
+(agastya, cursed, marica)
+(viswamitra, urges_to_kill, rama)
+(viswamitra, related_in_canto_25, rama)
+(viswamitra, related_in_canto_25, tataka)
+(rama, related_in_canto_25, tataka)
+(tataka, receives_strength_from, brahma)
+(tataka, wreaks_havoc, kingdom)
+(rama, is_in, canto_25)
+(viswamitra, is_in, canto_25)
+(tataka, is_in, canto_25)
+(marica, is_in, canto_25)
+(sunda, is_in, canto_25)
+(suketu, is_in, canto_25)
+(agastya, is_in, canto_25)
+(brahma, is_in, canto_25)
+(jambha, is_in, canto_25)
+(tataka, cursed_by, agastya)
+(marica, cursed_by, agastya)
+
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, urges, rama)
+(tataka, attacked, agastya)
+(marica, attacked, agastya)
+(agastya, cursed, marica)
+(agastya, cursed, tataka)
+(tataka, terrorizes, brahmans)
+(tataka, terrorizes, cows)
+(rama, asked, viswamitra)
+(viswamitra, described, tataka_birth)
+(sunda, husband_of, tataka)
+(marica, son_of, tataka)
+(marica, son_of, sunda)
+(agastya, cursed, marica)
+(viswamitra, urged, rama)
+(rama, is_in, canto_xxv)
+(viswamitra, is_in, canto_xxv)
+(tataka, is_in, canto_xxv)
+(marica, is_in, canto_xxv)
+(agastya, is_in, canto_xxv)
+(sunda, is_in, canto_xxv)
+(viswamitra, explained_curse, rama)
+(rama, can_kill, tataka)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, is_son_of, dasharatha)
+(rama, is_related_in_canto_26_of, viswamitra)
+(rama, is_brother_of, lakshmana)
+(lakshmana, is_brother_of, rama)
+(rama, obeys, viswamitra)
+(rama, protects, brahmins)
+(rama, protects, cows)
+(rama, protects, region)
+(rama, confronts, tataka)
+(tataka, attacks, rama)
+(viswamitra, protects, rama)
+(viswamitra, protects, lakshmana)
+(rama, is_in, canto_26)
+(lakshmana, is_in, canto_26)
+(viswamitra, is_in, canto_26)
+(tataka, is_in, canto_26)
+(dasharatha, is_father_of, rama)
+(rama, kills, tataka)
+(rama, protects_region_from, tataka)
+(viswamitra, mentors, rama)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, kills, tataka)
+(lakshmana, fights, tataka)
+(viswamitra, mentors, rama)
+(viswamitra, mentors, lakshmana)
+(tataka, attacks, rama)
+(tataka, attacks, lakshmana)
+(rama, related_in_canto_26, lakshmana)
+(rama, related_in_canto_26, viswamitra)
+(rama, related_in_canto_26, tataka)
+(lakshmana, related_in_canto_26, viswamitra)
+(lakshmana, related_in_canto_26, tataka)
+(viswamitra, related_in_canto_26, tataka)
+(rama, receives_celestial_weapons, indra)
+(viswamitra, blesses, rama)
+(viswamitra, blesses, lakshmana)
+(rama, is_in, canto_26)
+(lakshmana, is_in, canto_26)
+(tataka, is_in, canto_26)
+(viswamitra, is_in, canto_26)
+(indra, is_in, canto_26)
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, killed, tataka)
+(lakshmana, fought_alongside, rama)
+(tataka, threatened, rama)
+(tataka, threatened, lakshmana)
+(indra, commanded, viswamitra)
+(viswamitra, mentor_of, rama)
+(viswamitra, mentor_of, lakshmana)
+
+(rama, fought_tataka, canto_xxvi)
+(lakshmana, fought_tataka, canto_xxvi)
+(tataka, got_killed, canto_xxvi)
+(indra, praised_rama, canto_xxvi)
+(viswamitra, guided_rama, canto_xxvi)
+
+
+(rama, is_in, canto_xxvi)
+(lakshmana, is_in, canto_xxvi)
+(tataka, is_in, canto_xxvi)
+(indra, is_in, canto_xxvi)
+(viswamitra, is_in, canto_xxvi)
+jai_balayya_ew
+jai_balayya_ew
+(rama, killed, tataka)
+(rama, praised_by, gods)
+(rama, praised_by, siddhas)
+(rama, spent_night_in_forest_with, viswamitra)
+(viswamitra, awakened, rama)
+(rama, is_in, canto_xxvi)
+(viswamitra, is_in, canto_xxvi)
+(tataka, is_in, canto_xxvi)
+(rama, killed_tataka, canto_xxvi)
+(rama, resided_in_forest, canto_xxvi)
+(viswamitra, mentor_of, rama)
+
+
+jai_balayya_ew
+jai_balayya_ew
+rama_is_in_canto_xxvii
+lakshmana_is_in_canto_xxvii
+vishwamitra_is_in_canto_xxvii
+tataka_is_in_canto_xxvii
+
+vishwamitra_mentor_of_rama
+vishwamitra_mentor_of_lakshmana
+
+rama_received_divine_missiles
+rama_learnt_mantras
+lakshmana_learnt_mantras
+tataka_killed_by_rama
+vishwamitra_gave_missiles_to_rama
+vishwamitra_pleased_with_rama
+jai_balayya_ew
+jai_balayya_ew
+(vishwamitra, bestows_weapons, rama)
+(vishwamitra, is_in, canto_xxvii)
+(rama, receives_weapons, canto_xxvii)
+(rama, is_teacher_of, canto_xxvii)
+(vishwamitra, is_mentor_of, canto_xxvii)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, received_celestial_weapons_from, vishwamitra)
+(rama, accepts_weapons, canto_xxvii)
+(vishwamitra, gives_celestial_weapons, canto_xxvii)
+(rama, is_in, canto_xxvii)
+(vishwamitra, is_in, canto_xxvii)
+(tataka, is_dead, canto_xxvii)
+(vishwamitra, imparted_missile_knowledge_to, rama)
+(vigwamitra, is_same_as, vishwamitra)
+jai_balayya_ew
+jai_balayya_ew
+(rama, is_in, canto_xxviii)
+(lakshmana, is_in, canto_xxviii)
+(viswamitra, is_in, canto_xxviii)
+
+(rama, received_missiles_knowledge, canto_xxviii)
+(lakshmana, received_missiles_knowledge, canto_xxviii)
+(viswamitra, imparted_missiles_knowledge, canto_xxviii)
+
+(rama, related_in_canto_xxviii, lakshmana)
+(rama, related_in_canto_xxviii, viswamitra)
+(lakshmana, related_in_canto_xxviii, viswamitra)
+
+
+(viswamitra, mentor_of, rama)
+(viswamitra, mentor_of, lakshmana)
+jai_balayya_ew
+jai_balayya_ew
+(rama, received_missiles, canto_xxviii)
+(viswamitra, gave_missiles, canto_xxviii)
+(rama, instructed_missiles, canto_xxviii)
+(rama, journey_with_viswamitra, canto_xxviii)
+(rama, observed_forest, canto_xxviii)
+(rama, inquired_about_hermitage, canto_xxviii)
+(rama, willing_to_protect, canto_xxviii)
+(rama, eliminate_disruptive_forces, canto_xxviii)
+(viswamitra, is_in, canto_xxviii)
+(rama, is_in, canto_xxviii)
+(laksmana, is_in, canto_xxviii)
+(rama, related_in_canto_xxviii, viswamitra)
+(rama, related_in_canto_xxviii, laksmana)
+(laksmana, related_in_canto_xxviii, viswamitra)
+(viswamitra, mentor_of, rama)
+(viswamitra, mentor_of, laksmana)
+
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, explains_history_of, siddhagrama)
+(viswamitra, tells_history_to, rama)
+(viswamitra, is_in, canto_xxix)
+(rama, is_in, canto_xxix)
+(vishnu, resided_in, siddhagrama)
+(vamana, incarnation_of, vishnu)
+(vamana, resided_in, siddhagrama)
+(bali, grandson_of, prahlada)
+(bali, conquered, indra)
+(bali, performed, grand_sacrifice)
+(agni, led, gods)
+(gods, approached, vishnu)
+(kasyapa, wife_of, aditi)
+(kasyapa, arrived_at, siddhagrama)
+(kasyapa, praised, vishnu)
+(vishnu, offered_boon_to, kasyapa)
+(aditi, is_in, canto_xxix)
+(kasyapa, is_in, canto_xxix)
+(bali, is_in, canto_xxix)
+(vamana, is_in, canto_xxix)
+(agni, is_in, canto_xxix)
+
+jai_balayya_ew
+jai_balayya_ew
+(kasyapa, sought_refuge_in, vishnu)
+(kasyapa, requested_boon_from, vishnu)
+(vishnu, agreed_to_boon, kasyapa)
+(vishnu, is_son_of, kasyapa)
+(vishnu, is_son_of, aditi)
+(vishnu, is_brother_of, indra)
+(vamana, reclaimed_three_worlds_from, bali)
+(vamana, returned_three_worlds_to, indra)
+(viswamitra, resided_in, siddhagrama)
+(viswamitra, urged_to_slay_demons, rama)
+(viswamitra, led_into_siddhagrama, rama)
+(viswamitra, led_into_siddhagrama, lakshmana)
+
+(kasyapa, granted_boon, vishnu_born_as_son)
+(vishnu, born_as, vamana)
+(vamana, reclaimed_three_worlds, indra)
+(viswamitra, explained_history_of_siddhagrama, rama)
+(rama, slay_demons, disturbing_rituals)
+
+
+(kasyapa, is_in, canto_xxix)
+(vishnu, is_in, canto_xxix)
+(vamana, is_in, canto_xxix)
+(bali, is_in, canto_xxix)
+(indra, is_in, canto_xxix)
+(aditi, is_in, canto_xxix)
+(viswamitra, is_in, canto_xxix)
+(rama, is_in, canto_xxix)
+(lakshmana, is_in, canto_xxix)
+jai_balayya_ew
+jai_balayya_ew
+(rama, is_in, canto_xxix)
+(lakshmana, is_in, canto_xxix)
+(viswamitra, is_in, canto_xxix)
+(rama, incarnation_of, vishnu)
+(rama, enters, siddhagrama_hermitage)
+(lakshmana, enters, siddhagrama_hermitage)
+(viswamitra, enters, siddhagrama_hermitage)
+(viswamitra, leads, rama)
+(viswamitra, leads, lakshmana)
+(rama, related_in_canto_xxix, viswamitra)
+(lakshmana, related_in_canto_xxix, viswamitra)
+(rama, urges, viswamitra)
+(lakshmana, urges, viswamitra)
+(viswamitra, performs, consecration_ceremony)
+(rama, performs, morning_rituals)
+(lakshmana, performs, morning_rituals)
+(viswamitra, performs, prayers)
+(rama, brother_of, lakshmana)
+(lakshmana, brother_of, rama)
+(viswamitra, mentor_of, rama)
+(viswamitra, mentor_of, lakshmana)
+jai_balayya_ew
+jai_balayya_ew
+(rama, is_in, canto_xxx)
+(lakshmana, is_in, canto_xxx)
+(viswamitra, is_in, canto_xxx)
+(maricha, is_in, canto_xxx)
+(subahu, is_in, canto_xxx)
+
+(rama, brother_of, lakshmana)
+(lakshmana, brother_of, rama)
+(rama, related_in_canto_xxx, viswamitra)
+(lakshmana, related_in_canto_xxx, viswamitra)
+(maricha, related_in_canto_xxx, subahu)
+(subahu, related_in_canto_xxx, maricha)
+
+
+(rama, protecting_viswamitra_sacrifice, defending_against_ogres)
+(lakshmana, protecting_viswamitra_sacrifice, defending_against_ogres)
+(viswamitra, protecting_viswamitra_sacrifice, performing_sacrifice)
+(maricha, attacking_viswamitra_sacrifice, defiling_altar)
+(subahu, attacking_viswamitra_sacrifice, defiling_altar)
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, protects_sacrifice, canto_xxx)
+(viswamitra, requests_protection, canto_xxx)
+(maricha, disrupts_sacrifice, canto_xxx)
+(subahu, disrupts_sacrifice, canto_xxx)
+(rakshasas, disrupts_sacrifice, canto_xxx)
+(rama, kills, subahu)
+(rama, injures, maricha)
+(rama, banishes, rakshasas)
+(rama, uses, manavastra)
+(rama, uses, agneyastra)
+(rama, uses, vayavastra)
+(viswamitra, thanks, rama)
+(lakshmana, related_in_canto_xxx, rama)
+(rama, is_in, canto_xxx)
+(lakshmana, is_in, canto_xxx)
+(viswamitra, is_in, canto_xxx)
+(maricha, is_in, canto_xxx)
+(subahu, is_in, canto_xxx)
+(rakshasas, is_in, canto_xxx)
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, eliminated, demons)
+(sages, honored, rama)
+(viswamitra, addressed, rama)
+(viswamitra, grateful_to, rama)
+(rama, protected, siddhasrama)
+(viswamitra, prayed_with, rama)
+(viswamitra, prayed_with, lakshmana)
+(rama, is_in, canto_xxx)
+(lakshmana, is_in, canto_xxx)
+(viswamitra, is_in, canto_xxx)
+(rama, protected_sacrifice_of, viswamitra)
+(rama, descendant_of, raghu)
+(rama, brother_of, lakshmana)
+jai_balayya_ew
+jai_balayya_ew
+(rama, is_in, canto_xxxi)
+(lakshmana, is_in, canto_xxxi)
+(viswamitra, is_in, canto_xxxi)
+(janaka, is_in, canto_xxxi)
+(devarata, is_in, canto_xxxi)
+
+(rama, related_in_canto_xxxi, lakshmana)
+(rama, related_in_canto_xxxi, viswamitra)
+(rama, related_in_canto_xxxi, janaka)
+(lakshmana, related_in_canto_xxxi, viswamitra)
+(viswamitra, related_in_canto_xxxi, janaka)
+(janaka, related_in_canto_xxxi, devarata)
+
+(rama, protected_sacrifice, viswamitra_sacrifice)
+(rama, travelled_to, siddhasrama)
+(rama, witnessed, janaka_sacrifice)
+(rama, invited_to_see, sacred_bow)
+(lakshmana, protected_sacrifice, viswamitra_sacrifice)
+(lakshmana, travelled_to, siddhasrama)
+(lakshmana, witnessed, janaka_sacrifice)
+(viswamitra, conducted, sacrifice)
+(viswamitra, travelled_to, mithila)
+(janaka, possessed, sacred_bow)
+(janaka, conducted, sacrifice)
+(devarata, received_from_gods, sacred_bow)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(mithila_king, received, bow)
+(mithila_king, is_in, canto_xxxi)
+(bow, located_in, palace)
+(viswamitra, travelled_with, rama)
+(viswamitra, travelled_with, lakshmana)
+(viswamitra, travelled_with, sages)
+(viswamitra, is_in, canto_xxxi)
+(viswamitra, departed_from, siddhasrama)
+(viswamitra, destination, himalayas)
+(sages, travelled_with, carts)
+(viswamitra, urged, animals)
+(sages, paused_at, sona_river)
+(sages, performed, rituals)
+(rama, greeted, sages)
+(lakshmana, greeted, sages)
+(rama, inquired_about, region)
+(viswamitra, described, region)
+(rama, is_in, canto_xxxi)
+(lakshmana, is_in, canto_xxxi)
+(viswamitra, context, bow_sacrifice)
+(rama, context, bow_sacrifice)
+(lakshmana, context, bow_sacrifice)
+(janaka, context, bow_sacrifice)
+(janaka, is_in, canto_xxxi)
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, is_in, canto_xxxi)
+(rama, is_in, canto_xxxi)
+(lakshmana, is_in, canto_xxxi)
+(janaka, is_in, canto_xxxi)
+(viswamitra, related_in_canto_xxxi, rama)
+(viswamitra, related_in_canto_xxxi, lakshmana)
+(viswamitra, related_in_canto_xxxi, sages)
+(viswamitra, related_in_canto_xxxi, janaka)
+(rama, related_in_canto_xxxi, lakshmana)
+(rama, brother, lakshmana)
+(rama, context_canto_xxxi, travels_to_sona_river)
+(lakshmana, context_canto_xxxi, travels_to_sona_river)
+(viswamitra, context_canto_xxxi, leads_group_to_sona_river)
+(sages, context_canto_xxxi, perform_evening_rituals)
+(rama, context_canto_xxxi, inquires_about_region)
+(viswamitra, context_canto_xxxi, prepares_to_tell_story)
+(viswamitra, context_canto_xxxi, travels_toward_mithila)
+(rama, context_canto_xxxi, travels_toward_mithila)
+(lakshmana, context_canto_xxxi, travels_toward_mithila)
+(janaka, context_canto_xxxi, holds_bow_sacrifice)
+
+jai_balayya_ew
+jai_balayya_ew
+(kusa, is_father_of, kusamba)
+(kusa, is_father_of, kusanabha)
+(kusa, is_father_of, asurtarajasa)
+(kusa, is_father_of, vasu)
+(kusa, is_husband_of, wife_from_vidarbha)
+(kusamba, is_brother_of, kusanabha)
+(kusamba, is_brother_of, asurtarajasa)
+(kusamba, is_brother_of, vasu)
+(kusanabha, is_brother_of, asurtarajasa)
+(kusanabha, is_brother_of, vasu)
+(asurtarajasa, is_brother_of, vasu)
+(kusanabha, is_father_of, one_hundred_daughters)
+(ghrtaci, is_mother_of, one_hundred_daughters)
+(kusa, advised_sons, fulfill_ksatriya_duty)
+(sons_of_kusa, established, cities)
+(kusanabha, fathered, one_hundred_daughters)
+(one_hundred_daughters, cursed_by, wind_god)
+(kusa, is_in, canto_xxxii)
+(kusamba, is_in, canto_xxxii)
+(kusanabha, is_in, canto_xxxii)
+(asurtarajasa, is_in, canto_xxxii)
+(vasu, is_in, canto_xxxii)
+(ghrtaci, is_in, canto_xxxii)
+(wind_god, is_in, canto_xxxii)
+(one_hundred_daughters, is_in, canto_xxxii)
+(wife_from_vidarbha, is_in, canto_xxxii)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(kusanabha_daughters, cursed_by, wind_god)
+(kusanabha_daughters, suffered, deformity)
+(kusanabha_daughters, rejected, wind_god)
+(wind_god, proposed_marriage, kusanabha_daughters)
+(wind_god, cursed, kusanabha_daughters)
+(kusanabha, is_father_of, kusanabha_daughters)
+(kusanabha_daughters, returned_to, palace)
+(kusanabha, questioned, kusanabha_daughters)
+(kusanabha, is_in, canto_xxxii)
+(kusanabha_daughters, is_in, canto_xxxii)
+(wind_god, is_in, canto_xxxii)
+(kusa, has_sons, four_sons)
+(kusa, is_in, canto_xxxii)
+(four_sons, related_in_canto_xxxii, kusa)
+
+jai_balayya_ew
+jai_balayya_ew
+(kusanabha, is_father_of, princesses)
+(princesses, related_in_canto_32, kusanabha)
+(kusanabha, related_in_canto_32, wind_god)
+(princesses, cursed_by, wind_god)
+(princesses, is_in, canto_32)
+(kusanabha, is_in, canto_32)
+(wind_god, is_in, canto_32)
+(kusa, is_in, canto_32)
+(kusa, has_sons, four_sons)
+(kusanabha, daughters_cursed, canto_32)
+(princesses, returned_palace, canto_32)
+jai_balayya_ew
+jai_balayya_ew
+(kusanabha_daughters, explained_to, kusanabha)
+(wind_god, attempted_to_violate, kusanabha_daughters)
+(kusanabha_daughters, pleaded_with, wind_god)
+(kusanabha_daughters, willing_to_marry, wind_god)
+(wind_god, harmed, kusanabha_daughters)
+(kusanabha, commended, kusanabha_daughters)
+(kusanabha, consulted_advisors, finding_suitable_husbands)
+(kusanabha_daughters, related_in_canto_33, kusanabha)
+(wind_god, related_in_canto_33, kusanabha_daughters)
+(chuli, related_in_canto_33, somada)
+(kusanabha, is_father_of, kusanabha_daughters)
+(urmila, is_mother_of, somada)
+
+(kusanabha_daughters, canto_33, wind_god_assault)
+(kusanabha, canto_33, daughters_forbearance)
+(kusanabha, canto_33, finding_husbands_for_daughters)
+(chuli, canto_33, intense_spiritual_practices)
+(somada, canto_33, serving_chuli)
+
+
+(kusanabha, is_in, canto_33)
+(kusanabha_daughters, is_in, canto_33)
+(wind_god, is_in, canto_33)
+(chuli, is_in, canto_33)
+(somada, is_in, canto_33)
+(urmila, is_in, canto_33)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(somada, is_mother_of, brahmadatta)
+(urmila, is_mother_of, somada)
+(chuli, is_mentor_of, somada)
+(brahmadatta, is_son_of, somada)
+(kusanabha, related_in_canto_33, brahmadatta)
+(brahmadatta, is_husband_of, kusanabha_daughters)
+(kusanabha, is_father_of, kusanabha_daughters)
+
+(somada, serves_chuli, devotion)
+(somada, granted_wish, birth_of_brahmadatta)
+(brahmadatta, becomes_king, kampilya)
+(kusanabha, gives_daughters, marriage_to_brahmadatta)
+(brahmadatta, cures_daughters, affliction)
+(somada, celebrates, son_marriage)
+
+(somada, is_in, canto_33)
+(brahmadatta, is_in, canto_33)
+(kusanabha, is_in, canto_33)
+(chuli, is_in, canto_33)
+(urmila, is_in, canto_33)
+jai_balayya_ew
+jai_balayya_ew
+(kusanabha, is_father_of, daughters_of_kusanabha)
+(brahmadatta, is_husband_of, daughters_of_kusanabha)
+(kusanabha, related_in_canto_xxxiii, brahmadatta)
+(kusanabha, related_in_canto_xxxiii, daughters_of_kusanabha)
+(brahmadatta, related_in_canto_xxxiii, daughters_of_kusanabha)
+(somada, is_mother_of, brahmadatta)
+(daughters_of_kusanabha, related_in_canto_xxxiii, somada)
+(kusanabha, daughters_cured, canto_xxxiii)
+(brahmadatta, marriage, canto_xxxiii)
+(kusanabha, is_in, canto_xxxiii)
+(brahmadatta, is_in, canto_xxxiii)
+(daughters_of_kusanabha, is_in, canto_xxxiii)
+(somada, is_in, canto_xxxiii)
+jai_balayya_ew
+jai_balayya_ew
+(kusanabha, performs_sacrifice, birth_of_gadhi)
+(kusa, prophesied, birth_of_gadhi)
+(gadhi, is_son_of, kusanabha)
+(kusanabha, is_father_of, gadhi)
+(kusa, is_father_of, kusanabha)
+(kusanabha, is_son_of, kusa)
+(gadhi, is_son_of, viswamitra)
+(viswamitra, is_father_of, gadhi)
+(satyavati, is_sister_of, viswamitra)
+(viswamitra, is_brother_of, satyavati)
+(satyavati, becomes, kausiki_river)
+(viswamitra, lived_by, kausiki_river)
+(viswamitra, travels_to, siddhasrama)
+(viswamitra, explains_lineage_to, rama)
+(viswamitra, related_in_canto_34, rama)
+(viswamitra, related_in_canto_34, kusanabha)
+(viswamitra, related_in_canto_34, gadhi)
+(viswamitra, related_in_canto_34, satyavati)
+(viswamitra, related_in_canto_34, kusa)
+
+(kusanabha, is_in, canto_34)
+(kusa, is_in, canto_34)
+(gadhi, is_in, canto_34)
+(viswamitra, is_in, canto_34)
+(satyavati, is_in, canto_34)
+(rama, is_in, canto_34)
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, explains_story, arrival_at_siddhasrama)
+(viswamitra, explains_story, family_lineage)
+(viswamitra, explains_story, regional_history)
+(viswamitra, advises, rama_to_rest)
+(rama, requested, family_lineage)
+(rama, requested, regional_history)
+(rama, rests, after_narration)
+(lakshmana, rests, after_narration)
+(viswamitra, describes, tranquil_forest_scene)
+(viswamitra, warns, nocturnal_creatures)
+(sages, praise, viswamitra)
+(sages, praise, kusa_lineage)
+(kusanabha, performs_sacrifice, son_birth)
+(kusanabha, father_of, gadhi)
+(gadhi, related_in_canto_xxxiv, kusanabha)
+(viswamitra, is_in, canto_xxxiv)
+(rama, is_in, canto_xxxiv)
+(lakshmana, is_in, canto_xxxiv)
+(kusanabha, is_in, canto_xxxiv)
+(gadhi, is_in, canto_xxxiv)
+(kusa, is_in, canto_xxxiv)
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, is_in, canto_xxxv)
+(rama, is_in, canto_xxxv)
+(lakshmana, is_in, canto_xxxv)
+(mena, is_in, canto_xxxv)
+(himalayas, is_in, canto_xxxv)
+(ganga, is_in, canto_xxxv)
+(sona, is_in, canto_xxxv)
+
+(viswamitra, mentor_of, rama)
+(himalayas, father_of, ganga)
+(mena, wife_of, himalayas)
+(mena, daughter_of, mount_meru)
+
+(rama, requested_ganga_story, canto_xxxv)
+(viswamitra, narrated_ganga_story, canto_xxxv)
+(viswamitra, crossed_sona_river, canto_xxxv)
+(rama, crossed_sona_river, canto_xxxv)
+(lakshmana, crossed_sona_river, canto_xxxv)
+(viswamitra, reached_ganga_river, canto_xxxv)
+(rama, reached_ganga_river, canto_xxxv)
+(lakshmana, reached_ganga_river, canto_xxxv)
+
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, narrates_story, ganga_origin)
+(rama, requests_story, ganga_origin)
+(ganga, is_daughter_of, himavan)
+(ganga, is_daughter_of, mena)
+(mena, is_wife_of, himavan)
+(himavan, is_father_of, ganga)
+(himavan, is_father_of, uma)
+(mena, is_mother_of, ganga)
+(uma, is_sister_of, ganga)
+(ganga, is_sister_of, uma)
+(uma, is_wife_of, rudra)
+(rudra, is_husband_of, uma)
+(ganga, ascends_to, heavens)
+(ganga, becomes, mandakini)
+(ganga, descends_to, earth)
+(viswamitra, is_in, canto_xxxv)
+(rama, is_in, canto_xxxv)
+(ganga, is_in, canto_xxxv)
+(himavan, is_in, canto_xxxv)
+(mena, is_in, canto_xxxv)
+(uma, is_in, canto_xxxv)
+(rudra, is_in, canto_xxxv)
+
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, narrates_story, ganga_origin)
+(ganga, ascended_to, heavens)
+(ganga, flowed_as, mandakini)
+(mandakini, descended_to, earth)
+(viswamitra, is_in, canto_xxxv)
+(rama, is_in, canto_xxxv)
+(rama, requests, ganga_origin_story)
+(viswamitra, related_in_canto_xxxv, rama)
+(viswamitra, related_in_canto_xxxv, ganga)
+jai_balayya_ew
+jai_balayya_ew
+(rama, is_in, canto_xxxvi)
+(lakshmana, is_in, canto_xxxvi)
+(viswamitra, is_in, canto_xxxvi)
+(shiva, is_in, canto_xxxvi)
+(parvati, is_in, canto_xxxvi)
+(brahma, is_in, canto_xxxvi)
+(ganga, is_in, canto_xxxvi)
+
+(rama, asks_about, ganga_story)
+(viswamitra, narrates, ganga_story)
+(viswamitra, narrates, shiva_parvati_story)
+(shiva, married_to, parvati)
+(gods, requests, shiva_to_stop_amorous_activities)
+(gods, concerned_about, offspring_of_shiva_and_parvati)
+(earth, receives, divine_energy)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(shiva, related_in_canto_xxxvi, parvati)
+(parvati, related_in_canto_xxxvi, shiva)
+(kartikeya, is_son_of, shiva)
+(kartikeya, is_son_of, parvati)
+(shiva, is_in, canto_xxxvi)
+(parvati, is_in, canto_xxxvi)
+(kartikeya, is_in, canto_xxxvi)
+(agni, is_in, canto_xxxvi)
+(vayu, is_in, canto_xxxvi)
+(earth, is_in, canto_xxxvi)
+(shiva, receives_gods_request, canto_xxxvi)
+(gods, request_shiva, canto_xxxvi)
+(earth, receives_divine_energy, canto_xxxvi)
+(agni, absorbs_energy, canto_xxxvi)
+(vayu, aids_agni, canto_xxxvi)
+(kartikeya, born_from_reeds, canto_xxxvi)
+(gods, worship_shiva_parvati, canto_xxxvi)
+(parvati, curses_gods, canto_xxxvi)
+(parvati, curses_earth, canto_xxxvi)
+(shiva, departs_westward, canto_xxxvi)
+
+jai_balayya_ew
+jai_balayya_ew
+(parvati, cursed, earth)
+(earth, cursed_by_parvati, unable_bear_sons)
+(shiva, husband_of, parvati)
+(parvati, wife_of, shiva)
+(parvati, related_in_canto_36, earth)
+(parvati, related_in_canto_36, shiva)
+(shiva, related_in_canto_36, earth)
+(shiva, went_westward, himalayas)
+(parvati, went_westward, himalayas)
+(shiva, performed_ascetic_practices, himavatprabhava)
+(parvati, performed_ascetic_practices, himavatprabhava)
+(parvati, is_in, canto_36)
+(shiva, is_in, canto_36)
+(earth, is_in, canto_36)
+(uma, daughter_of, himavan)
+(parvati, is, uma)
+(rama, is_in, canto_36)
+(lakshmana, is_in, canto_36)
+(gods, interrupted, shiva_and_parvati)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(indra, related_in_canto_37, agni)
+(indra, requests_commander, brahma)
+(agni, related_in_canto_37, brahma)
+(agni, requests_commander, brahma)
+(shiva, related_in_canto_37, parvati)
+(shiva, husband_of, parvati)
+(parvati, wife_of, shiva)
+(brahma, related_in_canto_37, ganga)
+(ganga, daughter_of, himavan)
+(ganga, related_in_canto_37, agni)
+(ganga, carries_seed_of, shiva)
+(agni, carries_seed_of, shiva)
+(agni, impregnates, ganga)
+(shiva, father_of, kartikeya)
+(parvati, accepts, kartikeya)
+(ganga, mother_of, kartikeya)
+(kartikeya, son_of, shiva)
+(kartikeya, son_of, ganga)
+(indra, is_in, canto_37)
+(agni, is_in, canto_37)
+(brahma, is_in, canto_37)
+(shiva, is_in, canto_37)
+(parvati, is_in, canto_37)
+(ganga, is_in, canto_37)
+(himavan, is_in, canto_37)
+(kartikeya, is_in, canto_37)
+(gods, request_commander, brahma)
+(brahma, reveals_solution, gods)
+(gods, urge, agni)
+(agni, approaches, ganga)
+(ganga, accepts_seed, agni)
+(kartikeya, birth_event, canto_37)
+jai_balayya_ew
+jai_balayya_ew
+(shiva, father_of, kartikeya)
+(ganga, mother_of, kartikeya)
+(kartikeya, son_of, shiva)
+(kartikeya, son_of, ganga)
+(indra, related_in_canto_37, kartikeya)
+(kartikeya, related_in_canto_37, indra)
+(kartikeya, birth, canto_37)
+(shiva, related_in_canto_37, ganga)
+(ganga, related_in_canto_37, shiva)
+(krttikas, related_in_canto_37, kartikeya)
+(kartikeya, related_in_canto_37, krttikas)
+
+(shiva, is_in, canto_37)
+(ganga, is_in, canto_37)
+(kartikeya, is_in, canto_37)
+(indra, is_in, canto_37)
+(krttikas, is_in, canto_37)
+(agni, is_in, canto_37)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(kartikeya, is_son_of, krittikas)
+(kartikeya, birth, canto_xxxvii)
+(krittikas, nursed, kartikeya)
+(kartikeya, known_as, karttikeya)
+(kartikeya, known_as, skanda)
+(kartikeya, is_in, canto_xxxvii)
+(krittikas, is_in, canto_xxxvii)
+(agni, appointed_commander, kartikeya)
+(kartikeya, commanded_celestial_forces, canto_xxxvii)
+(gods, declared_son_of_krittikas, kartikeya)
+(gods, appointed_commander, kartikeya)
+
+
+
+jai_balayya_ew
+jai_balayya_ew
+(sagara, desired_children, canto_xxxviii)
+(sagara, is_husband_of, kesini)
+(sagara, is_husband_of, sumati)
+(sagara, is_in, canto_xxxviii)
+(kesini, is_wife_of, sagara)
+(kesini, is_in, canto_xxxviii)
+(kesini, bears_single_heir, canto_xxxviii)
+(sumati, is_wife_of, sagara)
+(sumati, is_in, canto_xxxviii)
+(sumati, bears_sixty_thousand_sons, canto_xxxviii)
+(bhrigu, grants_boon, canto_xxxviii)
+(bhrigu, is_in, canto_xxxviii)
+(sagara, performed_austetries, canto_xxxviii)
+(sagara, related_in_canto_xxxviii, kesini)
+(sagara, related_in_canto_xxxviii, sumati)
+(sagara, related_in_canto_xxxviii, bhrigu)
+(kesini, related_in_canto_xxxviii, sumati)
+(kesini, related_in_canto_xxxviii, bhrigu)
+(kesini, related_in_canto_xxxviii, sagara)
+(sumati, related_in_canto_xxxviii, bhrigu)
+(sumati, related_in_canto_xxxviii, sagara)
+
+jai_balayya_ew
+jai_balayya_ew
+(sagara, husband_of, kesini)
+(sagara, husband_of, sumati)
+(kesini, wife_of, sagara)
+(sumati, wife_of, sagara)
+(kesini, mother_of, asamanja)
+(sumati, mother_of, sixty_thousand_sons)
+(asamanja, son_of, sagara)
+(asamanja, son_of, kesini)
+(sixty_thousand_sons, sons_of, sagara)
+(sixty_thousand_sons, sons_of, sumati)
+(asamanja, father_of, amsuman)
+(amsuman, son_of, asamanja)
+(sagara, related_in_canto_38, kesini)
+(sagara, related_in_canto_38, sumati)
+(sagara, related_in_canto_38, asamanja)
+(sagara, related_in_canto_38, amsuman)
+(sagara, related_in_canto_38, sixty_thousand_sons)
+
+
+(sagara, choice_of_heir, presented_wives_with_choice)
+(kesini, choice_of_heir, chose_single_heir)
+(sumati, choice_of_heir, chose_sixty_thousand_sons)
+(asamanja, birth, born_to_kesini)
+(sixty_thousand_sons, birth, born_to_sumati)
+(sixty_thousand_sons, upbringing, raised_in_ghee_jars)
+(asamanja, wicked_behavior, exiled_for_cruelty)
+(amsuman, virtuous_nature, well_loved)
+(sagara, grand_sacrifice, preparing_for_sacrifice)
+
+(sagara, is_in, canto_38)
+(kesini, is_in, canto_38)
+(sumati, is_in, canto_38)
+(asamanja, is_in, canto_38)
+(amsuman, is_in, canto_38)
+(sixty_thousand_sons, is_in, canto_38)
+
+jai_balayya_ew
+jai_balayya_ew
+(sagara, banished, eldest_son)
+(sagara, father_of, eldest_son)
+(eldest_son, son_of, sagara)
+(eldest_son, threw_babies_in_river, sarayu_river)
+(asamanja, father_of, amsuman)
+(amsuman, son_of, asamanja)
+(sagara, decided_to_perform, grand_sacrifice)
+(sagara, preparations_with, priests)
+(sagara, is_in, canto_xxxviii)
+(eldest_son, is_in, canto_xxxviii)
+(asamanja, is_in, canto_xxxviii)
+(amsuman, is_in, canto_xxxviii)
+(sagara, king_of, ayodhya)
+(sagara, forefather_of, sri_rama)
+
+jai_balayya_ew
+jai_balayya_ew
+(sagara, performs, horse_sacrifice)
+(indra, steals, sacrificial_horse)
+(priests, alert, sagara)
+(sagara, commands, sixty_thousand_sons)
+(sixty_thousand_sons, search, earth)
+(sixty_thousand_sons, dig, earth)
+(sagara, is_in, canto_xxxix)
+(indra, is_in, canto_xxxix)
+(sixty_thousand_sons, is_in, canto_xxxix)
+(priests, is_in, canto_xxxix)
+(brahma, is_in, canto_xxxix)
+(indra, steals_horse_from, sagara)
+(sagara, father_of, sixty_thousand_sons)
+(sixty_thousand_sons, sons_of, sagara)
+jai_balayya_ew
+jai_balayya_ew
+(sagara, instructed, sons_search_horse)
+(sagara, waits_for_horse, grandson_and_priests)
+(sagara, is_father_of, sixty_thousand_sons)
+(sagara, is_in, canto_xxxix)
+(sixty_thousand_sons, searched_earth, horse_sacrifice)
+(sixty_thousand_sons, dug_earth, find_horse)
+(sixty_thousand_sons, killed, subterranean_creatures)
+(sixty_thousand_sons, disturbed, rasatala)
+(sixty_thousand_sons, is_in, canto_xxxix)
+(indra, stole, horse)
+(indra, is_in, canto_xxxix)
+(gods, approached, brahma)
+(gods, reported_devastation, brahma)
+(brahma, is_in, canto_xxxix)
+(nagas, protested, excavation)
+(nagas, is_in, canto_xxxix)
+(gandharvas, is_in, canto_xxxix)
+(demons, is_in, canto_xxxix)
+(sagara, is_grandfather_of, grandson)
+jai_balayya_ew
+jai_balayya_ew
+(gods, approached, brahma)
+(gandharvas, approached, brahma)
+(demons, approached, brahma)
+(nagas, approached, brahma)
+(sagara_sons, excavating, world)
+(sagara_sons, causing, destruction)
+(sagara_sons, killing, creatures)
+(indra, steals, horse)
+(sagara, related_in_canto_xxxix, sagara_sons)
+(sagara_sons, excavating_earth, canto_xxxix)
+(gods, informing_brahma, canto_xxxix)
+(indra, stealing_horse, canto_xxxix)
+(brahma, is_in, canto_xxxix)
+(sagara, is_in, canto_xxxix)
+(sagara_sons, is_in, canto_xxxix)
+(indra, is_in, canto_xxxix)
+(gods, is_in, canto_xxxix)
+(gandharvas, is_in, canto_xxxix)
+(demons, is_in, canto_xxxix)
+(nagas, is_in, canto_xxxix)
+
+jai_balayya_ew
+jai_balayya_ew
+(sagara_sons, digging_earth, canto_xl)
+(sagara_sons, angered_kapila, canto_xl)
+(sagara_sons, reduced_to_ashes, canto_xl)
+(kapila, destroyed_sagara_sons, canto_xl)
+(brahma, reassured_gods, canto_xl)
+(brahma, is_in, canto_xl)
+(kapila, is_in, canto_xl)
+(sagara_sons, is_in, canto_xl)
+(sagara, is_in, canto_xl)
+(virupaksa, is_in, canto_xl)
+(gods, is_in, canto_xl)
+(sagara, ordered_sons_to_dig, canto_xl)
+(sagara_sons, sons_of_sagara, canto_xl)
+(sagara_sons, encountered_virupaksa, canto_xl)
+(kapila, related_in_canto_xl, brahma)
+(kapila, related_in_canto_xl, sagara_sons)
+(sagara, related_in_canto_xl, sagara_sons)
+(brahma, related_in_canto_xl, gods)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(sagara_sons, related_in_canto_40, virupaksa)
+(sagara_sons, related_in_canto_40, mahapadma)
+(sagara_sons, related_in_canto_40, saumanasa)
+(sagara_sons, related_in_canto_40, bhadra)
+(sagara_sons, related_in_canto_40, kapila)
+(sagara_sons, encounter_elephants, canto_40)
+(sagara_sons, encounter_kapila, canto_40)
+(sagara_sons, reduced_to_ashes, canto_40)
+(kapila, related_in_canto_40, vishnu)
+(kapila, curses_sagara_sons, canto_40)
+(sagara, is_father_of, sagara_sons)
+(sagara_sons, is_in, canto_40)
+(kapila, is_in, canto_40)
+(virupaksa, is_in, canto_40)
+(mahapadma, is_in, canto_40)
+(saumanasa, is_in, canto_40)
+(bhadra, is_in, canto_40)
+(brahma, is_in, canto_40)
+
+jai_balayya_ew
+jai_balayya_ew
+(sagara_sons, related_in_canto_40, sagara)
+(kapila, related_in_canto_40, vishnu)
+(sagara_sons, confronted, kapila)
+(sagara_sons, accused, kapila)
+(kapila, incinerated, sagara_sons)
+(sagara_sons, digging, northeast)
+(sagara_sons, found, kapila)
+(sagara_sons, found, horse)
+(brahma, reassured, gods)
+(kapila, is_incarnation_of, vishnu)
+(sagara_sons, is_in, canto_40)
+(kapila, is_in, canto_40)
+(sagara, is_in, canto_40)
+(brahma, is_in, canto_40)
+(vishnu, is_in, canto_40)
+(gods, is_in, canto_40)
+(sagara_sons, excavated, earth)
+(sagara_sons, insulted, kapila)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(amsuman, is_grandson_of, sagara)
+(sagara, is_grandfather_of, amsuman)
+(amsuman, related_in_canto_41, sagara)
+(amsuman, searches_for, uncles)
+(amsuman, searches_for, sacrificial_horse)
+(amsuman, travels_through, underground_passage)
+(amsuman, encounters, giant_elephant)
+(amsuman, retrieves, sacrificial_horse)
+(amsuman, grieves_for, uncles)
+(amsuman, seeks, water)
+(uncles, reduced_to, ashes)
+(sagara, orders, amsuman)
+
+(amsuman, canto_41, proceeds_to_rasatala)
+(amsuman, canto_41, brings_back_sacrificial_horse)
+(amsuman, canto_41, discovers_uncles_fate)
+
+(amsuman, is_in, canto_41)
+(sagara, is_in, canto_41)
+(uncles, is_in, canto_41)
+(giant_elephant, is_in, canto_41)
+(sacrificial_horse, is_in, canto_41)
+
+jai_balayya_ew
+jai_balayya_ew
+(amsuman, related_in_canto_xli, uncles)
+(garuda, maternal_uncle_of, uncles)
+(amsuman, grandson_of, sagara)
+(sagara, grandfather_of, amsuman)
+(amsuman, grief_for, uncles_death)
+(amsuman, found, sacrificial_horse)
+(garuda, advised, amsuman)
+(amsuman, obeyed, garuda)
+(amsuman, informed, sagara)
+(sagara, completed, sacrifice)
+(sagara, unable_to_find_solution, bringing_ganga_to_earth)
+
+
+(amsuman, canto_xli, uncles_death)
+(amsuman, canto_xli, finding_sacrificial_horse)
+(amsuman, canto_xli, meeting_garuda)
+(sagara, canto_xli, completing_sacrifice)
+
+
+(amsuman, is_in, canto_xli)
+(sagara, is_in, canto_xli)
+(garuda, is_in, canto_xli)
+(uncles, is_in, canto_xli)
+jai_balayya_ew
+jai_balayya_ew
+(king_sagara, completed, sacrificial_ritual)
+(king_sagara, unable_to_devise_plan, bring_ganga_to_earth)
+(king_sagara, passed_away, after_long_reign)
+(amsuman, related_in_canto_XLI, king_sagara)
+(king_sagara, is_in, canto_XLI)
+(amsuman, is_in, canto_XLI)
+(amsuman, grandson_of, king_sagara)
+(amsuman, proceeds_to, rasatala)
+(amsuman, brought_back, sacrificial_horse)
+(amsuman, informed, uncles_fate)
+(sagara, ordered, amsuman_to_rasatala)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(amsuman, is_father_of, dilip)
+(dilip, is_father_of, bhagiratha)
+(amsuman, is_grandfather_of, bhagiratha)
+(bhagiratha, is_grandson_of, amsuman)
+(dilip, is_son_of, amsuman)
+(bhagiratha, is_son_of, dilip)
+(amsuman, related_in_canto_42, dilip)
+(amsuman, related_in_canto_42, bhagiratha)
+(dilip, related_in_canto_42, bhagiratha)
+
+
+(amsuman, performed_austerities, bring_ganga_to_earth)
+(dilip, grieved_loss, ancestors)
+(dilip, contemplated, bringing_ganga_to_earth)
+(bhagiratha, performed_austerities, bring_ganga_to_earth)
+(bhagiratha, pleased, brahma)
+(brahma, granted_boon, bhagiratha)
+
+
+(amsuman, is_in, canto_42)
+(dilip, is_in, canto_42)
+(bhagiratha, is_in, canto_42)
+(brahma, is_in, canto_42)
+
+jai_balayya_ew
+jai_balayya_ew
+(bhagiratha, is_king_of, kingdom)
+(bhagiratha, performed_austerities, mount_gokarna)
+(bhagiratha, sought_boon_from, brahma)
+(bhagiratha, sought_help_from, shiva)
+(bhagiratha, related_in_canto_42, armsuman)
+(brahma, granted_boon_to, bhagiratha)
+(brahma, advised, bhagiratha)
+(shiva, asked_for_help_by, bhagiratha)
+(ganga, descend_to_earth_for, bhagiratha)
+(bhagiratha, requested_ganga_for, salvation_of_ancestors)
+(bhagiratha, requested, son)
+(brahma, is_in, canto_42)
+(bhagiratha, is_in, canto_42)
+(shiva, is_in, canto_42)
+(ganga, is_in, canto_42)
+(armsuman, is_in, canto_42)
+(bhagiratha, grandson_of, armsuman)
+(bhagiratha, bring_ganga_to_earth, canto_42)
+(armsuman, bring_ganga_to_earth, canto_42)
+(brahma, grants_boon, canto_42)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(bhagiratha, is_in, canto_xlii)
+(brahma, is_in, canto_xlii)
+(shiva, is_in, canto_xlii)
+(ganga, is_in, canto_xlii)
+(armsuman, is_in, canto_xlii)
+
+(bhagiratha, grandson_of, armsuman)
+
+(bhagiratha, requests_boon_from, brahma)
+(brahma, grants_boon_to, bhagiratha)
+(brahma, advises, bhagiratha)
+(brahma, instructs, ganga)
+
+(bhagiratha, propitiate, shiva)
+(shiva, receive, ganga)
+
+(bhagiratha, bring_ganga_to_earth, canto_xlii)
+(brahma, advises_bhagiratha, canto_xlii)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(bhagiratha, performed_austerities, appease_shiva)
+(bhagiratha, pleased_shiva, received_ganga)
+(shiva, received, ganga)
+(ganga, daughter_of, himavan)
+(shiva, contained, ganga)
+(bhagiratha, pleased_shiva, released_ganga)
+(shiva, released, ganga)
+(ganga, divided_into, seven_streams)
+(ganga, followed, bhagiratha)
+(bhagiratha, liberated, ancestors)
+
+(bhagiratha, context_canto_xliii, performed_austerities)
+(shiva, context_canto_xliii, received_ganga)
+(ganga, context_canto_xliii, descended_from_heavens)
+(shiva, context_canto_xliii, contained_ganga)
+(bhagiratha, context_canto_xliii, pleased_shiva)
+(shiva, context_canto_xliii, released_ganga)
+(ganga, context_canto_xliii, divided_into_streams)
+
+(bhagiratha, is_in, canto_xliii)
+(shiva, is_in, canto_xliii)
+(ganga, is_in, canto_xliii)
+(himavan, is_in, canto_xliii)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(bhagiratha, led_procession, ganga_descent)
+(ganga, descended_to_earth, ganga_descent)
+(jahnu, drank_ganga, ganga_descent)
+(gods_and_sages, requested_ganga_release, ganga_descent)
+(jahnu, adopted_daughter, ganga)
+(bhagiratha, related_in_canto_43, ganga)
+(bhagiratha, related_in_canto_43, jahnu)
+(bhagiratha, related_in_canto_43, siva)
+(ganga, related_in_canto_43, jahnu)
+(ganga, related_in_canto_43, siva)
+
+(bhagiratha, is_in, canto_43)
+(ganga, is_in, canto_43)
+(jahnu, is_in, canto_43)
+(siva, is_in, canto_43)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(ganga, descended_to, earth)
+(ganga, captivated, gods)
+(ganga, captivated, celestial_beings)
+(ganga, captivated, sages)
+(ganga, illuminated, sky)
+(ganga, cleansed, cursed_people)
+(ganga, cleansed, banished_people)
+(bhagiratha, led, procession)
+(ganga, followed, bhagiratha)
+(ganga, accompanied, gods)
+(ganga, accompanied, sages)
+(ganga, accompanied, celestial_musicians)
+(ganga, accompanied, serpents)
+(ganga, accompanied, aquatic_creatures)
+(ganga, flooded, jahnu_sacrificial_grounds)
+(shiva, received, ganga)
+(shiva, discharged, ganga)
+(ganga, accompanied, bhagiratha)
+(ganga, liberated, bhagiratha_ancestors)
+(bhagiratha, is_in, canto_xliii)
+(ganga, is_in, canto_xliii)
+(shiva, is_in, canto_xliii)
+(jahnu, is_in, canto_xliii)
+jai_balayya_ew
+jai_balayya_ew
+(jahnu, caused, ganga_flooding)
+(jahnu, drank, ganga_river)
+(bhagiratha, requested, jahnu)
+(jahnu, released, ganga_river)
+(ganga_river, also_known_as, jahnavi)
+(jahnavi, daughter_of, jahnu)
+(ganga_river, followed, bhagiratha_chariot)
+(ganga_river, reached, chasm)
+(sagara_sons, dug, chasm)
+(ganga_river, filled, chasm)
+(ganga_river, descended_into, rasatala)
+(bhagiratha, liberated, ancestors)
+(ganga_river, washed_over, sagara_sons_ashes)
+(sagara_sons, purified_by, ganga_river)
+(sagara_sons, ascended_to, heaven)
+(bhagiratha, pleased, siva)
+(siva, received, ganga_river)
+(ganga_river, branched_into, seven_streams)
+(ganga_river, accompanied, bhagiratha)
+(ganga_river, liberated, bhagiratha_ancestors)
+
+(jahnu, is_in, canto_xliii)
+(bhagiratha, is_in, canto_xliii)
+(ganga_river, is_in, canto_xliii)
+(sagara_sons, is_in, canto_xliii)
+(siva, is_in, canto_xliii)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(bhagiratha, is_son_of, dilipa)
+(dilipa, is_father_of, bhagiratha)
+(bhagiratha, related_in_canto_44, brahma)
+(bhagiratha, related_in_canto_44, ganga)
+(bhagiratha, related_in_canto_44, sagara)
+(bhagiratha, related_in_canto_44, amsuman)
+(sagara, is_father_of, sons_of_sagara)
+(ganga, is_daughter_of, bhagiratha)
+(bhagiratha, brought_ganga_to_earth, canto_44)
+(sagara, unable_bring_ganga_to_earth, canto_44)
+(amsuman, unable_bring_ganga_to_earth, canto_44)
+(dilipa, unable_bring_ganga_to_earth, canto_44)
+(bhagiratha, offered_ganga_water_to_ancestors, canto_44)
+(brahma, blessed_bhagiratha, canto_44)
+(sons_of_sagara, ascended_to_heaven, canto_44)
+(bhagiratha, is_in, canto_44)
+(brahma, is_in, canto_44)
+(ganga, is_in, canto_44)
+(sagara, is_in, canto_44)
+(amsuman, is_in, canto_44)
+(dilipa, is_in, canto_44)
+(sons_of_sagara, is_in, canto_44)
+
+jai_balayya_ew
+jai_balayya_ew
+(bhagiratha, fulfilled_vow, achieved_glory)
+(bhagiratha, brought, ganga_to_earth)
+(brahma, advised, bhagiratha)
+(bhagiratha, offered, ganga_water_to_ancestors)
+(brahma, blessed, bhagiratha)
+(bhagiratha, returned, kingdom)
+(vishwamitra, narrated, ganga_descent_story)
+(rama, listened, ganga_descent_story)
+(people, rejoiced, bhagiratha_return)
+
+(bhagiratha, context_canto_xliv, fulfilled_vow)
+(bhagiratha, context_canto_xliv, brought_ganga)
+(bhagiratha, context_canto_xliv, offered_ganga_water)
+(brahma, context_canto_xliv, advised_bhagiratha)
+(brahma, context_canto_xliv, blessed_bhagiratha)
+(vishwamitra, context_canto_xliv, narrated_story)
+(rama, context_canto_xliv, listened_story)
+
+
+(bhagiratha, is_in, canto_xliv)
+(brahma, is_in, canto_xliv)
+(vishwamitra, is_in, canto_xliv)
+(rama, is_in, canto_xliv)
+jai_balayya_ew
+jai_balayya_ew
+(rama, is_in, canto_xlv)
+(lakshmana, is_in, canto_xlv)
+(viswamitra, is_in, canto_xlv)
+(ganga, is_in, canto_xlv)
+(sagara, is_in, canto_xlv)
+(diti, is_in, canto_xlv)
+(aditi, is_in, canto_xlv)
+(indra, is_in, canto_xlv)
+(dhanvantari, is_in, canto_xlv)
+(shiva, is_in, canto_xlv)
+
+(rama, listens_to, viswamitra_story)
+(lakshmana, listens_to, viswamitra_story)
+(viswamitra, narrates, ganga_descent)
+(viswamitra, narrates, sagara_excavation)
+(viswamitra, narrates, visala_origin)
+(rama, crosses, ganga_river)
+(lakshmana, crosses, ganga_river)
+(rama, reaches, visala_city)
+(lakshmana, reaches, visala_city)
+(viswamitra, leads, rama_lakshmana_to_visala)
+(viswamitra, narrates, churning_of_ocean)
+(shiva, drinks, poison)
+(dhanvantari, appears_from, churning_of_ocean)
+
+
+(rama, related_in_canto_xlv, lakshmana)
+(rama, related_in_canto_xlv, viswamitra)
+(lakshmana, related_in_canto_xlv, viswamitra)
+(diti, related_in_canto_xlv, aditi)
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, tells_story_to, rama)
+(rama, curious_about, visala)
+(viswamitra, assures, rama)
+(diti, has_children, sons_of_diti)
+(aditi, has_children, sons_of_aditi)
+(sons_of_diti, seeks, immortality)
+(sons_of_aditi, seeks, immortality)
+(vasuki, used_as, rope)
+(mount_mandara, used_as, churning_rod)
+(vasuki, releases, halahala)
+(halahala, threatens, universe)
+(gods, requests_help_from, shiva)
+(vishnu, offers_poison_to, shiva)
+(shiva, consumes, halahala)
+(mount_mandara, sinks_into, depths)
+(dhanvantari, emerges_from, churning)
+(apsaras, emerges_from, churning)
+(varuni, emerges_from, churning)
+(uccaihsrava, emerges_from, churning)
+(kaustubha_gem, emerges_from, churning)
+(nectar, emerges_from, churning)
+(gods, defeats, daityas)
+
+(rama, churning_of_ocean, canto_45)
+(viswamitra, churning_of_ocean, canto_45)
+(shiva, drinking_poison, canto_45)
+(vishnu, offering_poison, canto_45)
+(gods, churning_of_ocean, canto_45)
+(daityas, churning_of_ocean, canto_45)
+(sons_of_diti, seeking_immortality, canto_45)
+(sons_of_aditi, seeking_immortality, canto_45)
+
+
+(rama, is_in, canto_45)
+(viswamitra, is_in, canto_45)
+(shiva, is_in, canto_45)
+(vishnu, is_in, canto_45)
+(diti, is_in, canto_45)
+(aditi, is_in, canto_45)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(vishnu, offered, halahala_poison)
+(shiva, consumed, halahala_poison)
+(gods_demons, resumed, churning)
+(vishnu, supported, mount_mandara)
+(dhanvantari, emerged_from, churning)
+(apsaras, emerged_from, churning)
+(varuni, emerged_from, churning)
+(uccaihsrava, emerged_from, churning)
+(kaustubha_gem, emerged_from, churning)
+(nectar_of_immortality, emerged_from, churning)
+(gods, accepted, varuni)
+(demons, rejected, varuni)
+(gods, called, suras)
+(demons, called, asuras)
+(varuni, daughter_of, varuna)
+(vishnu, is_in, canto_45)
+(shiva, is_in, canto_45)
+(dhanvantari, is_in, canto_45)
+(apsaras, is_in, canto_45)
+(varuni, is_in, canto_45)
+(uccaihsrava, is_in, canto_45)
+(kaustubha_gem, is_in, canto_45)
+(gods, is_in, canto_45)
+(demons, is_in, canto_45)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(varuni, is_daughter_of, varuna)
+(varuni, emerged_from_ocean, churning_of_the_ocean)
+(gods, accepted, varuni)
+(demons, refused, varuni)
+(gods, sons_of, aditi)
+(demons, sons_of, diti)
+(uccaihsrava, emerged_from_ocean, churning_of_the_ocean)
+(kaustubha_gem, emerged_from_ocean, churning_of_the_ocean)
+(nectar_of_immortality, emerged_from_ocean, churning_of_the_ocean)
+(gods, fought_against, demons)
+(vishnu, intervened_in, battle_for_nectar)
+(vishnu, secured, nectar_of_immortality)
+(gods, triumphed_over, demons)
+(indra, secured, victory)
+(indra, ruled, three_worlds)
+(varuni, is_in, canto_45)
+(vishnu, is_in, canto_45)
+(indra, is_in, canto_45)
+(gods, is_in, canto_45)
+(demons, is_in, canto_45)
+(aditi, related_in_canto_45, diti)
+(vigwamitra, told_story_to, sri_rama)
+(sri_rama, listened_story_from, vigwamitra)
+
+jai_balayya_ew
+jai_balayya_ew
+(diti, is_wife_of, kasyapa)
+(kasyapa, is_husband_of, diti)
+(diti, is_mother_of, indra_s_half_brother)
+(kasyapa, is_father_of, indra_s_half_brother)
+(indra, is_half_brother_of, indra_s_half_brother)
+(diti, asks_for_powerful_son, kasyapa)
+(kasyapa, grants_boon, diti)
+(diti, performs_austerities, kusaplava)
+(indra, serves, diti)
+(diti, related_in_canto_46, kasyapa)
+(diti, related_in_canto_46, indra)
+(diti, related_in_canto_46, indra_s_half_brother)
+(kasyapa, related_in_canto_46, indra)
+(indra, disrupts_diti_s_austerities, diti)
+
+(diti, grief_for_sons_death, asks_for_powerful_son)
+(kasyapa, diti_s_request, grants_boon)
+(diti, granted_boon, performs_austerities)
+(indra, diti_s_austerities, serves)
+(indra, diti_s_transgression, disrupts_diti_s_austerities)
+
+
+(diti, is_in, canto_46)
+(kasyapa, is_in, canto_46)
+(indra, is_in, canto_46)
+
+jai_balayya_ew
+jai_balayya_ew
+diti,is_in,canto_xlvi
+indra,is_in,canto_xlvi
+kasyapa,is_in,canto_xlvi
+
+diti,husband_of,kasyapa
+indra,son_of,kasyapa
+diti,mother_of,indra
+
+diti,performs,austerities
+diti,requests,son_to_kill_indra
+kasyapa,grants,boon_to_diti
+indra,serves,diti
+diti,falls_asleep,in_impure_posture
+indra,enters,diti_womb
+indra,divides,fetus
+diti,pleads_with,indra
+indra,explains,reason_for_dividing_fetus
+jai_balayya_ew
+jai_balayya_ew
+(diti, appealed_to, indra)
+(diti, fetus_fragmented_by, indra)
+(indra, accepted_proposal_of, diti)
+(maruts, are_sons_of, diti)
+(diti, is_in_canto_xlvii, canto_xlvii)
+(indra, is_in_canto_xlvii, canto_xlvii)
+(maruts, is_in_canto_xlvii, canto_xlvii)
+(visala, founded, visala_city)
+(visala, is_descendant_of, ikshvaku)
+(ikshvaku, is_in_canto_xlvii, canto_xlvii)
+(visala, is_in_canto_xlvii, canto_xlvii)
+(hemacandra, is_descendant_of, ikshvaku)
+(hemacandra, is_in_canto_xlvii, canto_xlvii)
+(sucandra, is_descendant_of, ikshvaku)
+(sucandra, is_in_canto_xlvii, canto_xlvii)
+(dhumrasva, is_descendant_of, ikshvaku)
+(dhumrasva, is_in_canto_xlvii, canto_xlvii)
+(srnjaya, is_descendant_of, ikshvaku)
+(srnjaya, is_in_canto_xlvii, canto_xlvii)
+(sahadeva, is_descendant_of, ikshvaku)
+(sahadeva, is_in_canto_xlvii, canto_xlvii)
+(kusasva, is_descendant_of, ikshvaku)
+(kusasva, is_in_canto_xlvii, canto_xlvii)
+(diti, distressed_by_indra, fetus_fragmented)
+(indra, fragmented_diti_fetus, created_maruts)
+(visala, built_city, visala_city_founded)
+(vigwamitra, told_story_to, sri_rama)
+(sumati, received, viswamitra)
+
+
+
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, related_in_canto_47, rama)
+(viswamitra, related_in_canto_47, sumati)
+(viswamitra, tells_story, visala_city_origin)
+(rama, listens_story, visala_city_origin)
+(diti, performed_austerities, visala)
+(ikshvaku, son_of, visala)
+(visala, founded, visala_city)
+(visala, is_in, canto_47)
+(viswamitra, is_in, canto_47)
+(rama, is_in, canto_47)
+(sumati, is_in, canto_47)
+(diti, is_in, canto_47)
+(ikshvaku, is_in, canto_47)
+(hemacandra, related_in_canto_47, sucandra)
+(sucandra, related_in_canto_47, dhumrasva)
+(dhumrasva, related_in_canto_47, srnjaya)
+(srnjaya, related_in_canto_47, sahadeva)
+(sahadeva, related_in_canto_47, kusasva)
+(kusasva, son_of, somadatta)
+(somadatta, son_of, kakutstha)
+(kakutstha, son_of, sumati)
+(sumati, greets, viswamitra)
+
+
+jai_balayya_ew
+jai_balayya_ew
+rama_is_in_canto_xlviii
+lakshmana_is_in_canto_xlviii
+viswamitra_is_in_canto_xlviii
+sumati_is_in_canto_xlviii
+gautama_is_in_canto_xlviii
+ahalya_is_in_canto_xlviii
+janaka_is_in_canto_xlviii
+dasaratha_is_son_of_rama
+dasaratha_is_son_of_lakshmana
+rama_related_in_canto_xlviii_lakshmana
+rama_related_in_canto_xlviii_viswamitra
+rama_related_in_canto_xlviii_sumati
+viswamitra_related_in_canto_xlviii_sumati
+viswamitra_related_in_canto_xlviii_gautama
+viswamitra_related_in_canto_xlviii_ahalya
+gautama_is_husband_of_ahalya
+rama_travels_to_mithila
+rama_stays_at_visala
+rama_inquires_hermitage
+viswamitra_explains_hermitage_story
+viswamitra_explains_gautama_curse
+ahalya_cursed_by_gautama
+sumati_hosts_rama
+jai_balayya_ew
+jai_balayya_ew
+(rama, is_in, canto_xlviii)
+(viswamitra, is_in, canto_xlviii)
+(gautama, is_in, canto_xlviii)
+(ahalya, is_in, canto_xlviii)
+(indra, is_in, canto_xlviii)
+(janaka, is_in, canto_xlviii)
+(sumati, is_in, canto_xlviii)
+
+(rama, travels_to, mithila)
+(rama, inquires_about, hermitage)
+
+(viswamitra, explains_story, hermitage)
+(viswamitra, accompanies, rama)
+
+(gautama, husband_of, ahalya)
+(gautama, curses, indra)
+
+(ahalya, wife_of, gautama)
+(ahalya, seduced_by, indra)
+
+(indra, disguises_as, gautama)
+(indra, seduces, ahalya)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(indra, is_in, canto_xlviii)
+(gautama, is_in, canto_xlviii)
+(ahalya, is_in, canto_xlviii)
+(rama, is_in, canto_xlviii)
+(dasaratha, is_in, canto_xlviii)
+(viswamitra, is_in, canto_xlviii)
+(janaka, is_in, canto_xlviii)
+(sumati, is_in, canto_xlviii)
+
+(indra, confronted_by, gautama)
+(indra, cursed_by, gautama)
+(ahalya, cursed_by, gautama)
+(ahalya, husband_of, gautama)
+(rama, son_of, dasaratha)
+(ahalya, redeemed_by, rama)
+
+(indra, disguised_as_sage, cursed_by_gautama)
+(gautama, discovers_indra_with_ahalya, curses_indra)
+(ahalya, cursed_by_gautama, redeemed_by_rama)
+(rama, visits_hermitage, redeems_ahalya)
+(gautama, abandons_hermitage, goes_to_himalayas)
+
+(rama, travels_to_mithila, canto_xlviii)
+(rama, stays_at_visala, canto_xlviii)
+(viswamitra, accompanies_rama, canto_xlviii)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(indra, deprived_of_manhood, canto_xlix)
+(indra, appealed_to_gods, canto_xlix)
+(indra, cursed_by, gautama)
+(gautama, cursed, indra)
+(indra, pleaded_with, gods)
+(agni, led, gods)
+(gods, consulted, manes)
+(manes, proposed_solution_for, indra)
+(indra, received, ram_testicles)
+(ahalya, suffered_curse, canto_xlix)
+(ahalya, cursed_by, gautama)
+(gautama, cursed, ahalya)
+(viswamitra, urged, rama)
+(rama, entered, hermitage)
+(rama, redeemed, ahalya)
+(ahalya, redeemed_by, rama)
+(lakshmana, accompanied, rama)
+(viswamitra, led, rama)
+(rama, is_in, canto_xlix)
+(lakshmana, is_in, canto_xlix)
+(viswamitra, is_in, canto_xlix)
+(indra, is_in, canto_xlix)
+(ahalya, is_in, canto_xlix)
+(gautama, is_in, canto_xlix)
+(agni, is_in, canto_xlix)
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, is_in, canto_xlix)
+(lakshmana, is_in, canto_xlix)
+(viswamitra, is_in, canto_xlix)
+(ahalya, is_in, canto_xlix)
+(gautama, is_in, canto_xlix)
+(indra, is_in, canto_xlix)
+
+(rama, related_in_canto_xlix, lakshmana)
+(rama, related_in_canto_xlix, viswamitra)
+(rama, related_in_canto_xlix, ahalya)
+(rama, related_in_canto_xlix, gautama)
+(lakshmana, related_in_canto_xlix, viswamitra)
+(lakshmana, related_in_canto_xlix, ahalya)
+(lakshmana, related_in_canto_xlix, gautama)
+(viswamitra, related_in_canto_xlix, ahalya)
+(viswamitra, related_in_canto_xlix, gautama)
+(ahalya, husband_of, gautama)
+
+
+(rama, meets_ahalya, relieved_ahalya_from_curse)
+(ahalya, freed_from_curse, by_rama)
+(gautama, reunited_with, ahalya)
+(indra, receives, ram_testicles)
+(rama, departs_for, mithila)
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, is_in, canto_l)
+(lakshmana, is_in, canto_l)
+(viswamitra, is_in, canto_l)
+(janaka, is_in, canto_l)
+(satananda, is_in, canto_l)
+
+(rama, travels_with, lakshmana)
+(rama, travels_with, viswamitra)
+(rama, observes, sacrificial_preparations)
+(rama, requests, resting_place)
+
+(viswamitra, guides, rama)
+(viswamitra, guides, lakshmana)
+(viswamitra, selects, resting_place)
+(viswamitra, greets, janaka)
+(viswamitra, inquires_about, sacrifice)
+
+(janaka, greets, viswamitra)
+(janaka, offers_hospitality, viswamitra)
+(janaka, expresses_gratitude, viswamitra)
+(janaka, hosts, viswamitra)
+
+(satananda, priest_of, janaka)
+
+
+(rama, reaches_mithila, canto_l)
+(viswamitra, reaches_mithila, canto_l)
+(lakshmana, reaches_mithila, canto_l)
+(janaka, receives_guests, canto_l)
+(viswamitra, attends_sacrifice, canto_l)
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, is_in, canto_l)
+(lakshmana, is_in, canto_l)
+(janaka, is_in, canto_l)
+(viswamitra, is_in, canto_l)
+(dasaratha, is_in, canto_l)
+(satananda, is_in, canto_l)
+(ahalya, is_in, canto_l)
+(gautama, is_in, canto_l)
+
+(rama, is_son_of, dasaratha)
+(lakshmana, is_son_of, dasaratha)
+(rama, is_brother_of, lakshmana)
+(lakshmana, is_brother_of, rama)
+(satananda, related_in_canto_l, janaka)
+
+(rama, visiting_mithila, meets_janaka)
+(lakshmana, visiting_mithila, meets_janaka)
+(janaka, hosting_viswamitra, inquires_about_princes)
+(viswamitra, narrates_journey, reveals_princes_identity)
+(rama, travels_with_viswamitra, visits_mithila)
+(lakshmana, travels_with_viswamitra, visits_mithila)
+(rama, journey_with_viswamitra, defeats_demons)
+(lakshmana, journey_with_viswamitra, defeats_demons)
+(rama, journey_with_viswamitra, meets_ahalya)
+(lakshmana, journey_with_viswamitra, meets_ahalya)
+(rama, journey_with_viswamitra, meets_gautama)
+(lakshmana, journey_with_viswamitra, meets_gautama)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, related_in_canto_l, janaka)
+(viswamitra, related_in_canto_l, rama)
+(viswamitra, related_in_canto_l, lakshmana)
+(rama, related_in_canto_l, lakshmana)
+(janaka, related_in_canto_l, satananda)
+(rama, is_in, canto_l)
+(lakshmana, is_in, canto_l)
+(viswamitra, is_in, canto_l)
+(janaka, is_in, canto_l)
+(satananda, is_in, canto_l)
+(rama, journey_siddhashrama, stay_siddhashrama)
+(rama, defeated, demons)
+(rama, visited, visala)
+(rama, met, ahalya)
+(rama, met, gautama)
+(rama, arrived_in, mithila)
+(lakshmana, journey_siddhashrama, stay_siddhashrama)
+(lakshmana, defeated, demons)
+(lakshmana, visited, visala)
+(lakshmana, met, ahalya)
+(lakshmana, met, gautama)
+(lakshmana, arrived_in, mithila)
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, redeemed, ahalya)
+(viswamitra, recounted_story_to, satananda)
+(satananda, son_of, gautama)
+(satananda, inquired_about, ahalya)
+(ahalya, mother_of, satananda)
+(ahalya, met, rama)
+(ahalya, offered_hospitality_to, rama)
+(viswamitra, related_story_of, indra)
+(indra, transgressed_against, ahalya)
+(rama, reunited, gautama_ahalya)
+(gautama, husband_of, ahalya)
+(gautama, welcomed, rama)
+(gautama, honored, rama)
+(viswamitra, mentor_of, rama)
+(satananda, welcomed, rama)
+(satananda, praised, rama)
+(satananda, revered, viswamitra)
+
+(rama, redemption_of_ahalya, canto_1)
+(ahalya, redemption_by_rama, canto_1)
+(viswamitra, narration_to_satananda, canto_1)
+(satananda, inquiry_about_parents, canto_1)
+(gautama, reunion_with_ahalya, canto_1)
+(indra, transgression_against_ahalya, canto_1)
+
+(rama, is_in, canto_1)
+(ahalya, is_in, canto_1)
+(viswamitra, is_in, canto_1)
+(satananda, is_in, canto_1)
+(gautama, is_in, canto_1)
+(indra, is_in, canto_1)
+jai_balayya_ew
+jai_balayya_ew
+(satananda, welcomes, rama)
+(viswamitra, is_teacher_of, rama)
+(viswamitra, ruled_kingdom_for, thousands_of_years)
+(viswamitra, visited, vasistha)
+(rama, is_in, canto_1)
+(satananda, is_in, canto_1)
+(viswamitra, is_in, canto_1)
+(vasistha, is_in, canto_1)
+(rama, listens_to_story_of, viswamitra)
+(satananda, narrates_story_of, viswamitra)
+(viswamitra, performed, rigorous_asceticism)
+(viswamitra, has, immense_power)
+(vasistha, owns, hermitage)
+(hermitage, has, diverse_flora_and_fauna)
+(hermitage, is_visited_by, celestial_beings)
+
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, visited, hermitage_of_vasistha)
+(vasistha, owns, hermitage_of_vasistha)
+(hermitage_of_vasistha, inhabited_by, deer)
+(hermitage_of_vasistha, inhabited_by, birds)
+(hermitage_of_vasistha, frequented_by, gods)
+(hermitage_of_vasistha, frequented_by, demons)
+(hermitage_of_vasistha, frequented_by, gandharvas)
+(hermitage_of_vasistha, frequented_by, kinnaras)
+(hermitage_of_vasistha, home_to, brahmana_rsis)
+(hermitage_of_vasistha, home_to, celestial_sages)
+(hermitage_of_vasistha, home_to, valakhilyas)
+(hermitage_of_vasistha, home_to, vaikhanasas)
+(valakhilyas, practice, prayer_and_ritual_offerings)
+(viswamitra, compared, hermitage_to_brahmaloka)
+(viswamitra, is_in, canto_1)
+(vasistha, is_in, canto_1)
+
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, is_in, canto_1)
+(vasistha, is_in, canto_1)
+(viswamitra, meets, vasistha)
+(vasistha, welcomes, viswamitra)
+(viswamitra, inquires_wellbeing, vasistha)
+(vasistha, inquires_wellbeing, viswamitra)
+(viswamitra, accepts_hospitality, vasistha)
+(vasistha, offers_hospitality, viswamitra)
+(viswamitra, has, army)
+(viswamitra, has, subjects)
+(viswamitra, has, servants)
+(viswamitra, has, enemies)
+(viswamitra, has, treasury)
+(viswamitra, has, allies)
+(viswamitra, has, sons)
+(viswamitra, has, grandsons)
+(viswamitra, governs, kingdom)
+(vasistha, has, students)
+(vasistha, performs, sacred_rituals)
+jai_balayya_ew
+jai_balayya_ew
+(vasistha, offered_hospitality, viswamitra)
+(viswamitra, accepted_hospitality, vasistha)
+(vasistha, insisted_on_hospitality, viswamitra)
+(vasistha, owns, sabala)
+(sabala, prepared_feast, viswamitra)
+(dasaratha, related_in_canto_1, vasistha)
+(dasaratha, related_in_canto_1, viswamitra)
+(vasistha, is_in, canto_1)
+(viswamitra, is_in, canto_1)
+(sabala, is_in, canto_1)
+(vasistha, hosted_feast, viswamitra)
+
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, hosted_by, vasistha)
+(vasistha, owns, sabala)
+(viswamitra, offered_cows_for, sabala)
+(vasistha, refused_offer_from, viswamitra)
+(vasistha, needs, sabala)
+(viswamitra, is_in, canto_1)
+(vasistha, is_in, canto_1)
+(sabala, is_in, canto_1)
+(viswamitra, impressed_by_sabala, offered_cows)
+(vasistha, sabala_essential, refused_offer)
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, demands, sabala)
+(vasistha, refuses, viswamitra)
+(vasistha, owns, sabala)
+(sabala, sustains, vasistha)
+(sabala, enables_offerings, gods)
+(sabala, enables_offerings, ancestors)
+(sabala, fuels, sacred_rituals)
+(sabala, source_of_spiritual_practices, vasistha)
+(viswamitra, offers, elephants)
+(viswamitra, offers, chariots)
+(viswamitra, offers, steeds)
+(viswamitra, offers, cows)
+(vasistha, depends_on, sabala)
+(vasistha, refuses, viswamitra)
+
+(viswamitra, demanding_sabala, canto_1)
+(vasistha, refusing_sabala, canto_1)
+
+(viswamitra, is_in, canto_1)
+(vasistha, is_in, canto_1)
+(sabala, is_in, canto_1)
+jai_balayya_ew
+jai_balayya_ew
+(vasistha, relies_on, sabala)
+(vasistha, refused_to_part_with, sabala)
+(sabala, is_important_to, vasistha)
+(vasistha, values, sabala)
+(vasistha, is_in, canto_unknown)
+(sabala, is_in, canto_unknown)
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, attempts_to_steal, sabala)
+(vasistha, owns, sabala)
+(sabala, questions, vasistha)
+(vasistha, reassures, sabala)
+(viswamitra, has, army)
+(vasistha, is_brahmana, None)
+(viswamitra, is_kshatriya, None)
+(sabala, returns_to, vasistha)
+(sabala, is_cow, None)
+
+(viswamitra, attempts_to_steal_cow, canto_liv)
+(vasistha, protects_cow, canto_liv)
+(sabala, escapes_capture, canto_liv)
+
+(viswamitra, is_in, canto_liv)
+(vasistha, is_in, canto_liv)
+(sabala, is_in, canto_liv)
+jai_balayya_ew
+jai_balayya_ew
+(sabala, seeks_help_from, vasistha)
+(vasistha, advises, sabala)
+(sabala, creates, pahlava_army)
+(pahlava_army, attacks, viswamitra_army)
+(viswamitra, destroys, pahlava_army)
+(sabala, creates, saka_army)
+(saka_army, attacks, viswamitra_army)
+(viswamitra, destroys, saka_army)
+(sabala, related_in_canto_54, vasistha)
+(sabala, related_in_canto_54, viswamitra)
+(vasistha, related_in_canto_54, viswamitra)
+(sabala, is_in, canto_54)
+(vasistha, is_in, canto_54)
+(viswamitra, is_in, canto_54)
+(sabala, displays_power, canto_54)
+(viswamitra, displays_power, canto_54)
+(vasistha, shows_wisdom, canto_54)
+
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, fought_against, vasistha)
+(vasistha, defeated, viswamitra)
+(sabala, created, warriors)
+(vasistha, defeated, sabala)
+(viswamitra, father_of, viswamitra_sons)
+(viswamitra_sons, sons_of, viswamitra)
+(viswamitra, performed, austerities)
+(viswamitra, received_boon_from, shiva)
+(shiva, granted_boon_to, viswamitra)
+(viswamitra, attacked, vasistha)
+(vasistha, destroyed, viswamitra_army)
+(vasistha, killed, viswamitra_sons)
+
+(viswamitra, army_destruction, canto_lv)
+(vasistha, victory_over_viswamitra, canto_lv)
+(viswamitra, sons_death, canto_lv)
+(viswamitra, himalayan_retreat, canto_lv)
+(viswamitra, austerities, canto_lv)
+(shiva, boon_granting, canto_lv)
+
+
+(viswamitra, is_in, canto_lv)
+(vasistha, is_in, canto_lv)
+(sabala, is_in, canto_lv)
+(shiva, is_in, canto_lv)
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, performed_austerities, himalayas)
+(viswamitra, received_boon, lord_shiva)
+(viswamitra, gained_knowledge, weaponry_and_mystic_missiles)
+(viswamitra, attacked, vasistha_hermitage)
+(vasistha, defended, hermitage)
+(vasistha, condemned, viswamitra)
+(viswamitra, related_in_canto_55, vasistha)
+(viswamitra, is_in, canto_55)
+(vasistha, is_in, canto_55)
+(lord_shiva, is_in, canto_55)
+(viswamitra, exterminated_army, sabala)
+(viswamitra, reduced_to_ashes, sons_of_sabala)
+(vasistha, defeated, viswamitra_army)
+(viswamitra, retired_to, himalayas)
+(viswamitra, received_missiles_from, lord_shiva)
+(viswamitra, attacked, vasistha_hermitage)
+(vasistha, defeated, viswamitra)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, attacked, vasistha_hermitage)
+(vasistha, reassured, disciples)
+(vasistha, promised_to_defeat, viswamitra)
+(viswamitra, destroyed, vasistha_hermitage)
+(vasistha, prepared_to_confront, viswamitra)
+(vasistha, is_in, canto_lv)
+(viswamitra, is_in, canto_lv)
+
+(viswamitra, army_destroyed, sabala_sons)
+(vasistha, defeated, viswamitra_army)
+(viswamitra, retired_to, himalayas)
+(viswamitra, received_missiles_from, lord_siva)
+(viswamitra, attacked, vasistha_hermitage)
+(vasistha, confronted, viswamitra)
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, challenged, vasistha)
+(vasistha, rebuked, viswamitra)
+(viswamitra, warrior, vasistha)
+(vasistha, brahmana, viswamitra)
+(viswamitra, used_weapons, vasistha)
+(vasistha, neutralized_weapons, viswamitra)
+(viswamitra, used_missile_of_varuna, vasistha)
+(viswamitra, used_missile_of_rudra, vasistha)
+(viswamitra, used_missile_of_indra, vasistha)
+(viswamitra, used_missile_of_shiva, vasistha)
+(viswamitra, challenged_brahmanical_power, vasistha)
+(vasistha, demonstrated_brahmanical_power, viswamitra)
+(viswamitra, condemned_military_strength, vasistha)
+(viswamitra, decided_to_practice_austerities, vasistha)
+(viswamitra, attain_brahmanhood, vasistha)
+
+(viswamitra, canto_lvi, challenged_vasistha)
+(vasistha, canto_lvi, demonstrated_brahmanical_power)
+(viswamitra, canto_lvi, used_various_missiles)
+
+(viswamitra, is_in, canto_lvi)
+(vasistha, is_in, canto_lvi)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, attacked, vasistha)
+(vasistha, neutralized_attacks, viswamitra)
+(viswamitra, used, brahmastra)
+(vasistha, absorbed, brahmastra)
+(vasistha, displayed, immense_power)
+(sages, praised, vasistha)
+(viswamitra, accepted, defeat)
+(viswamitra, realized, superiority_of_brahmanical_power)
+(viswamitra, decided_to_attain, brahmanhood)
+
+(viswamitra, battle_against_vasistha, used_various_weapons)
+(vasistha, battle_against_viswamitra, neutralized_all_weapons)
+(viswamitra, brahmastra_attack, weapon_proved_ineffective)
+(vasistha, brahmastra_attack, absorbed_the_weapon)
+(vasistha, display_of_power, transformed_into_fierce_form)
+
+(viswamitra, is_in, canto_56)
+(vasistha, is_in, canto_56)
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, realized_supremacy, spiritual_strength)
+(viswamitra, condemned, military_strength)
+(viswamitra, decided_to_practice, austerities)
+(viswamitra, goal, brahmanhood)
+(viswamitra, fought_against, vasistha)
+(vasistha, possessed, brahmanical_power)
+(vasistha, defeated, viswamitra)
+(viswamitra, is_in, canto_lvi)
+(vasistha, is_in, canto_lvi)
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, defeated_by, vasistha)
+(viswamitra, retreated_to, south)
+(viswamitra, father_of, havispanda)
+(viswamitra, father_of, madhuspanda)
+(viswamitra, father_of, drdhanetra)
+(viswamitra, father_of, maharatha)
+(havispanda, siblings, madhuspanda)
+(havispanda, siblings, drdhanetra)
+(havispanda, siblings, maharatha)
+(madhuspanda, siblings, drdhanetra)
+(madhuspanda, siblings, maharatha)
+(drdhanetra, siblings, maharatha)
+(brahma, declared_royal_sage, viswamitra)
+(viswamitra, desired, brahmanhood)
+(trisanku, consulted, vasistha)
+(vasistha, son_of, vasistha_sons)
+(trisanku, traveled_to, south)
+(trisanku, sought_help_from, vasistha_sons)
+
+(viswamitra, performed_austerities, intense_austerities)
+(viswamitra, achieved_status, royal_sage)
+(trisanku, desired, ascend_to_heaven)
+(vasistha, deemed_impossible, ascend_to_heaven)
+(vasistha_sons, performed, ascetic_practices)
+
+(viswamitra, is_in, canto_1)
+(vasistha, is_in, canto_1)
+(havispanda, is_in, canto_1)
+(madhuspanda, is_in, canto_1)
+(drdhanetra, is_in, canto_1)
+(maharatha, is_in, canto_1)
+(brahma, is_in, canto_1)
+(trisanku, is_in, canto_1)
+(vasistha_sons, is_in, canto_1)
+
+jai_balayya_ew
+jai_balayya_ew
+(brahma, is_in, canto_1)
+(viswamitra, is_in, canto_1)
+(trisanku, is_in, canto_1)
+(vasistha, is_in, canto_1)
+
+(viswamitra, acknowledged_by, brahma)
+(viswamitra, declared_royal_sage_by, brahma)
+(trisanku, desired_heavenly_ascent, trisanku_requests_heavenly_ascent)
+(trisanku, rejected_by, vasistha)
+(trisanku, sought_help_from, vasistha_sons)
+(vasistha, father_of, vasistha_sons)
+(vasistha_sons, sons_of, vasistha)
+
+
+(viswamitra, intense_austerities, brahma_acknowledges_viswamitra)
+(viswamitra, yearning_for_brahmanhood, viswamitra_disappointed)
+(trisanku, denied_ritual, trisanku_seeks_vasistha_sons)
+(vasistha_sons, approached_by_trisanku, trisanku_pleads_with_vasistha_sons)
+
+jai_balayya_ew
+jai_balayya_ew
+(king_trisanku, cursed_by, vashistha_sons)
+(king_trisanku, seeks_help_from, viswamitra)
+(king_trisanku, rejected_by, vashistha)
+(king_trisanku, cursed_to_become, chandala)
+(king_trisanku, abandoned_by, courtiers)
+(king_trisanku, abandoned_by, citizens)
+(king_trisanku, seeks_sacrifice_from, vashistha)
+(king_trisanku, seeks_sacrifice_from, viswamitra)
+(vashistha, supports, ikshvaku_dynasty)
+(vashistha_sons, cursed, king_trisanku)
+(vashistha_sons, rejected, king_trisanku)
+(viswamitra, helps, king_trisanku)
+(king_trisanku, related_in_canto_58, vashistha)
+(king_trisanku, related_in_canto_58, vashistha_sons)
+(king_trisanku, related_in_canto_58, viswamitra)
+
+(king_trisanku, seeks_heavenly_ascension, rejected_by_vashistha)
+(king_trisanku, seeks_heavenly_ascension, cursed_by_vashistha_sons)
+(king_trisanku, seeks_heavenly_ascension, seeks_help_from_viswamitra)
+
+(king_trisanku, is_in, canto_58)
+(vashistha, is_in, canto_58)
+(vashistha_sons, is_in, canto_58)
+(viswamitra, is_in, canto_58)
+jai_balayya_ew
+jai_balayya_ew
+(trisanku, curse_transformed, changed_state)
+(trisanku, abandoned_by_courtiers_citizens, alone_distressed)
+(trisanku, sought_help, viswamitra)
+(viswamitra, felt_compassion, trisanku)
+(trisanku, recounted_ordeal, viswamitra)
+(trisanku, desired, ascend_to_heaven_bodily)
+(trisanku, faced, failed_sacrifices)
+(trisanku, rejected_by, vasistha)
+(trisanku, rejected_by, vasistha_sons)
+(vasistha_sons, cursed, trisanku)
+(trisanku, cursed_to, chandala)
+(trisanku, pleaded_with, viswamitra)
+(trisanku, believed_in, power_of_fate)
+(trisanku, is_in, canto_lviii)
+(viswamitra, is_in, canto_lviii)
+(vasistha, is_in, canto_lviii)
+(vasistha_sons, related_in_canto_lviii, vasistha)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(trisanku, seeks_help_from, viswamitra)
+(trisanku, cursed_by, vasistha_sons)
+(trisanku, abandoned_by, vasistha_sons)
+(vasistha_sons, repulsed, trisanku)
+(trisanku, transformed_to_candala, curse)
+(trisanku, is_in, canto_lviii)
+(viswamitra, is_in, canto_lviii)
+(vasistha_sons, is_in, canto_lviii)
+(trisanku, curse_of_vasistha_sons, transformed_to_candala)
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, reassured, trisanku)
+(viswamitra, promised_protection, trisanku)
+(viswamitra, summoned, sages)
+(viswamitra, instructed, sons)
+(viswamitra, cursed, vasistha_sons)
+(vasistha, refused_sacrifice, trisanku)
+(vasistha_sons, insulted, viswamitra)
+(mahodya, cursed_to_become, nisada)
+(viswamitra, is_in, canto_lix)
+(trisanku, is_in, canto_lix)
+(vasistha, is_in, canto_lix)
+(vasistha_sons, is_in, canto_lix)
+(mahodya, is_in, canto_lix)
+(viswamitra, conducts_sacrifice_for, trisanku)
+(vasistha, refuses_sacrifice_for, trisanku)
+(viswamitra, curses, vasistha_sons)
+(trisanku, degraded_status, trisanku)
+(viswamitra, related_in_canto_lix, trisanku)
+(viswamitra, related_in_canto_lix, vasistha)
+(viswamitra, related_in_canto_lix, vasistha_sons)
+(viswamitra, related_in_canto_lix, mahodya)
+
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, invited, sages)
+(vasistha, refused_invitation, viswamitra)
+(vasistha_sons, refused_invitation, viswamitra)
+(mahodaya, refused_invitation, viswamitra)
+(viswamitra, cursed, vasistha_sons)
+(viswamitra, cursed, mahodaya)
+(vasistha, is_father_of, vasistha_sons)
+(viswamitra, is_in, canto_lix)
+(trisanku, is_in, canto_lix)
+(vasistha, is_in, canto_lix)
+(vasistha_sons, is_in, canto_lix)
+(mahodaya, is_in, canto_lix)
+(viswamitra, helped, trisanku)
+(viswamitra, conducted_sacrifice_for, trisanku)
+(trisanku, requested_sacrifice, viswamitra)
+(sages, related_in_canto_lix, viswamitra)
+(sages, related_in_canto_lix, trisanku)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, witnessed_downfall_of, vasistha_sons)
+(viswamitra, witnessed_downfall_of, mahodaya)
+(trisanku, descendant_of, ikswaku)
+(trisanku, sought_help_from, viswamitra)
+(viswamitra, requested_sacrifice_from, sages)
+(sages, appointed, viswamitra)
+(viswamitra, is_chief_priest_of, sacrifice)
+(viswamitra, angered_by, gods)
+(viswamitra, sent_to_heaven, trisanku)
+(indra, expelled_from_heaven, trisanku)
+(viswamitra, stopped_in_air, trisanku)
+(viswamitra, created, new_heaven)
+(gods, granted_desire_to, viswamitra)
+
+
+(viswamitra, canto_60, commenced_sacrifice)
+(trisanku, canto_60, ascended_to_heaven)
+(gods, canto_60, failed_to_appear)
+(viswamitra, canto_60, used_spiritual_power)
+
+
+
+(viswamitra, is_in, canto_60)
+(trisanku, is_in, canto_60)
+(ikswaku, is_in, canto_60)
+(vasistha_sons, is_in, canto_60)
+(mahodaya, is_in, canto_60)
+(sages, is_in, canto_60)
+(indra, is_in, canto_60)
+(gods, is_in, canto_60)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, angered_by_gods, sends_trishanku_to_heaven)
+(trishanku, sent_to_heaven_by, viswamitra)
+(indra, rejects_trishanku, sends_back_to_earth)
+(trishanku, rejected_by_indra, falls_back_to_earth)
+(viswamitra, angered_by_indra, creates_new_constellations)
+(gods, plead_with, viswamitra)
+(demons, plead_with, viswamitra)
+(sages, plead_with, viswamitra)
+(viswamitra, fulfills_promise_to, trishanku)
+
+(viswamitra, related_in_canto_60, trishanku)
+(viswamitra, related_in_canto_60, indra)
+(viswamitra, related_in_canto_60, gods)
+(viswamitra, related_in_canto_60, demons)
+(viswamitra, related_in_canto_60, sages)
+(trishanku, related_in_canto_60, indra)
+
+
+(viswamitra, is_in, canto_60)
+(trishanku, is_in, canto_60)
+(indra, is_in, canto_60)
+(gods, is_in, canto_60)
+(demons, is_in, canto_60)
+(sages, is_in, canto_60)
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, performed_sacrifice_for, trisanku)
+(viswamitra, sent_to_heaven, trisanku)
+(indra, expelled_from_heaven, trisanku)
+(viswamitra, stopped_in_mid_air, trisanku)
+(viswamitra, created, new_heaven)
+(gods, conceded_to, viswamitra)
+(trisanku, ascended_to, heaven)
+
+(viswamitra, creates_new_constellations, creates_new_constellations)
+(trisanku, cursed_by, preceptor)
+(gods, concerned_about, trisanku's_ascension)
+(viswamitra, kept_promise_to, trisanku)
+
+(viswamitra, is_in, canto_60)
+(trisanku, is_in, canto_60)
+(indra, is_in, canto_60)
+
+
+jai_balayya_ew
+jai_balayya_ew
+viswamitra,suggested_moving_west,sages
+viswamitra,is_in,canto_lxi
+ambarisa,performed,horse_sacrifice
+ambarisa,searched_for,sacrificial_animal
+ambarisa,is_in,canto_lxi
+rcika,encountered,ambarisa
+rcika,is_in,canto_lxi
+indra,stole,sacrificial_animal
+indra,is_in,canto_lxi
+sunahsepa,offered_himself,as_sacrifice
+sunahsepa,is_in,canto_lxi
+ambarisa,returned_with,sunahsepa
+sunahsepa,son_of,rcika
+rcika,father_of,sunahsepa
+ambarisa,king_of,ayodhya
+
+jai_balayya_ew
+jai_balayya_ew
+(ambarisha, requests_son_for_sacrifice, rcika)
+(rcika, declines_to_sell_eldest_son, ambarisha)
+(rcika, wife_of, rcika_wife)
+(rcika_wife, declines_to_sell_youngest_son, ambarisha)
+(sunahsepa, son_of, rcika)
+(sunahsepa, son_of, rcika_wife)
+(sunahsepa, offers_himself_for_sacrifice, ambarisha)
+(ambarisha, buys_sunahsepa, rcika)
+(ambarisha, performs_sacrifice_with_sunahsepa, sunahsepa)
+
+
+(ambarisha, searching_for_sacrifice, animal_sacrifice)
+(rcika, refusing_to_sell_sons, son_sacrifice)
+(rcika_wife, refusing_to_sell_sons, son_sacrifice)
+(sunahsepa, volunteering_for_sacrifice, son_sacrifice)
+(ambarisha, buying_sunahsepa_for_sacrifice, son_sacrifice)
+
+
+
+(ambarisha, is_in, canto_lxi)
+(rcika, is_in, canto_lxi)
+(sunahsepa, is_in, canto_lxi)
+(rcika_wife, is_in, canto_lxi)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(ambarisha, is_in, canto_lxi)
+(sunahsepa, is_in, canto_lxi)
+(rcika, is_in, canto_lxi)
+(indra, is_in, canto_lxi)
+
+(ambarisha, king_of, kingdom)
+(ambarisha, performed, sacrifice)
+(indra, stole, sacrificial_animal)
+(ambarisha, bought, sunahsepa)
+(rcika, father_of, sunahsepa)
+(sunahsepa, son_of, rcika)
+
+
+(ambarisha, needs_human_sacrifice, sacrifice)
+(sunahsepa, sold_as_sacrifice, sacrifice)
+
+jai_balayya_ew
+jai_balayya_ew
+ambarisa, is_in, canto_lxii
+sunahsepa, is_in, canto_lxii
+viswamitra, is_in, canto_lxii
+madhucchanda, is_in, canto_lxii
+
+sunahsepa, nephew_of, viswamitra
+viswamitra, uncle_of, sunahsepa
+madhucchanda, son_of, viswamitra
+viswamitra, father_of, madhucchanda
+
+sunahsepa, pleaded_with, viswamitra
+viswamitra, asked_sons_for_sacrifice, madhucchanda
+madhucchanda, rejected_father_request, viswamitra
+viswamitra, enraged_by_sons, madhucchanda
+
+ambarisa, performing_sacrifice, sunahsepa_sacrifice
+sunahsepa, facing_sacrifice, sunahsepa_sacrifice
+viswamitra, mediating_at, puskara
+sunahsepa, seeking_help, escape_sacrifice
+viswamitra, teaching_prayers, sunahsepa_release
+sunahsepa, recited_prayers, sunahsepa_release
+ambarisa, completed_sacrifice, sunahsepa_release
+jai_balayya_ew
+jai_balayya_ew
+(sunahsepa, appealed_to, viswamitra)
+(ambarisa, performed, sacrifice)
+(viswamitra, protected, sunahsepa)
+(madhucchanda, son_of, viswamitra)
+(madhucchanda, questioned, viswamitra)
+(viswamitra, cursed, madhucchanda)
+(viswamitra, instructed, sunahsepa)
+(sunahsepa, recited_hymns_to, indra)
+(sunahsepa, recited_hymns_to, vishnu)
+(sunahsepa, urged, ambarisa)
+(ambarisa, bound, sunahsepa)
+(sunahsepa, praised, indra)
+(sunahsepa, praised, vishnu)
+(indra, granted_long_life_to, sunahsepa)
+(ambarisa, completed, sacrifice)
+(indra, blessed, ambarisa)
+
+(sunahsepa, escape_from_sacrifice, canto_lxii)
+(viswamitra, teaching_prayers, canto_lxii)
+(ambarisa, conducting_sacrifice, canto_lxii)
+(indra, granting_boon, canto_lxii)
+
+(sunahsepa, is_in, canto_lxii)
+(viswamitra, is_in, canto_lxii)
+(ambarisa, is_in, canto_lxii)
+(madhucchanda, is_in, canto_lxii)
+(indra, is_in, canto_lxii)
+(vishnu, is_in, canto_lxii)
+jai_balayya_ew
+jai_balayya_ew
+ambarisa_king,performs,sacrifice
+sunahsepa,bound_to,sacrificial_post
+sunahsepa,prays_to,indra
+sunahsepa,prays_to,vishnu
+indra,grants,long_life
+indra,grants,long_life_to,sunahsepa
+ambarisa_king,receives,blessings
+viswamitra,performs,meditation
+sunahsepa,requests_help_from,viswamitra
+viswamitra,teaches,prayer
+sunahsepa,released_from,bondage
+
+sunahsepa,is_in,canto_lxii
+ambarisa_king,is_in,canto_lxii
+viswamitra,is_in,canto_lxii
+indra,is_in,canto_lxii
+vishnu,is_in,canto_lxii
+
+
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, is_in, canto_lxiii)
+(brahma, is_in, canto_lxiii)
+(menaka, is_in, canto_lxiii)
+(indra, is_in, canto_lxiii)
+
+(viswamitra, receives_title_rishi, brahma)
+(brahma, bestows_title_rishi, viswamitra)
+(indra, sends_menaka, menaka)
+(menaka, sent_by, indra)
+(viswamitra, captivated_by, menaka)
+
+(viswamitra, performs_austerities, canto_lxiii)
+(brahma, visits_viswamitra, canto_lxiii)
+(menaka, bathes_at_puskara, canto_lxiii)
+(viswamitra, spends_time_with_menaka, canto_lxiii)
+(viswamitra, realizes_divine_scheme, canto_lxiii)
+(viswamitra, resumes_austerities, canto_lxiii)
+jai_balayya_ew
+jai_balayya_ew
+viswamitra, felt_remorse_and_regret, indulged_with_menaka
+viswamitra, realized_manipulation, gods_plot
+viswamitra, dismissed, menaka
+viswamitra, journeyed_to, himalayas
+viswamitra, practiced, intense_austerities
+viswamitra, achieved, title_of_maharsi
+viswamitra, desired, title_of_brahmarsi
+viswamitra, continued, arduous_austerities
+gods, appealed_to, brahma
+brahma, granted, title_of_maharsi
+brahma, encouraged, viswamitra
+indra, concerned_about, viswamitra_austerities
+viswamitra, is_in, canto_lxiii
+brahma, is_in, canto_lxiii
+menaka, is_in, canto_lxiii
+indra, is_in, canto_lxiii
+
+viswamitra, renewed, austerities
+viswamitra, rewarded_with, maharsi_status
+viswamitra, enamoured_by, menaka
+indra, deputed, menaka
+viswamitra, enjoyed_life_with, menaka
+brahma, rewarded, viswamitra
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, continued_austerities, brahma_departure)
+(viswamitra, performed_austerities, puskara)
+(viswamitra, achieved_status, rsi)
+(viswamitra, enamoured_with, menaka)
+(indra, deputed, menaka)
+(viswamitra, retired_to, himalayas)
+(viswamitra, achieved_status, maharsi)
+(brahma, rewarded, viswamitra)
+(viswamitra, is_in, canto_lxiii)
+(brahma, is_in, canto_lxiii)
+(menaka, is_in, canto_lxiii)
+(indra, is_in, canto_lxiii)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(indra, tasked, rambha)
+(rambha, expressed_apprehension_to, indra)
+(indra, reassured, rambha)
+(indra, disguised_as, cuckoo)
+(rambha, approached, viswamitra)
+(viswamitra, cursed, rambha)
+(rambha, turned_into, stone)
+(indra, fled, canto_lxiv)
+(kamadeva, fled, canto_lxiv)
+
+(viswamitra, disrupted_meditation, canto_lxiv)
+(rambha, cursed_by_viswamitra, canto_lxiv)
+
+
+(viswamitra, is_in, canto_lxiv)
+(rambha, is_in, canto_lxiv)
+(indra, is_in, canto_lxiv)
+(kamadeva, is_in, canto_lxiv)
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, cursed, rambha)
+(rambha, seduced, viswamitra)
+(indra, sent, rambha)
+(viswamitra, is_in, canto_lxiv)
+(rambha, is_in, canto_lxiv)
+(indra, is_in, canto_lxiv)
+(kamadeva, is_in, canto_lxiv)
+(viswamitra, performed_austerities, canto_lxiv)
+(rambha, turned_to_stone, canto_lxiv)
+(indra, fled, canto_lxiv)
+(kamadeva, fled, canto_lxiv)
+
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, performed, intense_austerities)
+(viswamitra, is_in, canto_lxv)
+(viswamitra, maintained, vow_of_silence)
+(viswamitra, offered, food_to_brahmin)
+(viswamitra, endured, temptations_provocations)
+(viswamitra, achieved, brahmarsi_title)
+(indra, disguised_as, brahmin)
+(indra, requested, food)
+(brahma, conferred, brahmarsi_title)
+(vasistha, recognized, brahmarsi_title)
+(janaka, worshipped, viswamitra)
+(janaka, returned, palace)
+(janaka, is_in, canto_lxv)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, escalating_ascetic_power, troubled_gods)
+(viswamitra, austerities, chaos)
+(viswamitra, unfulfilled_desires, destroy_universe)
+(brahma, intervene, appease_viswamitra)
+(gods, grant_boon, viswamitra)
+(brahma, hailed, viswamitra)
+(gods, granted_longevity, viswamitra)
+(viswamitra, requested, sacred_syllable_om)
+(viswamitra, requested, vedas)
+(viswamitra, requested, acknowledgement_from_vasistha)
+(vasistha, is_son_of, brahma)
+(vasistha, acknowledged, viswamitra)
+(vasistha, befriended, viswamitra)
+(viswamitra, honored, vasistha)
+(viswamitra, is_in, canto_lxv)
+(brahma, is_in, canto_lxv)
+(vasistha, is_in, canto_lxv)
+(gods, is_in, canto_lxv)
+(janaka, is_in, canto_lxv)
+(janaka, worshipped, viswamitra)
+(janaka, returned, palace)
+(viswamitra, canto_lxv, conferred_title_brahmarsi)
+(vasistha, canto_lxv, recognizes_brahmarsi_title)
+
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, received_brahmarishi_title, brahma)
+(viswamitra, received_brahmarishi_title, gods)
+(viswamitra, desired_sacred_syllable, om)
+(viswamitra, desired_knowledge, vedas)
+(viswamitra, desired_recognition_from, vasistha)
+(vasistha, accepted_elevated_status, viswamitra)
+(viswamitra, honored, vasistha)
+(viswamitra, performed, ascetic_practices)
+(satananda, narrated_story, viswamitra)
+(janaka, impressed_by, viswamitra_story)
+(janaka, grateful_to, viswamitra)
+(janaka, performed, evening_rituals)
+(janaka, requested_meeting, viswamitra)
+(janaka, circumambulated, viswamitra)
+(viswamitra, granted_permission, janaka)
+
+(viswamitra, context_canto_65, received_brahmarishi_title)
+(vasistha, context_canto_65, recognized_viswamitra_status)
+(janaka, context_canto_65, learned_viswamitra_story)
+
+(viswamitra, is_in, canto_65)
+(vasistha, is_in, canto_65)
+(janaka, is_in, canto_65)
+(brahma, is_in, canto_65)
+(satananda, is_in, canto_65)
+(gods, is_in, canto_65)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(janaka, is_in, canto_lXV)
+(viswamitra, is_in, canto_lXV)
+(rama, is_in, canto_lXV)
+(lakshmana, is_in, canto_lXV)
+(janaka, requests_meeting, viswamitra)
+(viswamitra, grants_permission, janaka)
+(janaka, departs, kingdom)
+(viswamitra, returns_dwelling, hermitage)
+(janaka, related_in_canto_lxv, viswamitra)
+(janaka, related_in_canto_lxv, rama)
+(janaka, related_in_canto_lxv, lakshmana)
+(viswamitra, related_in_canto_lxv, rama)
+(viswamitra, related_in_canto_lxv, lakshmana)
+(rama, related_in_canto_lxv, lakshmana)
+(rama, accompanies, viswamitra)
+(lakshmana, accompanies, viswamitra)
+(viswamitra, continues_austerities, forest)
+(brahma, confers_title, viswamitra)
+(vasistha, recognizes_title, viswamitra)
+(janaka, worships, viswamitra)
+(janaka, returns, palace)
+
+jai_balayya_ew
+jai_balayya_ew
+(janaka, welcomed, viswamitra)
+(janaka, welcomed, rama)
+(janaka, welcomed, lakshmana)
+(janaka, is_father_of, sita)
+(sita, is_daughter_of, janaka)
+(rama, is_brother_of, lakshmana)
+(lakshmana, is_brother_of, rama)
+(viswamitra, is_mentor_of, rama)
+(viswamitra, is_mentor_of, lakshmana)
+(janaka, offered_services_to, viswamitra)
+(rama, wished_to_see_bow, bow)
+(lakshmana, wished_to_see_bow, bow)
+(janaka, showed_bow_to, rama)
+(janaka, showed_bow_to, lakshmana)
+(janaka, narrates_history_of, bow)
+(devarata, possessed, bow)
+(shiva, threatened_gods_with, bow)
+(janaka, found, sita)
+(janaka, raised, sita)
+(janaka, pledges_sita_to, rama)
+
+
+(janaka, explains_bow_history, bow_history)
+(janaka, explains_sita_origin, sita_origin)
+(rama, request_to_see_bow, bow_viewing)
+(viswamitra, explains_rama_request, bow_viewing)
+
+(janaka, is_in, canto_lxvi)
+(viswamitra, is_in, canto_lxvi)
+(rama, is_in, canto_lxvi)
+(lakshmana, is_in, canto_lxvi)
+(sita, is_in, canto_lxvi)
+(shiva, is_in, canto_lxvi)
+(devarata, is_in, canto_lxvi)
+jai_balayya_ew
+jai_balayya_ew
+(janaka, received_army_from, gods)
+(janaka, defeated, kings)
+(janaka, showed_bow_to, rama)
+(janaka, showed_bow_to, lakshmana)
+(janaka, promised_sita_to, rama)
+(sita, promised_to, rama)
+(rama, will_marry, sita)
+(rama, related_in_canto_66, lakshmana)
+(rama, related_in_canto_66, sita)
+(rama, related_in_canto_66, janaka)
+(lakshmana, related_in_canto_66, rama)
+(lakshmana, related_in_canto_66, sita)
+(lakshmana, related_in_canto_66, janaka)
+(sita, related_in_canto_66, rama)
+(sita, related_in_canto_66, lakshmana)
+(sita, related_in_canto_66, janaka)
+(viswamitra, informed, janaka)
+(janaka, is_in, canto_66)
+(rama, is_in, canto_66)
+(lakshmana, is_in, canto_66)
+(sita, is_in, canto_66)
+(viswamitra, is_in, canto_66)
+(janaka, told_story_to, viswamitra)
+(rama, saw_bow, canto_66)
+(lakshmana, saw_bow, canto_66)
+(janaka, got_bow, canto_66)
+
+jai_balayya_ew
+jai_balayya_ew
+(janaka, received_boon_from, gods)
+(janaka, defeated, enemy_kings)
+(janaka, has_daughter, sita)
+(sita, is_daughter_of, janaka)
+(rama, wants_to_see, bow)
+(lakshmana, wants_to_see, bow)
+(janaka, owns, bow)
+(janaka, will_give_sita_to, rama)
+(rama, might_marry, sita)
+(viswamitra, informed, janaka)
+(janaka, told, viswamitra)
+
+(janaka, display_of_bow, canto_lxvi)
+(sita, birth_story, canto_lxvi)
+(rama, potential_marriage, canto_lxvi)
+(lakshmana, visit_to_janaka, canto_lxvi)
+(viswamitra, visit_to_janaka, canto_lxvi)
+
+(janaka, is_in, canto_lxvi)
+(sita, is_in, canto_lxvi)
+(rama, is_in, canto_lxvi)
+(lakshmana, is_in, canto_lxvi)
+(viswamitra, is_in, canto_lxvi)
+(gods, is_in, canto_lxvi)
+(enemy_kings, is_in, canto_lxvi)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, related_in_canto_67, viswamitra)
+(rama, related_in_canto_67, janaka)
+(rama, related_in_canto_67, lakshmana)
+(viswamitra, related_in_canto_67, janaka)
+(viswamitra, related_in_canto_67, lakshmana)
+(janaka, related_in_canto_67, lakshmana)
+
+(rama, requested_by_viswamitra, view_bow)
+(janaka, ordered_by_viswamitra, bring_bow)
+(counselors, ordered_by_janaka, bring_bow)
+(rama, instructed_by_viswamitra, view_bow)
+(rama, attempts, string_bow)
+(rama, breaks, bow)
+(janaka, sends_counselors, invite_dasaratha)
+(janaka, plans, wedding)
+
+(rama, is_in, canto_67)
+(viswamitra, is_in, canto_67)
+(janaka, is_in, canto_67)
+(lakshmana, is_in, canto_67)
+(dasaratha, is_in, canto_67)
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, broke_the_bow, canto_lxvii)
+(janaka, offered_sita, canto_lxvii)
+(viswamitra, urged_rama, canto_lxvii)
+(rama, is_in, canto_lxvii)
+(lakshmana, is_in, canto_lxvii)
+(janaka, is_in, canto_lxvii)
+(viswamitra, is_in, canto_lxvii)
+(dasaratha, is_in, canto_lxvii)
+(sita, is_in, canto_lxvii)
+(rama, related_in_canto_lxvii, lakshmana)
+(rama, related_in_canto_lxvii, viswamitra)
+(rama, related_in_canto_lxvii, janaka)
+(rama, related_in_canto_lxvii, sita)
+(rama, related_in_canto_lxvii, dasaratha)
+(lakshmana, related_in_canto_lxvii, viswamitra)
+(lakshmana, related_in_canto_lxvii, janaka)
+(lakshmana, related_in_canto_lxvii, sita)
+(lakshmana, related_in_canto_lxvii, dasaratha)
+(janaka, related_in_canto_lxvii, sita)
+(janaka, father_of, sita)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(janaka, seeks_blessing_from, viswamitra)
+(janaka, sends_counselors_to, dasaratha)
+(rama, broke, shiva_dhanush)
+(rama, won, sita_hand_in_marriage)
+(rama, is_under_care_of, viswamitra)
+(lakshmana, is_under_care_of, viswamitra)
+(viswamitra, urged, rama)
+(sita, is_daughter_of, janaka)
+(rama, is_husband_of, sita)
+(rama, is_in, canto_lxvii)
+(sita, is_in, canto_lxvii)
+(janaka, is_in, canto_lxvii)
+(dasaratha, is_in, canto_lxvii)
+(viswamitra, is_in, canto_lxvii)
+(lakshmana, is_in, canto_lxvii)
+(rama, breaks_bow, bow_breaking_ceremony)
+(janaka, arranges, wedding)
+(rama, participates_in, bow_breaking_ceremony)
+(sita, participates_in, swayamvara)
+
+
+
+jai_balayya_ew
+jai_balayya_ew
+(janaka, requested_permission_from, dasarath)
+(sita, is_wife_of, rama)
+(rama, broke, shiva's_bow)
+(rama, won_hand_of, sita)
+(dasarath, is_father_of, rama)
+(dasarath, is_father_of, lakshmana)
+(janaka, is_father_of, sita)
+(janaka, invited, dasarath)
+(dasarath, consulted, vasistha)
+(rama, related_in_canto_68, lakshmana)
+(rama, related_in_canto_68, sita)
+(rama, related_in_canto_68, janaka)
+(rama, related_in_canto_68, dasarath)
+(rama, related_in_canto_68, viswamitra)
+(lakshmana, related_in_canto_68, sita)
+
+
+(rama, broke_shiva's_bow, canto_68)
+(rama, won_sita's_hand, canto_68)
+(janaka, invited_dasarath_to_wedding, canto_68)
+(dasarath, consulted_vasistha, canto_68)
+
+(rama, is_in, canto_68)
+(sita, is_in, canto_68)
+(janaka, is_in, canto_68)
+(dasarath, is_in, canto_68)
+(lakshmana, is_in, canto_68)
+(viswamitra, is_in, canto_68)
+(vasistha, is_in, canto_68)
+
+
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, broke_shiva_bow, sita_marriage_ceremony)
+(rama, won_sita_hand, sita_marriage_ceremony)
+(janaka, invited_dasaratha, sita_marriage_ceremony)
+(dasaratha, consulted_vasistha, sita_marriage_ceremony)
+(dasaratha, decided_mithila_journey, sita_marriage_ceremony)
+(rama, is_son_of, dasaratha)
+(lakshmana, is_brother_of, rama)
+(sita, is_daughter_of, janaka)
+(sita, is_wife_of, rama)
+(viswamitra, is_mentor_of, rama)
+(vasistha, is_advisor_of, dasaratha)
+(vamadeva, is_advisor_of, dasaratha)
+(dasaratha, related_in_canto_68, rama)
+(dasaratha, related_in_canto_68, lakshmana)
+(dasaratha, related_in_canto_68, janaka)
+(dasaratha, related_in_canto_68, sita)
+(dasaratha, related_in_canto_68, viswamitra)
+(dasaratha, related_in_canto_68, vasistha)
+(dasaratha, related_in_canto_68, vamadeva)
+(rama, is_in, canto_68)
+(lakshmana, is_in, canto_68)
+(dasaratha, is_in, canto_68)
+(janaka, is_in, canto_68)
+(sita, is_in, canto_68)
+(viswamitra, is_in, canto_68)
+(vasistha, is_in, canto_68)
+(vamadeva, is_in, canto_68)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(dasaratha, instructed, sumanthra)
+(dasaratha, father_of, rama)
+(dasaratha, father_of, lakshmana)
+(dasaratha, king_of, ayodhya)
+(janaka, father_of, sita)
+(janaka, king_of, mithila)
+(sita, wife_of, rama)
+(rama, brother_of, lakshmana)
+(vasistha, teacher_of, rama)
+(dasaratha, proceeds_to_mithila, wedding_preparations)
+(janaka, welcomes, dasaratha)
+(janaka, mentions, sita_marriage)
+(dasaratha, is_in, canto_lxix)
+(janaka, is_in, canto_lxix)
+(rama, is_in, canto_lxix)
+(lakshmana, is_in, canto_lxix)
+(sita, is_in, canto_lxix)
+(sumanthra, is_in, canto_lxix)
+(vasistha, is_in, canto_lxix)
+
+jai_balayya_ew
+jai_balayya_ew
+(dasaratha, agreed_to_wedding, janaka)
+(janaka, impressed_by, dasaratha)
+(rama, is_son_of, dasaratha)
+(lakshmana, is_son_of, dasaratha)
+(rama, is_brother_of, lakshmana)
+(lakshmana, is_brother_of, rama)
+(sita, is_daughter_of, janaka)
+(urmila, is_daughter_of, janaka)
+(sita, is_sister_of, urmila)
+(urmila, is_sister_of, sita)
+(rama, paid_respects_to, dasaratha)
+(lakshmana, paid_respects_to, dasaratha)
+(viswamitra, led, rama)
+(viswamitra, led, lakshmana)
+(dasaratha, hosted_by, janaka)
+(janaka, completed_sacrificial_rites, sita)
+(janaka, completed_sacrificial_rites, urmila)
+(rama, related_in_canto_lxix, lakshmana)
+(rama, related_in_canto_lxix, dasaratha)
+(rama, related_in_canto_lxix, janaka)
+(rama, related_in_canto_lxix, viswamitra)
+(rama, proceeds_to_mithila, wedding)
+(dasaratha, proceeds_to_mithila, wedding)
+(janaka, receives_guests, mithila)
+
+(rama, is_in, canto_lxix)
+(lakshmana, is_in, canto_lxix)
+(dasaratha, is_in, canto_lxix)
+(janaka, is_in, canto_lxix)
+(viswamitra, is_in, canto_lxix)
+(sita, is_in, canto_lxix)
+(urmila, is_in, canto_lxix)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(janaka, is_brother_of, kusadhvaja)
+(janaka, instructs_priest_to_summon_brother, kusadhvaja_arrival)
+(janaka, is_in, canto_lxx)
+(kusadhvaja, is_brother_of, janaka)
+(kusadhvaja, resides_in, sankasya)
+(kusadhvaja, travels_to_mithila, wedding_invitation)
+(kusadhvaja, is_in, canto_lxx)
+(satananda, is_priest_of, janaka)
+(satananda, is_in, canto_lxx)
+(sudamana, is_counselor_of, janaka)
+(sudamana, is_counselor_of, kusadhvaja)
+(sudamana, invites_dasaratha, dasaratha_arrival)
+(sudamana, is_in, canto_lxx)
+(dasaratha, travels_to_mithila, wedding_invitation)
+(dasaratha, requests_lineage_recitation, vasistha_narration)
+(dasaratha, is_in, canto_lxx)
+(vasistha, recounts_ikshvaku_lineage, lineage_narration)
+(vasistha, is_in, canto_lxx)
+(ikshvaku, is_ancestor_of, dasaratha)
+(ikshvaku, first_king_of, ayodhya)
+jai_balayya_ew
+jai_balayya_ew
+(dasaratha, is_in, canto_lxx)
+(janaka, is_in, canto_lxx)
+(vasistha, is_in, canto_lxx)
+(kusadhvaja, is_in, canto_lxx)
+(asita, is_in, canto_lxx)
+(kalindi, is_in, canto_lxx)
+(cyavana, is_in, canto_lxx)
+(sagara, is_in, canto_lxx)
+(bhagiratha, is_in, canto_lxx)
+(ikshvaku, is_in, canto_lxx)
+
+(janaka, brother, kusadhvaja)
+(kusadhvaja, brother, janaka)
+(kalindi, wife, asita)
+(sagara, son, kalindi)
+(asita, husband, kalindi)
+(ikshvaku, descendant, manu)
+(bhagiratha, descendant, ikshvaku)
+
+
+(dasaratha, visits_mithila, meets_janaka)
+(vasistha, recounts_lineage, ikshvaku_dynasty)
+(asita, defeated_in_battle, flees_himalayas)
+(kalindi, poisoned_by_co_wife, gives_birth_to_sagara)
+(cyavana, prophesies_to_kalindi, sagara_birth)
+
+jai_balayya_ew
+jai_balayya_ew
+(vasistha, related_in_canto_70, rama)
+(vasistha, related_in_canto_70, lakshmana)
+(vasistha, related_in_canto_70, janaka)
+(vasistha, related_in_canto_70, dasaratha)
+(vasistha, recounts_ikshvaku_lineage, canto_70)
+(vasistha, requests_janaka_daughters, canto_70)
+(rama, is_in, canto_70)
+(lakshmana, is_in, canto_70)
+(janaka, is_in, canto_70)
+(kushadhwaja, is_in, canto_70)
+(dasaratha, is_in, canto_70)
+
+(dasaratha, father_of, rama)
+(dasaratha, father_of, lakshmana)
+(janaka, brother_of, kushadhwaja)
+(asita, related_in_canto_70, kalindi)
+(kalindi, wife_of, asita)
+(cyavana, related_in_canto_70, kalindi)
+(asita, related_in_canto_70, cyavana)
+
+
+(asita, fled_to_himalayas, canto_70)
+(kalindi, poisoned_by_co_wife, canto_70)
+(cyavana, foretold_son_birth, canto_70)
+(janaka, meets_dasaratha, canto_70)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(vasistha, is_in, canto_lxx)
+(janaka, is_in, canto_lxx)
+(dasaratha, is_in, canto_lxx)
+(rama, is_in, canto_lxx)
+(lakshmana, is_in, canto_lxx)
+(kushadhwaja, is_in, canto_lxx)
+
+(sagara, context_birth, miraculously_unharmed_by_poison)
+(vasistha, context_narration, recounts_ikshvaku_lineage)
+(janaka, context_proposal, offers_daughters_in_marriage)
+(dasaratha, context_meeting, meets_janaka)
+
+(dasaratha, is_father_of, rama)
+(dasaratha, is_father_of, lakshmana)
+(aja, is_father_of, dasaratha)
+(raghu, is_father_of, pravrdha)
+(pravrdha, is_father_of, sankhana)
+(sankhana, is_father_of, sudarsana)
+(sudarsana, is_father_of, agnivarna)
+(sigghraga, is_father_of, maru)
+(maru, is_father_of, prasusruka)
+(prasusruka, is_father_of, ambarisa)
+(ambarisa, is_father_of, nahusa)
+(nahusa, is_father_of, yayati)
+(yayati, is_father_of, nabhaga)
+(nabhaga, is_father_of, aja)
+(janaka, is_father_of, sita)
+(janaka, is_brother_of, kushadhwaja)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(janaka, is_in, canto_1)
+(vasistha, is_in, canto_1)
+(nimi, is_in, canto_1)
+(mithi, is_in, canto_1)
+(udavasu, is_in, canto_1)
+(nandivardhana, is_in, canto_1)
+(hraswaroma, is_in, canto_1)
+(kusadhwaja, is_in, canto_1)
+
+(janaka, recounts_lineage, giving_daughter_in_marriage)
+(janaka, details_family_history, kingship)
+
+(janaka, is_son_of, hraswaroma)
+(kusadhwaja, is_son_of, hraswaroma)
+(janaka, is_brother_of, kusadhwaja)
+(kusadhwaja, is_brother_of, janaka)
+(hraswaroma, is_father_of, janaka)
+(hraswaroma, is_father_of, kusadhwaja)
+(janaka, is_related_in_canto_1, nimi)
+(janaka, is_related_in_canto_1, mithi)
+(janaka, is_related_in_canto_1, udavasu)
+(janaka, is_related_in_canto_1, nandivardhana)
+(janaka, is_related_in_canto_1, suketu)
+(janaka, is_related_in_canto_1, devarata)
+
+jai_balayya_ew
+jai_balayya_ew
+(janaka, is_son_of, hraswaroma)
+(hraswaroma, is_son_of, swararoma)
+(swararoma, is_son_of, maharoma)
+(janaka, is_brother_of, kushadhwaja)
+(kushadhwaja, is_brother_of, janaka)
+(janaka, inherited_throne, mithila)
+(janaka, is_guardian_of, kushadhwaja)
+(sita, is_daughter_of, janaka)
+(urmila, is_daughter_of, janaka)
+(rama, is_husband_of, sita)
+(lakshmana, is_husband_of, urmila)
+(sita, is_wife_of, rama)
+(urmila, is_wife_of, lakshmana)
+(janaka, defeated, sudhanva)
+(sudhanva, attacked, mithila)
+(janaka, installed_ruler, kushadhwaja)
+(kushadhwaja, ruled, sankasya)
+(janaka, offered_daughters, rama_lakshmana)
+(janaka, is_in, canto_1)
+(hraswaroma, is_in, canto_1)
+(swararoma, is_in, canto_1)
+(maharoma, is_in, canto_1)
+(kushadhwaja, is_in, canto_1)
+(sita, is_in, canto_1)
+(urmila, is_in, canto_1)
+(rama, is_in, canto_1)
+(lakshmana, is_in, canto_1)
+(sudhanva, is_in, canto_1)
+(dasaratha, is_in, canto_1)
+
+
+
+jai_balayya_ew
+jai_balayya_ew
+(janaka, advises, dasaratha)
+(dasaratha, father_of, rama)
+(dasaratha, father_of, lakshmana)
+(rama, brother_of, lakshmana)
+(lakshmana, brother_of, rama)
+(janaka, recommends_gifts_for, rama)
+(janaka, recommends_gifts_for, lakshmana)
+(janaka, discusses_wedding_of, rama)
+(rama, is_in, canto_unknown)
+(lakshmana, is_in, canto_unknown)
+(janaka, is_in, canto_unknown)
+(dasaratha, is_in, canto_unknown)
+jai_balayya_ew
+jai_balayya_ew
+(visvamitra, related_in_canto_72, vasistha)
+(visvamitra, related_in_canto_72, janaka)
+(vasistha, related_in_canto_72, janaka)
+(sita, is_wife_of, rama)
+(urmila, is_wife_of, lakshmana)
+(rama, is_husband_of, sita)
+(lakshmana, is_husband_of, urmila)
+(kusadhvaja, is_father_of, bharata)
+(kusadhvaja, is_father_of, satrughna)
+(bharata, is_brother_of, satrughna)
+(satrughna, is_brother_of, bharata)
+(dasaratha, is_father_of, rama)
+(dasaratha, is_father_of, lakshmana)
+(dasaratha, is_father_of, bharata)
+(dasaratha, is_father_of, satrughna)
+(rama, is_brother_of, lakshmana)
+(rama, is_brother_of, bharata)
+(rama, is_brother_of, satrughna)
+(lakshmana, is_brother_of, rama)
+(lakshmana, is_brother_of, bharata)
+(lakshmana, is_brother_of, satrughna)
+(bharata, is_brother_of, rama)
+(bharata, is_brother_of, lakshmana)
+(satrughna, is_brother_of, rama)
+(satrughna, is_brother_of, lakshmana)
+
+
+(rama, marriage_proposal, canto_72)
+(lakshmana, marriage_proposal, canto_72)
+(bharata, marriage_proposal, canto_72)
+(satrughna, marriage_proposal, canto_72)
+(sita, marriage_proposal, canto_72)
+(urmila, marriage_proposal, canto_72)
+(janaka, accepts_marriage_proposal, canto_72)
+(dasaratha, performs_nandisraddha, canto_72)
+(rama, performs_samavartana, canto_72)
+(lakshmana, performs_samavartana, canto_72)
+(bharata, performs_samavartana, canto_72)
+(satrughna, performs_samavartana, canto_72)
+
+
+(visvamitra, is_in, canto_72)
+(vasistha, is_in, canto_72)
+(janaka, is_in, canto_72)
+(sita, is_in, canto_72)
+(urmila, is_in, canto_72)
+(rama, is_in, canto_72)
+(lakshmana, is_in, canto_72)
+(bharata, is_in, canto_72)
+(satrughna, is_in, canto_72)
+(dasaratha, is_in, canto_72)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(dasaratha, finalized_marriage, rama)
+(dasaratha, finalized_marriage, lakshmana)
+(dasaratha, finalized_marriage, bharata)
+(dasaratha, finalized_marriage, shatrughna)
+(rama, is_son_of, dasaratha)
+(lakshmana, is_son_of, dasaratha)
+(bharata, is_son_of, dasaratha)
+(shatrughna, is_son_of, dasaratha)
+(janaka, is_father_of, sita)
+(sita, is_wife_of, rama)
+(dasaratha, performed_samvartana_ceremony, rama)
+(dasaratha, performed_samvartana_ceremony, lakshmana)
+(dasaratha, performed_samvartana_ceremony, bharata)
+(dasaratha, performed_samvartana_ceremony, shatrughna)
+(bharata, is_husband_of, mandavi)
+(shatrughna, is_husband_of, shrutakirti)
+(kushadhwaja, is_father_of, mandavi)
+(kushadhwaja, is_father_of, shrutakirti)
+(vasistha, requested_marriage, bharata)
+(vasistha, requested_marriage, shatrughna)
+(viswamitra, requested_marriage, bharata)
+(viswamitra, requested_marriage, shatrughna)
+
+
+(dasaratha, marriage_arrangements, finalized_marriage)
+(janaka, accepted_proposal, marriage_ceremony)
+(dasaratha, performed_rites, shraddha_rites)
+(dasaratha, sons_returned, lodging)
+(dasaratha, sons_ceremony, samavartana_ceremony)
+(vasistha, requested_daughters, marriage)
+(viswamitra, requested_daughters, marriage)
+(janaka, accepted_proposal, daughters_marriage)
+(dasaratha, performed_rite, samavartana)
+(dasaratha, performed_rite, nandisraddha)
+
+
+
+(dasaratha, is_in, canto_lxxii)
+(rama, is_in, canto_lxxii)
+(janaka, is_in, canto_lxxii)
+(vasistha, is_in, canto_lxxii)
+(viswamitra, is_in, canto_lxxii)
+(lakshmana, is_in, canto_lxxii)
+(bharata, is_in, canto_lxxii)
+(shatrughna, is_in, canto_lxxii)
+(kushadhwaja, is_in, canto_lxxii)
+
+
+jai_balayya_ew
+
+jai_balayya_ew
+(dasaratha, gifted_cows, brahmins)
+(dasaratha, performed, nandi_sraddha)
+(dasaratha, is_father_of, rama)
+(dasaratha, is_father_of, bharata)
+(dasaratha, is_father_of, lakshmana)
+(dasaratha, is_father_of, shatrughna)
+(rama, is_brother_of, bharata)
+(rama, is_brother_of, lakshmana)
+(rama, is_brother_of, shatrughna)
+(bharata, is_brother_of, lakshmana)
+(bharata, is_brother_of, shatrughna)
+(lakshmana, is_brother_of, shatrughna)
+(rama, completed, samavartana_ceremony)
+(bharata, completed, samavartana_ceremony)
+(lakshmana, completed, samavartana_ceremony)
+(shatrughna, completed, samavartana_ceremony)
+(kushadhwaja, is_father_of, bharata_wife)
+(kushadhwaja, is_father_of, shatrughna_wife)
+(bharata, married_daughter_of, kushadhwaja)
+(shatrughna, married_daughter_of, kushadhwaja)
+(vasistha, requested, daughters_of_kushadhwaja)
+(viswamitra, requested, daughters_of_kushadhwaja)
+(janaka, accepted, marriage_proposal)
+(dasaratha, is_in, canto_lxxii)
+(rama, is_in, canto_lxxii)
+(bharata, is_in, canto_lxxii)
+(lakshmana, is_in, canto_lxxii)
+(shatrughna, is_in, canto_lxxii)
+(vasistha, is_in, canto_lxxii)
+(viswamitra, is_in, canto_lxxii)
+(janaka, is_in, canto_lxxii)
+(kushadhwaja, is_in, canto_lxxii)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(yudhajit, is_uncle_of, bharata)
+(yudhajit, father_of, bharata, related_in_canto_73)
+(dasaratha, is_father_of, rama)
+(dasaratha, is_father_of, bharata)
+(rama, is_brother_of, bharata)
+(janaka, is_father_of, sita)
+(yudhajit, traveled_to_mithila, to_witness_wedding)
+(dasaratha, performed_samavartana_ceremony, canto_73)
+(rama, wedding_preparations, canto_73)
+(yudhajit, is_in, canto_73)
+(dasaratha, is_in, canto_73)
+(bharata, is_in, canto_73)
+(rama, is_in, canto_73)
+(janaka, is_in, canto_73)
+(vasistha, is_in, canto_73)
+(sita, is_in, canto_73)
+
+jai_balayya_ew
+jai_balayya_ew
+(king_dasaratha, is_father_of, rama)
+(king_dasaratha, is_in_canto, canto_unknown)
+(rama, is_son_of, king_dasaratha)
+(rama, is_in_canto, canto_unknown)
+(sita, is_wife_of, rama)
+(sita, is_in_canto, canto_unknown)
+(rama, is_husband_of, sita)
+(janaka, is_father_of, sita)
+(janaka, is_in_canto, canto_unknown)
+(sita, is_daughter_of, janaka)
+(vasistha, related_in_canto_unknown, king_dasaratha)
+(vasistha, related_in_canto_unknown, rama)
+(vasistha, related_in_canto_unknown, sita)
+(vasistha, related_in_canto_unknown, janaka)
+(vasistha, is_in_canto, canto_unknown)
+(viswamitra, related_in_canto_unknown, vasistha)
+(viswamitra, is_in_canto, canto_unknown)
+(satananda, related_in_canto_unknown, vasistha)
+(satananda, is_in_canto, canto_unknown)
+(rama, wedding_ceremony, sita_wedding)
+(sita, wedding_ceremony, sita_wedding)
+(king_dasaratha, awaits_permission, wedding_ceremony)
+(janaka, grants_permission, wedding_ceremony)
+(vasistha, conducts, wedding_ceremony)
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, wedding, sita)
+(janaka, gave_away, sita)
+(sita, wife_of, rama)
+(rama, husband_of, sita)
+(lakshmana, husband_of, urmila)
+(urmila, wife_of, lakshmana)
+(bharata, husband_of, mandavi)
+(mandavi, wife_of, bharata)
+(shatrughna, husband_of, shrutakirti)
+(shrutakirti, wife_of, shatrughna)
+(janaka, father_of, sita)
+(sita, daughter_of, janaka)
+(rama, is_in, canto_7)
+(sita, is_in, canto_7)
+(janaka, is_in, canto_7)
+(lakshmana, is_in, canto_7)
+(urmila, is_in, canto_7)
+(bharata, is_in, canto_7)
+(mandavi, is_in, canto_7)
+(shatrughna, is_in, canto_7)
+(shrutakirti, is_in, canto_7)
+(vasistha, is_in, canto_7)
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, husband_of, sita)
+(lakshmana, husband_of, urmila)
+(bharata, husband_of, mandavi)
+(shatrughna, husband_of, shrutakirti)
+(rama, son_of, dasharatha)
+(lakshmana, son_of, dasharatha)
+(bharata, son_of, dasharatha)
+(shatrughna, son_of, dasharatha)
+(sita, daughter_of, janaka)
+(rama, is_in, canto_1)
+(sita, is_in, canto_1)
+(lakshmana, is_in, canto_1)
+(bharata, is_in, canto_1)
+(shatrughna, is_in, canto_1)
+(janaka, is_in, canto_1)
+(vasistha, is_in, canto_1)
+(rama, wedding, sita)
+(lakshmana, wedding, urmila)
+(bharata, wedding, mandavi)
+(shatrughna, wedding, shrutakirti)
+
+jai_balayya_ew
+jai_balayya_ew
+(viswamitra, returns_to, hermitage)
+(dasaratha, returns_to, ayodhya)
+(janaka, gave_dowry_to, dasaratha)
+(parasurama, appears_before, dasaratha)
+(vasistha, offers_worship_to, parasurama)
+
+(dasaratha, journey_home, unsettling_omens)
+(vasistha, explains_omens_to, dasaratha)
+(parasurama, confronts, dasaratha)
+
+(viswamitra, is_in, canto_lxxiv)
+(dasaratha, is_in, canto_lxxiv)
+(janaka, is_in, canto_lxxiv)
+(parasurama, is_in, canto_lxxiv)
+(vasistha, is_in, canto_lxxiv)
+(rama, is_in, canto_lxxiv)
+(sita, is_in, canto_lxxiv)
+
+
+(rama, is_son_of, dasaratha)
+(sita, is_wife_of, rama)
+(dasaratha, is_father_of, rama)
+(vasistha, is_mentor_of, dasaratha)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(dasaratha, is_in, canto_lxxiv)
+(vasistha, is_in, canto_lxxiv)
+(parasurama, is_in, canto_lxxiv)
+(viswamitra, is_in, canto_lxxiv)
+(janaka, is_in, canto_lxxiv)
+(rama, is_in, canto_lxxiv)
+(sita, is_in, canto_lxxiv)
+
+(dasaratha, returning_to_ayodhya, wedding_procession)
+(parasurama, confronts_dasaratha, wedding_procession)
+(vasistha, offers_worship, parasurama_arrival)
+(viswamitra, departs_for_hermitage, wedding_procession)
+
+(rama, son_of, dasaratha)
+(sita, wife_of, rama)
+(vasistha, advisor_of, dasaratha)
+(parasurama, enemy_of, kshatriyas)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(parasurama, is_son_of, jamadagni)
+(rama, is_son_of, dasaratha)
+(vasistha, offered_respects_to, parasurama)
+(parasurama, addressed, rama)
+(rama, is_in, canto_lxxiv)
+(parasurama, is_in, canto_lxxiv)
+(dasaratha, is_in, canto_lxxiv)
+(vasistha, is_in, canto_lxxiv)
+(janaka, is_in, canto_lxxiv)
+(viswamitra, is_in, canto_lxxiv)
+
+(rama, returned_to_ayodhya, marriage)
+(dasaratha, returned_to_ayodhya, marriage)
+(viswamitra, returned_to_hermitage, marriage)
+(parasurama, appeared_before_dasaratha_party, marriage)
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, broke, shiva_bow)
+(parasurama, challenges, rama)
+(parasurama, father_of, jamadagni)
+(parasurama, owns, vishnu_bow)
+(rama, stringed, vishnu_bow)
+(dasaratha, pleaded_with, parasurama)
+(rama, son_of, dasaratha)
+(parasurama, gave, earth_to_kasyapa)
+(vishwakarma, crafted, shiva_bow)
+(vishwakarma, crafted, vishnu_bow)
+(shiva, used, shiva_bow)
+(vishnu, used, vishnu_bow)
+
+(rama, stringing_vishnu_bow, canto_lxxv)
+(parasurama, challenging_rama, canto_lxxv)
+(dasaratha, pleading_with_parasurama, canto_lxxv)
+
+
+(rama, is_in, canto_lxxv)
+(parasurama, is_in, canto_lxxv)
+(dasaratha, is_in, canto_lxxv)
+(shiva, is_in, canto_lxxv)
+(vishnu, is_in, canto_lxxv)
+(jamadagni, is_in, canto_lxxv)
+(kasyapa, is_in, canto_lxxv)
+(vishwakarma, is_in, canto_lxxv)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(parasurama, is_in, canto_lxxv)
+(rama, is_in, canto_lxxv)
+(shiva, is_in, canto_lxxv)
+(vishnu, is_in, canto_lxxv)
+(brahma, is_in, canto_lxxv)
+(devarata, is_in, canto_lxxv)
+(rcika, is_in, canto_lxxv)
+(jamadagni, is_in, canto_lxxv)
+(arjuna, is_in, canto_lxxv)
+(dasaratha, is_in, canto_lxxv)
+
+(parasurama, related_in_canto_lxxv, rama)
+(parasurama, related_in_canto_lxxv, shiva)
+(parasurama, related_in_canto_lxxv, vishnu)
+(parasurama, related_in_canto_lxxv, jamadagni)
+(parasurama, father_of, jamadagni)
+(rama, related_in_canto_lxxv, shiva)
+(shiva, related_in_canto_lxxv, vishnu)
+(vishnu, related_in_canto_lxxv, rcika)
+(rcika, related_in_canto_lxxv, jamadagni)
+(jamadagni, related_in_canto_lxxv, arjuna)
+
+(rama, broke_shivas_bow, canto_lxxv)
+(vishnu, defeats_shiva, canto_lxxv)
+(gods, request_peace, canto_lxxv)
+(shiva, gives_bow_to_devarata, canto_lxxv)
+(vishnu, gives_bow_to_rcika, canto_lxxv)
+(arjuna, kills_jamadagni, canto_lxxv)
+(parasurama, exterminates_kshatriyas, canto_lxxv)
+(parasurama, challenges_rama, canto_lxxv)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(parasurama, is_in, canto_lxxv)
+(rama, is_in, canto_lxxv)
+(vishnu, related_in_canto_lxxv, shiva)
+(vishnu, related_in_canto_lxxv, parasurama)
+(vishnu, related_in_canto_lxxv, rama)
+(shiva, related_in_canto_lxxv, parasurama)
+(shiva, related_in_canto_lxxv, rama)
+(dasaratha, is_in, canto_lxxv)
+(parasurama, related_in_canto_lxxv, dasaratha)
+(rama, related_in_canto_lxxv, dasaratha)
+
+(vishnu, possessed, bow)
+(shiva, possessed, bow)
+(parasurama, possessed, vishnu_bow)
+(rama, challenged_to_string, vishnu_bow)
+(rcika, received_bow_from, vishnu)
+(jamadagni, is_son_of, rcika)
+(parasurama, is_son_of, jamadagni)
+(king_arjuna, killed, jamadagni)
+(parasurama, avenged_father, king_arjuna)
+(parasurama, gave_earth_to, kasyapa)
+
+(parasurama, explains_bow_history, bow_history)
+(vishnu, fought_against, shiva)
+(gods, intervened_in_battle, vishnu_shiva_battle)
+(parasurama, challenges_rama, string_vishnu_bow)
+(king_arjuna, killed_jamadagni, jamadagni_death)
+(parasurama, annihilated_kshatriyas, kshatriya_annihilation)
+jai_balayya_ew
+jai_balayya_ew
+(rama, challenged, parasurama)
+(rama, seized_bow_and_arrow, parasurama)
+(rama, spared_parasurama, parasurama)
+(rama, is_kinsman_of, vishwamitra)
+(parasurama, is_kinsman_of, vishwamitra)
+(rama, respected, parasurama)
+(rama, displayed_power, parasurama)
+(parasurama, acknowledged_defeat, rama)
+(parasurama, retreated, mount_mahendra)
+(kashyapa, made_agreement_with, parasurama)
+
+
+(rama, confronted_parasurama, canto_lxxvi)
+(parasurama, confronted_by_rama, canto_lxxvi)
+(rama, seized_vishnus_bow, canto_lxxvi)
+(parasurama, lost_celestial_title, canto_lxxvi)
+(parasurama, went_to_mount_mahendra, canto_lxxvi)
+
+
+(rama, is_in, canto_lxxvi)
+(parasurama, is_in, canto_lxxvi)
+(vishwamitra, is_in, canto_lxxvi)
+(kashyapa, is_in, canto_lxxvi)
+(vishnu, is_in, canto_lxxvi)
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, used, vishnu_bow)
+(rama, destroyed, parasurama_celestial_rewards)
+(parasurama, requested, rama_not_impede_movement)
+(parasurama, recognized, rama_as_vishnu)
+(parasurama, departed_for, mount_mahendra)
+(parasurama, circumambulated, rama)
+(gods_rishis, praised, rama)
+(parasurama, related_in_canto_76, rama)
+
+(rama, canto_76, used_vishnu_bow)
+(rama, canto_76, destroyed_parasurama_rewards)
+(parasurama, canto_76, recognized_rama_as_vishnu)
+(parasurama, canto_76, departed_for_mount_mahendra)
+
+
+(rama, is_in, canto_76)
+(parasurama, is_in, canto_76)
+(kashyapa, is_in, canto_76)
+(vishnu, is_in, canto_76)
+
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, challenged_by, parasurama)
+(parasurama, recognizes, rama_as_vishnu)
+(rama, wields, vishnu_bow)
+(rama, ends, parasurama_ethereal_title)
+(parasurama, returned_to, mount_mahendra)
+(rama, honored, parasurama)
+
+(rama, canto_lxxvi, challenged_parasurama)
+(parasurama, canto_lxxvi, recognized_rama_as_vishnu)
+
+
+(rama, is_in, canto_lxxvi)
+(parasurama, is_in, canto_lxxvi)
+jai_balayya_ew
+jai_balayya_ew
+rama,related_in_canto_77,parasurama
+rama,related_in_canto_77,vasistha
+rama,related_in_canto_77,dasaratha
+rama,related_in_canto_77,varuna
+rama,related_in_canto_77,sita
+dasaratha,son,rama
+dasaratha,son,bharata
+bharata,brother,rama
+dasaratha,wife,kausalya
+dasaratha,wife,sumitra
+dasaratha,wife,kaikeyi
+rama,wife,sita
+bharata,wife,mandavi
+lakshmana,wife,urmila
+shatrughna,wife,shrutakirti
+rama,handed_vishnus_bow,varuna
+dasaratha,returned_to,ayodhya
+rama,is_in,canto_77
+dasaratha,is_in,canto_77
+sita,is_in,canto_77
+bharata,is_in,canto_77
+yudhajit,is_in,canto_77
+parasurama,is_in,canto_77
+vasistha,is_in,canto_77
+varuna,is_in,canto_77
+kausalya,is_in,canto_77
+sumitra,is_in,canto_77
+bharata,went_to,yudhajits_kingdom
+jai_balayya_ew
+
+jai_balayya_ew
+(king_dasaratha, is_in, canto_lxxvii)
+(kausalya, is_in, canto_lxxvii)
+(sumitra, is_in, canto_lxxvii)
+(kaikeyi, is_in, canto_lxxvii)
+(sita, is_in, canto_lxxvii)
+(urmila, is_in, canto_lxxvii)
+(mandavi, is_in, canto_lxxvii)
+(shrutakirti, is_in, canto_lxxvii)
+(bharata, is_in, canto_lxxvii)
+(shatrughna, is_in, canto_lxxvii)
+
+(king_dasaratha, is_husband_of, kausalya)
+(king_dasaratha, is_husband_of, sumitra)
+(king_dasaratha, is_husband_of, kaikeyi)
+(sita, is_wife_of, rama)
+(urmila, is_wife_of, lakshmana)
+(mandavi, is_wife_of, bharata)
+(shrutakirti, is_wife_of, shatrughna)
+(bharata, is_brother_of, shatrughna)
+(yudhajit, is_maternal_uncle_of, bharata)
+(yudhajit, is_maternal_uncle_of, shatrughna)
+
+
+(king_dasaratha, family_reunion, celebrated_by_people)
+(sita, welcoming_ceremony, participated_in_rituals)
+(urmila, welcoming_ceremony, participated_in_rituals)
+(mandavi, welcoming_ceremony, participated_in_rituals)
+(shrutakirti, welcoming_ceremony, participated_in_rituals)
+(bharata, yudhajit_arrival, departure_to_kingdom)
+(shatrughna, yudhajit_arrival, departure_to_kingdom)
+
+jai_balayya_ew
+jai_balayya_ew
+(rama, is_son_of, dasaratha)
+(lakshmana, is_son_of, dasaratha)
+(bharata, is_son_of, dasaratha)
+(shatrughna, is_son_of, dasaratha)
+(rama, is_husband_of, sita)
+(sita, is_wife_of, rama)
+(sita, is_daughter_of, janaka)
+(bharata, is_nephew_of, yudhajit)
+(shatrughna, is_nephew_of, yudhajit)
+
+(rama, returned_to_ayodhya, canto_lxxvii)
+(dasaratha, returned_to_ayodhya, canto_lxxvii)
+(bharata, departed_from_ayodhya, canto_lxxvii)
+(shatrughna, departed_from_ayodhya, canto_lxxvii)
+(rama, served_father_and_citizens, canto_lxxvii)
+(rama, spent_time_with_sita, canto_lxxvii)
+
+(rama, is_in, canto_lxxvii)
+(lakshmana, is_in, canto_lxxvii)
+(sita, is_in, canto_lxxvii)
+(dasaratha, is_in, canto_lxxvii)
+(bharata, is_in, canto_lxxvii)
+(shatrughna, is_in, canto_lxxvii)
+(parashurama, is_in, canto_lxxvii)
+(yudhajit, is_in, canto_lxxvii)
+(janaka, is_in, canto_lxxvii)
+jai_balayya_ew
