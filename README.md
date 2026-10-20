@@ -6,13 +6,14 @@ General LLMs and QA systems give imprecise, unverifiable answers on this text: t
 
 ## Branches
 
-The three branches have no shared history. `main` keeps the 2024 prototype's commits; `whole-POC` and `deploy` each start from a single snapshot commit.
+The four branches have no shared history. `main` keeps the 2024 prototype's commits; `whole-POC`, `deploy` and `experiments` each start from a single snapshot commit.
 
 | Branch | What is in it | Start here |
 | --- | --- | --- |
 | `main` | This overview, the project documents in [`docs/`](docs/), and the first prototype from August 2024 (the files at the root). | this file |
 | [`whole-POC`](https://github.com/Narasimha-3/ramayan/tree/whole-POC) | The full research workspace: the verse corpus, the text-preparation and triplet notebooks, the seven kanda knowledge graphs, the RAG index, a FastAPI + Streamlit query app, and experiments. About 20,000 files. | [`nav_for_new_user.md`](https://github.com/Narasimha-3/ramayan/blob/whole-POC/nav_for_new_user.md) |
 | [`deploy`](https://github.com/Narasimha-3/ramayan/tree/deploy) | The final retrieval engine packaged as a Docker-based MCP server, so Claude Desktop or another MCP client can query the Ramayana. The same files are published as [Narasimha-3/Ramayanam](https://github.com/Narasimha-3/Ramayanam). | [`README.md`](https://github.com/Narasimha-3/ramayan/blob/deploy/README.md) |
+| [`experiments`](https://github.com/Narasimha-3/ramayan/tree/experiments) | A later working folder with files from August 2024 to February 2025: versions of the 2024 prototype files, Neo4j knowledge-graph tests, MiniRAG and MainRAG notebooks, a newer `frontend/`, and two English Valmiki Ramayana PDFs. | no guide yet |
 
 To fetch only one branch:
 
@@ -20,7 +21,7 @@ To fetch only one branch:
 git clone --branch deploy --single-branch https://github.com/Narasimha-3/ramayan.git
 ```
 
-`whole-POC` checks out to about 430 MB and `deploy` to about 320 MB, mostly knowledge-graph and index files.
+`whole-POC` checks out to about 430 MB, `deploy` to about 320 MB and `experiments` to about 360 MB, mostly knowledge-graph and index files.
 
 ## How it works
 
